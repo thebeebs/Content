@@ -1,6 +1,13 @@
-Title:  Client requests through the years 
-Author: Martin Beeby
-Date: 2013-06-16
+<properties
+   pageTitle="Client requests through the years"
+   description="I've been a developer for over 15, years here are some of the choice requests I've had from clients in this time."
+   services="websites"
+   topic="web"
+   authors="mabeeby"
+   manager="npage"
+   editor="mabeeby" 
+   date="20150306"
+   />
 
 #Client requests through the years
 
