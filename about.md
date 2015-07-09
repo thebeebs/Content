@@ -6,7 +6,6 @@ intro: 'I’ve been a developer since I was 16. Having no garage, unlike my Amer
 tags:
 - personal
 - martinbeeby
-license: cc-by-3.0
 ---
 
 I’ve been a developer since I was 16. Having no garage, unlike my American counterparts, I began developing small sites, apps and hacks from the comfort of my bedroom. My focus back then was pretty much the same as it is now – finding new ways of solving annoying problems.
