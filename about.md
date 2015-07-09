@@ -1,11 +1,23 @@
-# Martin Beeby
+---
+title: 'Martin Beeby'
+authors:
+- bruce-lawson
+intro: 'How to make websites that work well on Opera Miniâ€”and everywhere else!'
+tags:
+- html5
+- opera-mini
+- compatibility
+- css
+- gradients
+license: cc-by-3.0
+---
 
-I’ve been a developer since I was 16. Having no garage, unlike my American counterparts, I began developing small sites, apps and hacks from the comfort of my bedroom. My focus back then was pretty much the same as it is now – finding new ways of solving annoying problems.
+Iâ€™ve been a developer since I was 16. Having no garage, unlike my American counterparts, I began developing small sites, apps and hacks from the comfort of my bedroom. My focus back then was pretty much the same as it is now â€“ finding new ways of solving annoying problems.
 
-Early on, this involved discovering how to send SMS messages for free by piggybacking on a service owned by HMV. (This was back when an SMS could cost up to 30p.) The resulting service – ZipSMS – grew to capture around 1% of all texts sent each day. It also captured HMV’s attention and, while they were surprisingly good about it, ultimately this meant the demise of that particular brainchild.
+Early on, this involved discovering how to send SMS messages for free by piggybacking on a service owned by HMV. (This was back when an SMS could cost up to 30p.) The resulting service â€“ ZipSMS â€“ grew to capture around 1% of all texts sent each day. It also captured HMVâ€™s attention and, while they were surprisingly good about it, ultimately this meant the demise of that particular brainchild.
 
-Since then, my career has followed roughly the same path – find stuff that needs fixing and then use technology to fix it. Today, I’m a Developer Evangelist for Microsoft.
+Since then, my career has followed roughly the same path â€“ find stuff that needs fixing and then use technology to fix it. Today, Iâ€™m a Developer Evangelist for Microsoft.
 
-Basically this means I spend most of my time talking to developers about new tools, languages and products we’re launching and getting their feedback. This is invaluable in ensuring we create the best products we can and that developers get the most value out of them.
+Basically this means I spend most of my time talking to developers about new tools, languages and products weâ€™re launching and getting their feedback. This is invaluable in ensuring we create the best products we can and that developers get the most value out of them.
 
-While I work across all of our technologies, my particular passion is HTML5. I regularly speak, blog and about all aspects of HTML5 development and implementation. I’ve written articles for, and been featured in, .NET Magazine, ZDNet, the Microsoft Developer Network and Windows Magazine. I’m also the editor of the Microsoft Flash Newsletter.
+While I work across all of our technologies, my particular passion is HTML5. I regularly speak, blog and about all aspects of HTML5 development and implementation. Iâ€™ve written articles for, and been featured in, .NET Magazine, ZDNet, the Microsoft Developer Network and Windows Magazine. Iâ€™m also the editor of the Microsoft Flash Newsletter.
