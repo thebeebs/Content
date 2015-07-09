@@ -2,6 +2,7 @@
 title: 'The 5 things you need to do to make your website rock on Microsoft Edge'
 authors:
 - thebeebs
+- -mkearn
 intro: 'How to make your site work with Edge.'
 tags:
 - web
