@@ -22,10 +22,12 @@ This may cause compatibility problems with how a webpage renders in Edge or othe
 
 ##Browser Detection
 Some webpages use browser detection techniques to determine how the webpage should render across many different 
-versions of browsers. We recommend using feature detection – a practice that first determines if a browser 
-or device supports a specific feature and then chooses the best experience to render based on this information.
- Feature detection is a great alternative to browser detection and is commonly used via popular JavaScript libraries 
- like Modernizr or through feature detection code.
+versions of browsers. We recommend using feature detection; a practice that first determines if a browser 
+or device supports a specific feature and then chooses the best experience to render based on this information. 
+
+Feature detection is a great alternative to browser detection and is commonly used via popular JavaScript libraries like [Modernizr](http://modernizr.com/) or through feature detection code. feature detection is often used with Polyfills to implemented modern features in older browsers that do not support them natively.
+
+For more details on how to use Modernizr, Polyfills and other compatibility techniques, see [Martin Kearn's article on 'Tune, modernise and optimise your website'](http://blogs.msdn.com/b/martinkearn/archive/2015/01/29/tune-modernise-and-optimise-your-website.aspx) 
 
 ##Get plugin free
 Because more and more browsing takes place on an ever wider variety of devices, and browsers on them, 
