@@ -16,16 +16,23 @@ problems when new browser versions are released. You should ensure you update fr
 fix compatibility problems with how your webpage renders in Edge.
 
 ## CSS Prefixes
+CSS prefixes are used by browser vendors to impement new, emerging CSS features before it has been fully ratified by W3C. If a vendor implements a CSS prefix, it will look something like the example below (this is an IE-specific implementation of the 'hypens' feature to hyphenate text accross multiplelines):
+
+`-ms-hyphens: auto;`
+
 It's really common for sites to have missing vendor-specific prefixes or 
-have implemented vendor-specific prefixes when they are not required in common CSS properties. 
-This may cause compatibility problems with how a webpage renders in Edge or other modern browsers.
+have implemented vendor-specific prefixes when they are not required in common CSS properties. This may a webpage to render incorrectly in Microsoft Edge or other modern browsers. 
+
+Browser vendors are using prefixes much less now because of the management problems associated with them, some browsers such as Microsoft Edge do not use prefixes at all. 
+
+Where possible, avoid the use of vendor-specific prefixes, however if you absolutley have to use vendors prefixes, use [Autoprefixer](https://github.com/postcss/autoprefixer) to automate the management of prefixes within your CSS.
 
 ##Browser Detection
 Some webpages use browser detection techniques to determine how the webpage should render across many different 
 versions of browsers. We recommend using feature detection; a practice that first determines if a browser 
 or device supports a specific feature and then chooses the best experience to render based on this information. 
 
-Feature detection is a great alternative to browser detection and is commonly used via popular JavaScript libraries like [Modernizr](http://modernizr.com/) or through feature detection code. feature detection is often used with Polyfills to implemented modern features in older browsers that do not support them natively.
+Feature detection is a great alternative to browser detection and is commonly used via popular JavaScript libraries like [Modernizr](http://modernizr.com/) or through feature detection code. Feature detection is often used with Polyfills to implemented modern features in older browsers that do not support them natively.
 
 For more details on how to use Modernizr, Polyfills and other compatibility techniques, see [Martin Kearn's article on 'Tune, modernise and optimise your website'](http://blogs.msdn.com/b/martinkearn/archive/2015/01/29/tune-modernise-and-optimise-your-website.aspx) 
 
