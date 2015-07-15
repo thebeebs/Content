@@ -31,9 +31,9 @@ This agenda is likely to change, but the following should give you a flavour of 
 
 ##Front End Web Day
 
-9:00 - 9:30 Keynote
 | Time        | Topic           | 
 | ------------- |-------------|	
+|9:00 - 9:30 | Keynote
 | 9:30 - 10:15 |  What's New in ES6
 | 10:15 - 11:00 |  Building with Grunt
 | 11:00 - 11:15 |  Break
