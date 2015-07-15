@@ -31,6 +31,22 @@ This agenda is likely to change, but the following should give you a flavour of 
 
 ##Front End Web Day
 
+9:00 - 9:30 Keynote
+| Time        | Topic           | 
+| ------------- |-------------|	
+| 9:30 - 10:15 |  What's New in ES6
+| 10:15 - 11:00 |  Building with Grunt
+| 11:00 - 11:15 |  Break
+| 11:15 - 12:00 |  Tooling
+| 12:00 - 12:45 |  Web Performance
+| 12:45 - 13:30 |  Lunch
+| 13:30 - 14:15 |  SPA's 
+| 14:15 - 15:00 |  Responsive Design
+| 15:00:15:15 |  Break
+| 15:15-16:00 |  Running Apps in Azure
+| 16:00- 16:45 |   Data
+
+
 ##Microsoft Platform Day
 
 | Time        | Topic           | 
