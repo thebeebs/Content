@@ -7,8 +7,8 @@ tags:
 - web
 ---
 
-| Name        | Date           | Registration  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Name        | Date           | Location  | Registration  |
+| ------------- |-------------|-----|-----|
+| Microsoft Web Platform Day		| 03/06/1982    | London  | Coming Soon  |
+| Front End Web Day					| 03/06/1982    |  London | Coming Soon  |
+| zebra stripes						| 03/06/1982    |  London | Comming Soon |
