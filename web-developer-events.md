@@ -32,6 +32,9 @@ This agenda is likely to change, but the following should give you a flavour of 
 ##Front End Web Day
 
 ##Microsoft Platform Day
+
+| Time        | Topic           | 
+| ------------- |-------------|
 |9:00 - 9:30 | Keynote - Microsoft Web Platform in 30 Minutes
 |9:30 - 10:15 | What's New in ASP.Net 5
 |10:15 - 11:00 | SignalR
