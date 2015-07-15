@@ -7,7 +7,7 @@ tags:
 - web
 ---
 
-Our upcoming Web Events. We will have registration and landing pages set up as we confirm dates and venues. If you'd like us to but on events in your town or city lets us
+Our upcoming Web Events. We will have registration and landing pages set up as we confirm dates and venues. If you'd like us to put on events in your town or city lets us
 know. Ideally we need to be able to get a crowd of at least 50, so if you think your city has enough interested developers give me a shout @thebeebs.
 
 #Rough Location List
