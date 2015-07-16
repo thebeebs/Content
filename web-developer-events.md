@@ -14,6 +14,7 @@ know. Ideally we need to be able to get a crowd of at least 50, so if you think 
 
 | Name        | Date           | Location  | Speakers  | Registration
 | ------------- |-------------|-----|-----|-----|-----|
+| Microsoft Web Platform Day (Hands on Version)	|	29th July 2015			|	Reading, Microsoft UK HQ	|Martin Beeby | Coming Soon
 | Front End Web Day				|	W/S 23 Aug 2015			|	Brighton	|Martin Beeby & Martin Kearn | Coming Soon
 | Microsoft Web Platform Day	|	W/S 23 Aug 2015			|	Brighton	|Martin Beeby & Martin Kearn | Coming Soon
 | Front End Web Day				|	W/S 14 or 24 Sep 2015	|	Manchester	|Martin Beeby & Martin Kearn | Coming Soon
