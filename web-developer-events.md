@@ -68,6 +68,8 @@ This agenda is likely to change, but the following should give you a flavour of 
 
 #Microsoft Web Platform Day (Hands on Version)
 
+A full day dedicated to the next Microsoft Web Platform. We will look at ASP.Net 5, Microsoft Edge, Visual Studio and Azure through presentations and hands on labs. You will need your laptop with Visual Studio 2015 for the labs. 
+
 | Time        | Topic           | Abstract
 | ------------- |-------------|--------------|
 |9:00 - 9:30 |Keynote - Microsoft Web Platform in 30 Minutes | We will look at the changes that are being made to the Microsoft Web Platform and why those changes are being made. We will look at the development model and introduce you to the GitHub projects where the Microsoft teams are working.
