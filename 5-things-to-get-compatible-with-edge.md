@@ -7,7 +7,7 @@ intro: 'How to make your site work with Edge.'
 tags:
 - web
 - edge
-
+---
 
 Edge is Microsoft's new We Browser. You might have known it as Project Spartan, I guess the name was chosen in part so they could keep the iconic E known from Internet Explorer and maintain the brand value.
 
