@@ -9,7 +9,7 @@ tags:
 - edge
 ---
 
-Edge is Microsoft's new We Browser. You might have known it as Project Spartan, I guess the name was chosen in part so they could keep the iconic E known from Internet Explorer and maintain the brand value.
+Edge is Microsoft's new web Browser. You might have known it as Project Spartan.
 
 Edge first appeared in the public Windows 10 10158 build, and will be the default browser in Windows 10. Since Upgrade from Windows 8 and Windows 7 will be free. You can expect there will be a fair few new users who will be hitting UK sites when It's released in July. So here are 5 ways in which you can make sure your site will run smoothly on Edge.
 
