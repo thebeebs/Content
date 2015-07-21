@@ -20,7 +20,7 @@ CSS prefixes are used by browser vendors to impement new, emerging CSS features 
 `-ms-hyphens: auto;`
 
 It's really common for sites to have missing vendor-specific prefixes or 
-have implemented vendor-specific prefixes when they are not required in common CSS properties. This may a webpage to render incorrectly in Microsoft Edge or other modern browsers. 
+have implemented vendor-specific prefixes when they are not required in common CSS properties. This may cause a webpage to render incorrectly in Microsoft Edge or other modern browsers. 
 
 Browser vendors are using prefixes much less now because of the management problems associated with them, some browsers such as Microsoft Edge do not use prefixes at all. 
 
