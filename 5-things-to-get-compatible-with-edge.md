@@ -3,7 +3,7 @@ title: 'The 5 things you need to do to make your website rock on Microsoft Edge'
 authors:
 - thebeebs
 - mkearn
-intro: 'How to make your site work with Edge.'
+intro: 'Edge is Microsoft's new web browser and will be the default browser in Windows 10. Since Upgrades from Windows 8 and 7 will be free to most users, you can expect there will be a huge influx of Edge users hitting UK sites when it's released on July 29th. So here are 5 ways in which you can make sure your site rock on Edge.'
 tags:
 - web
 - edge
