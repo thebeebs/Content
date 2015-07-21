@@ -9,10 +9,10 @@ tags:
 - edge
 ---
 
-Edge is Microsoft's new web browser and will be the default browser in Windows 10. Since Upgrades from Windows 8 and Windows 7 will be free to most users, you can expect there will be a huge influx of Edge users hitting UK sites when it's released on July 29th. So here are 5 ways in which you can make sure your site will run smoothly on Edge.
+Edge is Microsoft's new web browser and will be the default browser in Windows 10. Since Upgrades from Windows 8 and 7 will be free to most users, you can expect there will be a huge influx of Edge users hitting UK sites when it's released on July 29th. So here are 5 ways in which you can make sure your site rock on Edge.
 
 ## Update your JavaScript Libraries
-Common libraries like jQuery are often updated to address bugs when new browser versions are released. So by simply updating your JS frameworks you can avoid many compatibility bugs with Edge. In our internal research we found that 57% of the top 20,000 sites are using JavaScript frameworks that have compatibility isssues that have been fixed in newer versions of the same library. You can use the [SiteScanner here ](http://dev.modern.ie/tools/staticscan/) to determine if you are using out of date JavaScript Frameworks on your sites.
+Common libraries like jQuery are often updated to address bugs when new browser versions are released. So by simply updating your JS frameworks you can avoid many compatibility bugs with Edge. In our internal research we found that 57% of the top 20,000 sites are using JavaScript frameworks that have isssues that have been fixed in newer versions of the same library. You can use the [SiteScanner here ](http://dev.modern.ie/tools/staticscan/) to determine if you are using out of date JavaScript Frameworks on your sites.
 
 ## CSS Prefixes
 CSS prefixes are used by browser vendors to impement new, emerging CSS features before it has been fully ratified by the W3C. If a vendor implements a CSS prefix, it will look something like the example below (this is an IE-specific implementation of the 'hypens' feature to hyphenate text accross multiplelines):
