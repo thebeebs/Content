@@ -1,10 +1,8 @@
-Twice this week I've been asked how you can test older versions of Internet Explorer once whilst delivering a guest lecture at Stafford University and then just a few hours later via email. So I thought that it was probably worth while to write up the few methods I use to test sites in IE:
+The first version of this article was written over 4 years ago, but it still recives a great deal of traffic so as we approach the end of 2015 I thought it would be useful to revisit this topic.
 
 #Developer Tools
 
-Firstly IE8, IE9, IE10 and IE11 all have developer tools (just press F12 whilst in Internet Explorer) these allow you to change your document and browser mode to go back to older rendering engines such as IE6. I delivered a session on IE9 developer tools and most of this is valid for IE10 too. 
-
-With IE11 comes a new set of greatly improved tools which I will be talking about in the coming weeks, but there is a good introduction talk over at Build 
+Firstly IE8, IE9, IE10 and IE11 all have developer tools (just press F12 whilst in Internet Explorer) these allow you to change your document and browser mode to go back to older rendering engines. You can find these tools on the emulation tab in the tools. If you are using Microsoft Edge, you will notice that it dosent have different browser mdoes that you can use, this feature is only avalible in IE9-IE11 . It should be noted that these tools are not the same as the rendering engines used in the original browsers. So whilst they are useful if you are trying to reproduce a reported bug, they should not be used to confirm that your site is working correctly or looking pixel perfect in an older browser. To learn more about the devleoper tools head over to [MSDN](https://msdn.microsoft.com/en-us/library/dn255001(v=vs.85).aspx).
 
 #Modern.ie Scanner
 
