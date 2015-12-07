@@ -12,7 +12,7 @@ When you look back to 1995, having a name that gave people a clear idea of what 
 Explorer was chosen to convey the freedom and possibilities opened up by the Web. It was very much inline with Microsoft’s former tagline, “Where do you want to go today?”
 
 ##Microsoft Edge
-Whilst thinking about the naming of a new browser for Windows 10, Microsoft faced a problem. On the one hand, they wanted a name to signify this was an entirely new, innovative browser. Whilst at the same time, maintaining that familiarity with the Internet Explorer customer base and their trust in Microsoft. I spoke with a handful of people who were involved in the re branding (Roger Capriotti, Divya Kumar and Jay Victor) and they, rather graciously, came back to me with the following explanation for the Microsoft Edge name:
+Whilst thinking about the naming of a new browser for Windows 10, Microsoft faced a problem. On the one hand, they wanted a name to signify this was an entirely new, innovative browser. Whilst at the same time, maintaining that familiarity with the Internet Explorer customer base and their trust in Microsoft. I spoke with a handful of people who were involved in the re branding (Roger Capriotti, Divya Kumar and Jay Victor) and they, rather graciously, came back to me with the following explanation for the [Microsoft Edge](http://dev.microsoftedge.com) name:
 
 - Being an entirely new browser for Windows 10 devices, we needed a new name for Project Spartan (previous codename) that called it out as a new browser with new capabilities for Windows 10 users.
 - We wanted a name that conveys truths about this new browser – that it’s modern, cutting edge, innovative and performant. ‘Edge’ we believe denoted all those aspects well.
