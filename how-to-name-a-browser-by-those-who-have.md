@@ -26,13 +26,16 @@ Whilst thinking about the naming of a new browser for Windows 10, Microsoft face
 	
 ##Mozilla (The people behind Firefox)
 
-No one can claim that Mozilla took the descriptive approach. In fact Mozilla was used for some time as an internal codename for Netscape Navigator. The name was the brainchild of [Jamie Zawinski](http://www.jwz.org/about.html) and has more meaning than most people realise. Mozilla is actually a combination of “Mosaic killer” which neatly summed up their mission at the time (or so I thought). So I guess that worked out well for them.
-Firefox
+No one can claim that Mozilla took the descriptive approach. In fact Mozilla was used for some time as an internal codename for Netscape Navigator. The name was the brainchild of [Jamie Zawinski](http://www.jwz.org/about.html) and has more meaning than most people realise. Mozilla is actually a combination of “Mosaic killer” which neatly summed up their mission at the time (or so I thought - Sadly it seems that the Mosaic Killer name is only partially true. In the Sunday, 5 August 1994, extract of Jamie Zawinski’s Diary he said "Then someone said something about crushing NCSA Mosaic, and I blurted out ``Mozilla!'' Everyone seemed to like that, so I think that might end up being the official name of the browser. " I found this update on this blog from 2007. Thanks to a comment on this blog from 2007 for clearing that up.
+
+Also lot's of people refer to "Mozilla" being a compound "Mosaic" and "Godzilla"? Hence the Godzilla appearing commonly in branding.
+
+##Firefox
 
 Most people forget that Firefox wasn’t originally called Firefox at all. In fact it’s had a couple of name changes over the years. It was originally called Phoenix – presumably coming from the ashes of its predecessors. But that caused trademark issues with Phoenix Technologies. So Mozilla changed it to Firebird, which caused issues with the Firebird open source database project (there’s a pattern forming here). So, after consulting some lawyers this time, they settled on Firefox (which is actually another name for the red panda and nothing to do with any mythical bird).
 
 ##Safari
-Now I could go down the route of talking about Safari as fitting in with Apple’s big cat names (Panther, Lion, Snow Leopard, Tiger etc) – but I’m not certain. For the life of me, I can’t find out why Safari was chosen – although it fits in to the same general category as Explorer and Navigator (and the compass icon backs this up). If you know why it was named Safari, please drop a comment below.
+Now I could go down the route of talking about Safari as fitting in with Apple’s big cat names (Panther, Lion, Snow Leopard, Tiger etc) – but I’m not certain. For the life of me, I can’t find out why Safari was chosen – although it fits in to the same general category as Explorer and Navigator (and the compass icon backs this up). I have heard that the name may also derive from the Beach Boys song Surfing Safari: "Lets go surfin now, come on a safari with me" as browsing the web was - especially at the time - commonly refered to as Surfing the web.
 
 ##Opera
 Opera were kind enough to explain their naming (although the page is now only available via [archive.org](http://web.archive.org/web/20100125154355/http:/www.opera.com/support/kb/view/145/)):
