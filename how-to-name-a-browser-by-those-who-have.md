@@ -1,4 +1,3 @@
-
 #How to name a web browser (by those who have)
 
 I don’t know about you, but my web browser is the second app I launch every day (just after email). In fact, overall, I probably spend more time using it than pretty much anything else (not surprising considering what I do). But it got me wondering, where do the different browser names come from? So I did some digging.
@@ -12,7 +11,7 @@ When you look back to 1995, having a name that gave people a clear idea of what 
 Explorer was chosen to convey the freedom and possibilities opened up by the Web. It was very much inline with Microsoft’s former tagline, “Where do you want to go today?”
 
 ##Microsoft Edge
-Whilst thinking about the naming of a new browser for Windows 10, Microsoft faced a problem. On the one hand, they wanted a name to signify this was an entirely new, innovative browser. Whilst at the same time, maintaining that familiarity with the Internet Explorer customer base and their trust in Microsoft. I spoke with a handful of people who were involved in the re branding (Roger Capriotti, Divya Kumar and Jay Victor) and they, rather graciously, came back to me with the following explanation for the Microsoft Edge name:
+Whilst thinking about the naming of a new browser for Windows 10, Microsoft faced a problem. On the one hand, they wanted a name to signify this was an entirely new, innovative browser. Whilst at the same time, maintaining that familiarity with the Internet Explorer customer base and their trust in Microsoft. I spoke with a handful of people who were involved in the re branding (Roger Capriotti, Divya Kumar and Jay Victor) and they, rather graciously, came back to me with the following explanation for the [Microsoft Edge](http://dev.microsoftedge.com) name:
 
 - Being an entirely new browser for Windows 10 devices, we needed a new name for Project Spartan (previous codename) that called it out as a new browser with new capabilities for Windows 10 users.
 - We wanted a name that conveys truths about this new browser – that it’s modern, cutting edge, innovative and performant. ‘Edge’ we believe denoted all those aspects well.
@@ -26,16 +25,13 @@ Whilst thinking about the naming of a new browser for Windows 10, Microsoft face
 	
 ##Mozilla (The people behind Firefox)
 
-No one can claim that Mozilla took the descriptive approach. In fact Mozilla was used for some time as an internal codename for Netscape Navigator. The name was the brainchild of [Jamie Zawinski](http://www.jwz.org/about.html) and has more meaning than most people realise. Mozilla is actually a combination of “Mosaic killer” which neatly summed up their mission at the time (or so I thought - Sadly it seems that the Mosaic Killer name is only partially true. In the Sunday, 5 August 1994, extract of Jamie Zawinski’s Diary he said "Then someone said something about crushing NCSA Mosaic, and I blurted out ``Mozilla!'' Everyone seemed to like that, so I think that might end up being the official name of the browser. " I found this update on this blog from 2007. Thanks to a comment on this blog from 2007 for clearing that up.
-
-Also lot's of people refer to "Mozilla" being a compound "Mosaic" and "Godzilla"? Hence the Godzilla appearing commonly in branding.
-
-##Firefox
+No one can claim that Mozilla took the descriptive approach. In fact Mozilla was used for some time as an internal codename for Netscape Navigator. The name was the brainchild of [Jamie Zawinski](http://www.jwz.org/about.html) and has more meaning than most people realise. Mozilla is actually a combination of “Mosaic killer” which neatly summed up their mission at the time (or so I thought). So I guess that worked out well for them.
+Firefox
 
 Most people forget that Firefox wasn’t originally called Firefox at all. In fact it’s had a couple of name changes over the years. It was originally called Phoenix – presumably coming from the ashes of its predecessors. But that caused trademark issues with Phoenix Technologies. So Mozilla changed it to Firebird, which caused issues with the Firebird open source database project (there’s a pattern forming here). So, after consulting some lawyers this time, they settled on Firefox (which is actually another name for the red panda and nothing to do with any mythical bird).
 
 ##Safari
-Now I could go down the route of talking about Safari as fitting in with Apple’s big cat names (Panther, Lion, Snow Leopard, Tiger etc) – but I’m not certain. For the life of me, I can’t find out why Safari was chosen – although it fits in to the same general category as Explorer and Navigator (and the compass icon backs this up). I have heard that the name may also derive from the Beach Boys song Surfing Safari: "Lets go surfin now, come on a safari with me" as browsing the web was - especially at the time - commonly refered to as Surfing the web.
+Now I could go down the route of talking about Safari as fitting in with Apple’s big cat names (Panther, Lion, Snow Leopard, Tiger etc) – but I’m not certain. For the life of me, I can’t find out why Safari was chosen – although it fits in to the same general category as Explorer and Navigator (and the compass icon backs this up). My personal favourite is that in the 90's Surfing was a common verb meaning to browse the web, and being a  rather cool bunch from california Apple made the link between the Beach Boys ("Surfin’ Safari")[http://www.last.fm/music/The+Beach+Boys/Surfin%27+Safari] and Surfing the Web resulting in the Safari name. The dev blog for the browser was certainly called Surfin’ Safari which does make me think it could have been the reason behind the name. If you know why it was named Safari, please drop a comment below.
 
 ##Opera
 Opera were kind enough to explain their naming (although the page is now only available via [archive.org](http://web.archive.org/web/20100125154355/http:/www.opera.com/support/kb/view/145/)):
@@ -45,3 +41,4 @@ The reasons the name "Opera" was chosen are several. For one, "Opera" is known a
 While there was a codename vote early in Chrome’s development, none were finally chosen (I’d love to know what they were). Instead, it’s said by [Glen Murphy](http://www.quora.com/Google-Chrome/Why-is-Chrome-called-Chrome) that they chose Chrome because one of the design leads liked fast cars. They then ended up sticking with the codename for the final project launch because 1. they’d grown used to it, 2. they associated it with speed and, 3. because it minimised the amount of browser UI (sometimes called chrome).
 
 While I’m missing out more than a few, that’s all the main browsers covered. If you have any insights that I’ve missed, pop them in the comments below. Also, if you know any names that didn’t make it to the final cut for any of the above, I’d love to hear about them.
+
