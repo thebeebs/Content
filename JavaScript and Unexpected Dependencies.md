@@ -1,3 +1,13 @@
+---
+title: 'JavaScript and Unexpected Dependencies'
+authors:
+- thebeebs
+intro: 'Dealing with other peoples code can be hard'
+tags:
+- web
+- edge
+---
+
 #JavaScript and Unexpected Dependencies
 
 I have recently been helping a few people debug issues they have with Microsoft Edge. 
