@@ -6,7 +6,7 @@ authors:
 intro: 'Here are 5 ways in which you can make sure your site rock on Edge.'
 types:
 - opinion
-Categories:
+categories:
 - web
 - browsers
 ---
