@@ -6,7 +6,7 @@ authors:
 intro: 'Edge is Microsofts new web browser and will be the default browser in Windows 10. Since Upgrades to Windows 10 from Windows 8 and 7 will be free to most users, you can expect there will be a huge influx of Edge users hitting UK sites when it is released on July 29th. So here are 5 ways in which you can make sure your site rock on Edge.'
 tags:
 - web
-- edge
+- browsers
 ---
 
 Edge is Microsoft's new web browser and will be the default browser in Windows 10. Since Upgrades to Windows 10 from Windows 8 and 7 will be free to most users, you can expect there will be a huge influx of Edge users hitting UK sites when it's released on July 29th. So here are 5 ways in which you can make sure your site rock on Edge.
