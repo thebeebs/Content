@@ -1,13 +1,22 @@
 ---
-title: '4 Ways To Test Internet Explorer'
+title: 'How your website can take advantage of new features in Microsoft Edge'
+
 authors:
+
 - thebeebs
-intro: 'Even today I have to test lots of websites using Internet Explorer, below are the 4 main ways that I have found to do it.'
+
+intro: 'There are hundreds of new standards, specifications and features that are now in Microsoft Edge. Here are 5 that I am currently exploring.'
+
 type:
+
 - opinion
+
 category:
+
 - web
+
 - browsers
+
 ---
 
 Edge is Microsoft's new web browser and will be the default browser in Windows 10. Since Upgrades to Windows 10 from Windows 8 and 7 will be free to most users, you can expect there will be a huge influx of Edge users hitting UK sites when it's released on July 29th. So here are 5 ways in which you can make sure your site rock on Edge.
