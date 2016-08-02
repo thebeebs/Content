@@ -2,9 +2,11 @@
 title: 'Client requests through the years'
 authors:
 - thebeebs
-intro: 'I just saw a talking about a request he got from a client.'
-tags:
+intro: 'Clients can be very demanding, here are some requests I have had over the years from Web Development clients'
+categories:
 - web
+types:
+- Opinion
 ---
 
 I just saw a [tweet from Brad Frost](https://twitter.com/brad_frost/status/377397337548943361/photo/1) talking about a request he got from a client.
