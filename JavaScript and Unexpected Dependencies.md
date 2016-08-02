@@ -7,7 +7,7 @@ categories:
 - web
 - browsers
 types:
-- Shorts
+- shorts
 ---
 
 #JavaScript and Unexpected Dependencies
