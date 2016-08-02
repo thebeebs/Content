@@ -3,9 +3,9 @@ title: 'How your website can take advantage of new features in Microsoft Edge'
 authors:
 - thebeebs
 intro: 'There are hundreds of new standards, specifications and features that are now in Microsoft Edge. Here are 5 that I am currently exploring.'
-type:
-- opinion
-category:
+types:
+- overview
+categories:
 - web
 - browsers
 ---
