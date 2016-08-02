@@ -2,7 +2,7 @@
 title: 'JavaScript and Unexpected Dependencies'
 authors:
 - thebeebs
-intro: 'Dealing with other peoples code can be hard
+intro: 'Dealing with other peoples code can be hard'
 categories:
 - web
 - browsers
