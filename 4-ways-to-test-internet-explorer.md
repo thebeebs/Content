@@ -1,3 +1,15 @@
+---
+title: '4 Ways To Test Internet Explorer'
+authors:
+- thebeebs
+intro: 'Even today I have to test lots of websites using Internet Explorer, below are the 4 main ways that I have found to do it.'
+type:
+- opinion
+category:
+- web
+- browsers
+---
+
 The first version of this article was written over 4 years ago, but it still receives a great deal of traffic so as we approach the end of 2015 I thought it would be useful to revisit this topic.
 
 #Developer Tools
