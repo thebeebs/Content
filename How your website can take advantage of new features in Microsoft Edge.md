@@ -1,15 +1,3 @@
----
-title: 'How your website can take advantage of new features in Microsoft Edge'
-authors:
-- thebeebs
-intro: 'There are hundreds of new standards, specifications and features that are now in Microsoft Edge. Here are 5 that I'm currently exploring.'
-type:
-- opinion
-category:
-- web
-- browsers
----
-
 There are hundreds of new standards, specifications and features that are now in Microsoft Edge. Here are 5 that I'm currently exploring.
 
 #Web Audio API
