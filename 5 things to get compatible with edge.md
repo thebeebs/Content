@@ -1,8 +1,3 @@
-First Header | Second Header 
------------- | ------------
-Content cell 1 | 
-Content cell 2 Content column 1 | Content column 2
-
 ---
 title: '5 things To Get Compatible With Microsoft Edge'
 authors:
