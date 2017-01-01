@@ -1,3 +1,15 @@
+---
+title: 'How to name a web browser (by those who have)'
+authors:
+- thebeebs
+intro: 'How to name a web browser (by those who have)'
+types:
+- opinion
+categories:
+- web
+- browsers
+---
+
 # Reasons your demos will fail at a conference  
 I often tell people that I pray to the demo gods before a talk, but the reality is, most, of the reasons demos fail can be avoided without the resorting to ritual sacrifice. I&#39;ve documented below a few issues that have tripped me up in the past in the hope that you can avoid them in the future.  
 

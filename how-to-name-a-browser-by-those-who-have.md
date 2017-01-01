@@ -1,4 +1,14 @@
-#How to name a web browser (by those who have)
+---
+title: 'How to name a web browser (by those who have)'
+authors:
+- thebeebs
+intro: 'How to name a web browser (by those who have)'
+types:
+- opinion
+categories:
+- web
+- browsers
+---
 
 I don’t know about you, but my web browser is the second app I launch every day (just after email). In fact, overall, I probably spend more time using it than pretty much anything else (not surprising considering what I do). But it got me wondering, where do the different browser names come from? So I did some digging.
 
