@@ -1,5 +1,5 @@
 ---
-title: 'Annoying Apple Phishing'
+title: 'Apple Phishing'
 authors:
 - thebeebs
 - martinkearn
