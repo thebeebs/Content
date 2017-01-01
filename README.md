@@ -1,8 +1,9 @@
 ---
-title: 'How to name a web browser (by those who have)'
+title: '5 things To Get Compatible With Microsoft Edge'
 authors:
 - thebeebs
-intro: 'How to name a web browser (by those who have)'
+- martinkearn
+intro: 'Here are 5 ways in which you can make sure your site rock on Edge.'
 types:
 - opinion
 categories:

@@ -1,12 +1,14 @@
 ---
-title: 'Adding an Expires Header in ASP.Net 5'
+title: '5 things To Get Compatible With Microsoft Edge'
 authors:
 - thebeebs
-intro: 'How you can deal with headers in Asp.net 5'
-tags:
+- martinkearn
+intro: 'Here are 5 ways in which you can make sure your site rock on Edge.'
+types:
+- opinion
+categories:
 - web
-- aspnet5
-- mvc6
+- browsers
 ---
 
 I was taking a look at a an ASP.net web app using YSlow and it mentioned that I wasn't adding an expires header to static 

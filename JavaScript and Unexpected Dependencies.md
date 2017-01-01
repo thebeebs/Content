@@ -1,13 +1,14 @@
 ---
-title: 'JavaScript and Unexpected Dependencies'
+title: '5 things To Get Compatible With Microsoft Edge'
 authors:
 - thebeebs
-intro: 'Dealing with other peoples code can be hard'
+- martinkearn
+intro: 'Here are 5 ways in which you can make sure your site rock on Edge.'
+types:
+- opinion
 categories:
 - web
 - browsers
-types:
-- shorts
 ---
 
 #JavaScript and Unexpected Dependencies

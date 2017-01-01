@@ -1,10 +1,14 @@
 ---
-title: 'Web Developer events 2015/16'
+title: '5 things To Get Compatible With Microsoft Edge'
 authors:
 - thebeebs
-intro: 'A list of all Microsoft UK Web developer events'
-tags:
+- martinkearn
+intro: 'Here are 5 ways in which you can make sure your site rock on Edge.'
+types:
+- opinion
+categories:
 - web
+- browsers
 ---
 
 Our web events for 2015  can now be found here: http://mswebday.azurewebsites.net

@@ -1,10 +1,11 @@
 ---
-title: 'How your website can take advantage of new features in Microsoft Edge'
+title: '5 things To Get Compatible With Microsoft Edge'
 authors:
 - thebeebs
-intro: 'There are hundreds of new standards, specifications and features that are now in Microsoft Edge. Here are 5 that I am currently exploring.'
+- martinkearn
+intro: 'Here are 5 ways in which you can make sure your site rock on Edge.'
 types:
-- overview
+- opinion
 categories:
 - web
 - browsers

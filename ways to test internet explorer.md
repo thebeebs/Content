@@ -1,11 +1,12 @@
 ---
-title: '4 Ways To Test Internet Explorer'
+title: '5 things To Get Compatible With Microsoft Edge'
 authors:
 - thebeebs
-intro: 'Even today I have to test lots of websites using Internet Explorer, below are the 4 main ways that I have found to do it.'
-type:
+- martinkearn
+intro: 'Here are 5 ways in which you can make sure your site rock on Edge.'
+types:
 - opinion
-category:
+categories:
 - web
 - browsers
 ---

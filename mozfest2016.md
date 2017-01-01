@@ -1,12 +1,14 @@
 ---
-title: 'Learnings from MozFest'
+title: '5 things To Get Compatible With Microsoft Edge'
 authors:
 - thebeebs
-intro: 'I Went to an event called MozFest this weekend I discovered a bit about how to run workshops with Kids.'
+- martinkearn
+intro: 'Here are 5 ways in which you can make sure your site rock on Edge.'
 types:
 - opinion
 categories:
 - web
+- browsers
 ---
 
 I’ve just got back from MozFest 2016 which is a technical gathering in London at Ravensbourne college which is opposite the o2 in the docklands.
