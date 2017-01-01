@@ -2,8 +2,7 @@
 title: 'Apple Phishing'
 authors:
 - thebeebs
-- martinkearn
-intro: 'Here are 5 ways in which you can make sure your site rock on Edge.'
+intro: 'I got an email this morning that claimed £40 ish pounds was speant on my Apple account.'
 types:
 - opinion
 categories:
