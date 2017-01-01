@@ -1,14 +1,12 @@
 ---
-title: '5 things To Get Compatible With Microsoft Edge'
+title: 'Everything you need to know about me'
 authors:
 - thebeebs
-- martinkearn
-intro: 'Here are 5 ways in which you can make sure your site rock on Edge.'
+intro: 'A potted history of how I became a developer.'
 types:
 - opinion
 categories:
 - web
-- browsers
 ---
 
 I’ve been a developer since I was 16. Having no garage, unlike my American counterparts, I began developing small sites, apps and hacks from the comfort of my bedroom. My focus back then was pretty much the same as it is now – finding new ways of solving annoying problems.
