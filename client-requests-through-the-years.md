@@ -1,14 +1,12 @@
 ---
-title: '5 things To Get Compatible With Microsoft Edge'
+title: 'Client Requests Through the Years'
 authors:
 - thebeebs
-- martinkearn
-intro: 'Here are 5 ways in which you can make sure your site rock on Edge.'
+intro: 'Over the Years I have had many requests from clients to build websites. Here are a few.'
 types:
 - opinion
 categories:
 - web
-- browsers
 ---
 
 I just saw a [tweet from Brad Frost](https://twitter.com/brad_frost/status/377397337548943361/photo/1) talking about a request he got from a client.

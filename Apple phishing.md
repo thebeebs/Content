@@ -1,13 +1,12 @@
 ---
-title: 'Apple Phishing Part 1'
+title: 'Apple Phishing'
 authors:
 - thebeebs
 intro: 'I got an email this morning that claimed £40 ish pounds was speant on my Apple account.'
 types:
-- opinion
+- shorts
 categories:
-- web
-- browsers
+- security
 ---
 
 I got an email this morning that claimed £40 ish pounds was speant on my Apple account.
