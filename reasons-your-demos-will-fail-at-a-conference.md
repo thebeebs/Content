@@ -27,16 +27,37 @@ I often tell people that I pray to the demo gods before a talk, but the reality 
 ## Hotel Internet  
 Never trust a hotels word about their Wi-Fi or wired network. They will lie. Here is a quick translation guide regarding hotel Wi-Fi.   
 
-| What they say| What they mean  |  
-|---|---|  
-| The Wi-Fi always stays online even when we hold large conferences.| We have large conferences here, but not developer conferences… we don&#39;t usually have every delegate here with 4 devices each, streaming and downloading projects and SDKs.   |  
-| The Wi-Fi is rock solid.| The Wi-Fi is crap.  |  
-| The Wi-Fi is really fast.| The Wi-Fi I is powered by ISDN.  |  
-| I&#39;ll give you a code for premium Wi-Fi.| I&#39;ll charge you more for crap ISDN powered Wi-Fi.  |  
-| Our premium Wi-Fi is much faster than our regular Wi-Fi.| We throttle the standard Wi-Fi and you can share the rest of the 10mbs capacity with our other 90 people that paid for premium Wi-Fi today.  |  
-| Just use this code.| We have employed a company to stick in some horrible web based authentication for our Wi-Fi and wired networks. All the ports will be locked down, the speed will be throttled  |  
-
-## &nbsp;  
+<table><thead>
+<tr>
+<th>What they say</th>
+<th>What they mean</th>
+</tr>
+</thead><tbody>
+<tr>
+<td>The Wi-Fi always stays online even when we hold large conferences.</td>
+<td>We have large conferences here, but not developer conferences… we don't usually have every delegate here with 4 devices each, streaming and downloading projects and SDKs.</td>
+</tr>
+<tr>
+<td>The Wi-Fi is rock solid.</td>
+<td>The Wi-Fi is crap.</td>
+</tr>
+<tr>
+<td>The Wi-Fi is really fast.</td>
+<td>The Wi-Fi I is powered by ISDN.</td>
+</tr>
+<tr>
+<td>I'll give you a code for premium Wi-Fi.</td>
+<td>I'll charge you more for crap ISDN powered Wi-Fi.</td>
+</tr>
+<tr>
+<td>Our premium Wi-Fi is much faster than our regular Wi-Fi.</td>
+<td>We throttle the standard Wi-Fi and you can share the rest of the 10mbs capacity with our other 90 people that paid for premium Wi-Fi today.</td>
+</tr>
+<tr>
+<td>Just use this code.</td>
+<td>We have employed a company to stick in some horrible web based authentication for our Wi-Fi and wired networks. All the ports will be locked down, the speed will be throttled</td>
+</tr>
+</tbody></table>
 
 ## Graphics drivers  
 **Situation:**  You load your demo and buttons are off the screen. It&#39;s animated intro is jittery and then your computer (Beach Balls for 20 minutes - Mac, or Blue Screens - Windows)  
