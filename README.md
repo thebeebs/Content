@@ -34,5 +34,9 @@ I use catagories to organise content, Ideally a piece should only be in one cate
 - Web
 - Security
 
+# Images
+
+storylink-small : 312 x 280
+storylink-main : 644 x 300
 
 
