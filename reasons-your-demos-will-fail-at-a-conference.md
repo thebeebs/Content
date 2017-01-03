@@ -1,18 +1,16 @@
 ---
-title: '5 things To Get Compatible With Microsoft Edge'
+title: 'Reasons your demos will fail at a conference'
 authors:
 - thebeebs
 - martinkearn
-intro: 'Here are 5 ways in which you can make sure your site rock on Edge.'
+intro: 'I often tell people that I pray to the demo gods before a talk, but the reality is, most, of the reasons demos fail can be avoided without the resorting to ritual sacrifice.'
 types:
-- opinion
+- speaking
 categories:
 - web
-- browsers
 ---
 
-# Reasons your demos will fail at a conference  
-I often tell people that I pray to the demo gods before a talk, but the reality is, most, of the reasons demos fail can be avoided without the resorting to ritual sacrifice. I&#39;ve documented below a few issues that have tripped me up in the past in the hope that you can avoid them in the future.  
+I often tell people that I pray to the demo gods before a talk, but the reality is, most, of the reasons demos fail can be avoided without the resorting to ritual sacrifice. I&#39;ve documented below a few issues that have tripped me up in the past in the hope that you can avoid them in the future. 
 
 ## Man in the Middle  
 **Situation:**  During a demo often half way through a session you get a network hang and exception saying your app got an unexpected input. Weird you think, this worked before. I just called my API and it never returns anything other than my data. Why would my app crash and burn?   
