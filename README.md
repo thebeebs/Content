@@ -6,7 +6,7 @@ intro: 'This is simply about how I mange the content of my blog'
 types:
 - opinion
 categories:
-- web
+- personal
 ---
 
 I use GitHub to manage the content of my blog. The hope was that this would provide me with a central 

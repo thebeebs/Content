@@ -1,17 +1,15 @@
 ---
-title: '5 things To Get Compatible With Microsoft Edge'
+title: 'JavaScript and Unexpected Dependencies'
 authors:
 - thebeebs
-- martinkearn
-intro: 'Here are 5 ways in which you can make sure your site rock on Edge.'
+intro: 'I have recently been helping a few people debug issues they have with Microsoft Edge.'
 types:
 - opinion
 categories:
-- web
 - browsers
 ---
 
-#JavaScript and Unexpected Dependencies
+#
 
 I have recently been helping a few people debug issues they have with Microsoft Edge. 
 
@@ -19,8 +17,9 @@ It’s quite common that I get sent code snippets of things that don’t work an
 
 It’s quite common that I get sent a code snippet with a dependency that the developer has forgotten to 
 mention (or perhaps assumed I will know about). I get this one quite a bit:
-
+<pre>
     _.defaults(options, {blah: 'foo'});
+</pre>
 
 The first time I saw it I got a “SCRIPT5009: ‘_’ is undefined” error in my console and I suspected the developer hadn’t sent me all of his code. You see, I’m not an Underscore.js user and so it took me about 10 minutes of searching before I realised that this code had a dependency on Underscore . I’ve heard about underscore. I’ve seen underscore before… But I just didn’t recognise it.
 I added Underscore.js to the project, My code now runs and I feel a little bit stupid.

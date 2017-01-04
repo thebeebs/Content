@@ -7,7 +7,7 @@ intro: 'I often tell people that I pray to the demo gods before a talk, but the 
 types:
 - speaking
 categories:
-- web
+- personal
 ---
 
 I often tell people that I pray to the demo gods before a talk, but the reality is, most, of the reasons demos fail can be avoided without the resorting to ritual sacrifice. I&#39;ve documented below a few issues that have tripped me up in the past in the hope that you can avoid them in the future. 

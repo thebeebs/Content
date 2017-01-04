@@ -1,14 +1,12 @@
 ---
-title: '5 things To Get Compatible With Microsoft Edge'
+title: 'Why iMessage will never beat WhatsApp'
 authors:
 - thebeebs
-- martinkearn
-intro: 'Here are 5 ways in which you can make sure your site rock on Edge.'
+intro: 'WhatsApp and iMessage illustrate the two approaches that native applications developers take.'
 types:
 - opinion
 categories:
-- web
-- browsers
+- apps
 ---
 
 Most of us have experienced some form of ‘platform shut out’ – when you want to share something with a friend but can’t because they use a different device from you and the app isn’t available on that device. This problem is particularly acute when it comes to messenger apps, but is common in many apps with sharing or collaboration functionality.

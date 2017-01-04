@@ -1,17 +1,17 @@
 ---
-title: '5 things To Get Compatible With Microsoft Edge'
+title: 'How To Name A Browser By Those Who Have'
 authors:
 - thebeebs
-- martinkearn
-intro: 'Here are 5 ways in which you can make sure your site rock on Edge.'
+intro: 'Where do the different browser names come from?'
 types:
 - opinion
 categories:
-- web
 - browsers
 ---
 
-I don’t know about you, but my web browser is the second app I launch every day (just after email). In fact, overall, I probably spend more time using it than pretty much anything else (not surprising considering what I do). But it got me wondering, where do the different browser names come from? So I did some digging.
+I don’t know about you, but my web browser is the second app I launch every day (just after email). 
+In fact, overall, I probably spend more time using it than pretty much anything else (not surprising considering what I do). 
+But it got me wondering, where do the different browser names come from? So I did some digging.
 
 ##Netscape Navigator
 For many people, Navigator was their first web browser. It was based on the earlier Mosaic browser. I’m not 100% sure why Mosaic was so named but I suspect it was because it was the first to allow images and text to appear on the same page. Alternatively, I guess it could be some riff on the whole rich tapestry of the web. Anyway, Navigator was the first product from Netscape after it changed its name from Mosaic Communications Corporation (co-founder and co-writer of Mosaic, Marc Andreessen, had to abandon the Mosaic name after his former university raised objections). Like IE, Navigator was a pretty descriptive approach to naming.

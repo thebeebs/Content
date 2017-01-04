@@ -1,14 +1,12 @@
 ---
-title: '5 things To Get Compatible With Microsoft Edge'
+title: 'MozFest 2016'
 authors:
 - thebeebs
-- martinkearn
-intro: 'Here are 5 ways in which you can make sure your site rock on Edge.'
+intro: 'MozFest is a gathering in London, here's what happened when I went along'
 types:
-- opinion
+- shorts
 categories:
-- web
-- browsers
+- personal
 ---
 
 I’ve just got back from MozFest 2016 which is a technical gathering in London at Ravensbourne college which is opposite the o2 in the docklands.
