@@ -19,10 +19,13 @@ by changing the webconfig.
 
 In ASP.NET the simplest way I have found to do this is to pass into UseStaticFiles a new StaticFilesOptions class where you implement a handler for OnPrepareResponse. 
 
-<pre><code class="language-csharp">
-app.UseStaticFiles(new StaticFileOptions()
+<pre><code class="language-csharp">app.UseStaticFiles(new StaticFileOptions()
 {
-     OnPrepareResponse = r => r.Context.Response.Headers.Append("Expires", DateTime.Now.AddDays(7).ToUniversalTime().ToString("r"))
+     OnPrepareResponse = r => r
+        .Context
+        .Response
+        .Headers
+        .Append("Expires", DateTime.Now.AddDays(7).ToUniversalTime().ToString("r"))
 });
 </code></pre>
 
