@@ -18,12 +18,12 @@ I older versions of ASP.net it was easier enough to fix this
 by changing the webconfig.
 
 In ASP.NET the simplest way I have found to do this is to pass into UseStaticFiles a new StsticFilesOPtions class where you impliment a handler for OnPrepareResponse. 
-<pre>
+<pre><code class="language-csharp">
 		app.UseStaticFiles(new StaticFileOptions()
             {
                 OnPrepareResponse = r => r.Context.Response.Headers.Append("Expires", DateTime.Now.AddDays(7).ToUniversalTime().ToString("r"))
             });
-</pre>
+</code></pre>
 Basically when a static file is requested this code will add a header to all objects , In the example above I sent an expires date 7 days in the future.
 
 I use the ToUniverToUniversalTime with a "r" format as this provides a Http-time formatted date.
