@@ -5,6 +5,7 @@ authors:
 intro: 'This month I have genrally been building asp.net.'
 types:
 - shorts
+- monthnote
 categories:
 - personal
 published: 2016/01/01 12:00:00

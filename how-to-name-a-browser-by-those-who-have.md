@@ -5,6 +5,7 @@ authors:
 intro: 'Where do the different browser names come from?'
 types:
 - opinion
+- secondheadline
 categories:
 - browsers
 published: 2016/01/01 12:00:00

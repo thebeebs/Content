@@ -5,6 +5,7 @@ authors:
 intro: 'WhatsApp and iMessage illustrate the two approaches that native applications developers take.'
 types:
 - opinion
+- secondheadline
 categories:
 - apps
 published: 2016/01/01 12:00:00
