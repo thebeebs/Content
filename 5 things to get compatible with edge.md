@@ -21,8 +21,9 @@ Common libraries like jQuery are often updated to address bugs when new browser 
 ## Avoid CSS Prefixes
 CSS prefixes are used by browser vendors to impement new, emerging CSS features before it has been fully ratified by the W3C. If a vendor implements a CSS prefix, it will look something like the example below (this is an IE-specific implementation of the 'hypens' feature to hyphenate text accross multiplelines):
 
-<pre>
+<pre><code class="language-css">
 `-ms-hyphens: auto;`
+</code>
 </pre>
 
 It's really common for sites to have missing vendor-specific prefixes or 
