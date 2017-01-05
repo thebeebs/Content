@@ -7,6 +7,8 @@ types:
 - speaking
 categories:
 - web
+published: 2016/01/01 12:00:00
+updated: 2017/05/01 12:00:00
 ---
 
 There are currently no events planned.

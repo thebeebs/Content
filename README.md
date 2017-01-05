@@ -7,6 +7,8 @@ types:
 - opinion
 categories:
 - personal
+published: 2016/01/01 12:00:00
+updated: 2017/05/01 12:00:00
 ---
 
 I use GitHub to manage the content of my blog. The hope was that this would provide me with a central 

@@ -7,6 +7,8 @@ types:
 - opinion
 categories:
 - browsers
+published: 2016/01/01 12:00:00
+updated: 2017/05/01 12:00:00
 ---
 
 I don’t know about you, but my web browser is the second app I launch every day (just after email). 

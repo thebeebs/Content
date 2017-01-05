@@ -7,6 +7,8 @@ types:
 - opinion
 categories:
 - web
+published: 2016/01/01 12:00:00
+updated: 2017/05/01 12:00:00
 ---
 
 I just saw a [tweet from Brad Frost](https://twitter.com/brad_frost/status/377397337548943361/photo/1) talking about a request he got from a client.

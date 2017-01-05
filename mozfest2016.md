@@ -7,6 +7,8 @@ types:
 - shorts
 categories:
 - personal
+published: 2016/01/01 12:00:00
+updated: 2017/05/01 12:00:00
 ---
 
 I’ve just got back from MozFest 2016 which is a technical gathering in London at Ravensbourne college which is opposite the o2 in the docklands.
