@@ -39,7 +39,7 @@ We have an [interactive demo of the CSS3 filter over on the test drive website](
 You might be aware of a JavaScript library called Modernizr that allows you to test Browser features with a simple API. Well now browsers such as Edge have a new way of determining browser CSS capabilities with a simple syntax called @supports.
 
 Fundamentally, we can surround CSS elements with support blocks. Browsers that don't support @supports will ignore the block as per the CSS spec and browsers that do support @support will test to see if the browser supports a particular feature (in the example below linear-gradient) and if it does it will use it…. So in Microsoft Edge the following rule will result in green linear-gradient rather than a background-color of red.
-<pre>
+<pre><code class="language-css">
     b {
       background-color: red;
     }
@@ -48,7 +48,7 @@ Fundamentally, we can surround CSS elements with support blocks. Browsers that d
         background: linear-gradient( 0deg, rgb(65, 150, 44), rgb(26, 219, 73) );
       }
     }
-</pre>
+</code></pre>
 You can see a full explanation over on the (test drive site)[http://dev.modern.ie/testdrive/demos/@supports/]. 
 
 
@@ -58,7 +58,7 @@ Microsoft Edge has great support for the next version of JavaScript (ES2015 aka 
 # Classes
 
 ES6 introduces a syntax for declaring classes. A class allows you to create new objects using prototype-based inheritance, constructors, instance methods, and static methods. For more information about classes, see [Classes in JavaScript: Exploring the Implementation in Chakra](http://blogs.msdn.com/b/ie/archive/2014/12/15/classes-in-javascript-exploring-the-implementation-in-chakra.aspx).
-<pre>
+<pre><code class="language-javascript">
     /* ES6 code, with classes */
     class Civilian {
         constructor(name) {
@@ -79,11 +79,12 @@ ES6 introduces a syntax for declaring classes. A class allows you to create new 
             console.log(this.name + " uses " + this.ability + ". It's super effective.");
         }
     };
+</code>
 </pre>
 ##Promises
 
 Promises provide you with a mechanism to schedule work to be done on a value that has not yet been computed. It is an abstraction for managing interactions with asynchronous APIs. Promises allow easier and cleaner asynchronous coding. If you've done any WinJS promises won't be new to you. But now we have complete support directly in the browser without the need for 3rd party libraries. [Check out Mozilla for a detailed overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise): 
-<pre>
+<pre><code class="language-javascript">
     function timeout(duration = 0) {
         return new Promise((resolve, reject) => {
             setTimeout(resolve, duration);
@@ -97,11 +98,13 @@ Promises provide you with a mechanism to schedule work to be done on a value tha
     }).catch(err => {
         return Promise.all([timeout(100), timeout(200)]);
     })
+</code>
 </pre>
+
 # Arrow Function
 
 The arrow (=>) function provides you with a shorthand for the function keyword with lexical "this" binding. So basically writing an anonymous function is easier and an issue like the one below will now be a thing of the past: There is some very detailed coverage over on [Mozillas documentation] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
-<pre>
+<pre><code class="language-javascript">
     // Lexical this
     var bob = {
     _name: "Bob",
@@ -111,4 +114,5 @@ The arrow (=>) function provides you with a shorthand for the function keyword w
         console.log(this._name + " knows " + f));
     }
     }
+</code>
 </pre>
