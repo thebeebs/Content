@@ -5,6 +5,7 @@ authors:
 intro: 'Over the Years I have had many requests from clients to build websites. Here are a few.'
 types:
 - opinion
+- headline
 categories:
 - web
 published: 2016/01/01 12:00:00

@@ -3,10 +3,9 @@ title: '5 things To Get Compatible With Microsoft Edge'
 authors:
 - thebeebs
 - martinkearn
-intro: 'Here are 5 ways in which you can make sure your site rock on Edge.'
+intro: 'Here are 5 ways in which you can make sure your site works in Edge.'
 types:
 - overview
-- headline
 categories:
 - web
 - browsers
