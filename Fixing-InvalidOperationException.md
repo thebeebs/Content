@@ -8,7 +8,7 @@ types:
 categories:
 - web
 published: 2017/01/09 12:20:00
-updated: 2017/01/09 12:20:00
+updated: 2017/01/09 16:15:00
 ---
 I had an odd error popup on my when building a website recently in ASP.Net Core 1.0 using EF core 1.0. It happened when I deleted an OnConfiguring method that I thought I no longer needed.
 
@@ -55,5 +55,5 @@ public HomeController(IMemoryCache memoryCache, PersonalSiteContext context) {
         this.context = context;
 }
 </code></pre>
-Hope this ends up helping one person.
+Hope this ends up helping someone.
 
