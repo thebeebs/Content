@@ -24,6 +24,7 @@ I have a number of different types of content, ideally you should pick one but y
 - Tutorials
 - Speaking
 - Admin
+- Fix
 
 
 # Categories
