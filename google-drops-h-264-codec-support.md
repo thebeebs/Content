@@ -2,7 +2,7 @@
 title: Google Drops H.264 codec support
 authors:
 - thebeebs
-intro: '![Google Chrome Logo](images/0383.image_1D3F089E.p...'
+intro: 'Video suport in the worlds most popular browser'
 types:
 - shorts
 categories:

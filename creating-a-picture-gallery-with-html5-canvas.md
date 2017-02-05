@@ -2,7 +2,7 @@
 title: Creating a picture gallery with HTML5 canvas
 authors:
 - thebeebs
-intro: '<iframe class="youtube-player" title="YouTube vide...'
+intro: 'Creating a picture gallery'
 types:
 - shorts
 categories:

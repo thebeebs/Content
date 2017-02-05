@@ -2,7 +2,7 @@
 title: Finding the closest Bar in Seattle using IE9 GeoLocation
 authors:
 - thebeebs
-intro: '![Beer](images/3060.image_02B88060.png "Beer")I ju...'
+intro: 'A little look into Geolocation'
 types:
 - shorts
 categories:

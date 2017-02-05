@@ -2,7 +2,7 @@
 title: Big brother in Extreme detail
 authors:
 - thebeebs
-intro: '[![bigbrother](images/4846.bigbrother_thumb_13F248...'
+intro: 'DeepZoom and Big Brother'
 types:
 - shorts
 categories:

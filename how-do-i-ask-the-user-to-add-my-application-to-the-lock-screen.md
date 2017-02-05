@@ -2,7 +2,7 @@
 title: How do I ask the user to add my application to the lock screen?
 authors:
 - thebeebs
-intro: '#### For background task with timers to launch you...'
+intro: For background task with timers to launch you...'
 types:
 - shorts
 categories:

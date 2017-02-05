@@ -2,9 +2,7 @@
 title: Disaster
 authors:
 - thebeebs
-intro: 'The worst day I had at work was when I was 23.
-
-T...'
+intro: 'The worst day I had at work was when I was 23'
 types:
 - shorts
 categories:

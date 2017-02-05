@@ -2,7 +2,7 @@
 title: How to enable IE9 pinning and JumpLists on your website
 authors:
 - thebeebs
-intro: '[![image](images/6457.image_thumb_69150AAC.png "im...'
+intro: 'Enabling pinning on Jumplists'
 types:
 - shorts
 categories:
