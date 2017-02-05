@@ -2,9 +2,7 @@
 title: App Rewards Xbox Games
 authors:
 - thebeebs
-intro: 'Update: All ARE NOW GONE! Here are the winners:
-
-!...'
+intro: 'Update: All ARE NOW GONE! Here are the winners'
 types:
 - shorts
 categories:
