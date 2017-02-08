@@ -8,7 +8,7 @@ types:
 categories:
 - meetup
 published: 2017/02/08 19:45:00
-updated: 2017/05/01 20:45:00
+updated: 2017/02/01 20:45:00
 ---
 
 For the 2nd time in 2017 I'm traveling up to Leeds, this time for a meet up called [All About Web](https://www.meetup.com/AllaboutWeb/events/234578978/). 
