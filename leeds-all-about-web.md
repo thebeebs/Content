@@ -14,3 +14,6 @@ updated: 2017/05/01 20:45:00
 For the 2nd time in 2017 I'm traveling up to Leeds for a meet up called [All About Web](https://www.meetup.com/AllaboutWeb/events/234578978/). I think it's the first event 
 they are running and I was asked to speak by Hanieh whilst I was at [Leeds Sharp](https://www.meetup.com/Leeds-Sharp/).
 
+Stuff from the event can be found here:
+* Slides [The Web on Day 10000](https://1drv.ms/p/s!AlEOpfeanUR1ru5ujxXJDFIjY2WlcA)
+* Code from demos [Web Components](https://github.com/thebeebs/Hitchhikers-Guide-to-JavaScript)
