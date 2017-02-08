@@ -4,7 +4,7 @@ authors:
 - thebeebs
 intro: 'I often tell people that I pray to the demo gods before a talk, but the reality is, most, of the reasons demos fail can be avoided without the resorting to ritual sacrifice.'
 types:
-- speaking
+- shorts
 - secondheadline
 categories:
 - personal

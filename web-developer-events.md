@@ -4,9 +4,9 @@ authors:
 - thebeebs
 intro: 'Here are 5 ways in which you can make sure your site rock on Edge.'
 types:
-- speaking
+- deleted
 categories:
-- web
+- deleted
 published: 2016/01/01 12:00:00
 updated: 2017/05/01 12:00:00
 ---
