@@ -6,7 +6,7 @@ intro: 'I am in leeds to talk about the web on day 10000.'
 types:
 - speaking
 categories:
-- event
+- meetup
 published: 2017/02/08 19:45:00
 updated: 2017/05/01 20:45:00
 ---
