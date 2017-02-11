@@ -34,6 +34,21 @@ It enables building code analysis tools with the same APIs that are used by Visu
 
 Previously the .net compiler was a black box. Rosyln opens the black box. And inside there are some pretty interesting things.
 
+## Why Bother
+Building a compiler like Roslyn is a big job, it's taken years I estimate the repro contains 4.6 million 
+lines of code and has over 191 contributors. Unless someone is a really ranty commenter, that's a lot of naughts and ones.
+
+So it does beg the question, Why Bother. Well, as a company we have lots of people that use C# and in turn lots of people who would benefit
+from a more open compiler.
+
+For starters there are the 10s of developers that build the language features in Visual Studio, they now have a clean shared platform to build on 
+top of, they can build new features faster. Then there are the thousands of developers that
+are building developer productivity. Like the people at [DevExpress behind Code Rush](https://www.devexpress.com/Products/CodeRush/) which is
+ built on top of Roslyn.
+
+ Finally there are 100,000 of VB and C# developers that will benefit from better tooling inside of Visual Studio and the add ons that
+ partners can now build. They may also wish to take advantage of the new SDK, code fix and diagnostic tools that can now easily be built.
+
 ## The SDK
 
 You can get the SDK from the following location: [.net compiler platform SDK](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.NETCompilerPlatformSDK)
