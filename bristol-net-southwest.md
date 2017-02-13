@@ -190,7 +190,7 @@ I then need to search for the Try Catch instead using TryStatmentSyntax
 <pre><code class="language-csharp">
 var trystatement = root.DescendantNodes().OfType<TryStatementSyntax>().First();
 </code>
-<pre>
+</pre>
 
 Each block type has different properties, a try has a black for example.
 <pre><code class="language-csharp">
