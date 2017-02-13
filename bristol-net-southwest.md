@@ -84,7 +84,80 @@ Syntax Tree API, Symbol API, Binding and Flow Analysis API, Emit API.
 These API's are what Visual Studio will call to implement some of it's productivity capabilities. For example, the Syntax Tree API is used to
 colourise the source code in the editor or provide collapsible outlining.
 
-There are two sets of APIs. The Compiler APIs and the workspace APIs.
+There are two layers of APIs. The Compiler, and the workspace. At a compiler level you can take a.net file and figure stuff out about it. Compile
+a Syntax tree and query the code. However, code if often spead about over a solution and contains multiple projects. To reason over that 
+you will need to use the workspace API's this will ensure that you can think about your code holistically and have more capability
+since Rosyln will have a better understanding of how your code interconnects.
+
+## Syntax Trees
+If you think about your C# code as files then the first step of compiling it is to convert all those strings of text into a Syntax tree that
+represents the .net code. In Roslyn a Syntax tree is immutable (it can't be changed). To make modifications you will need to copy it and 
+generate a brand new tree.
+
+### Resilient
+It's resilient in that even if your c# is a total uncompilable mess, Rosyln isn't going to fail. It will construct a tree and show the errors 
+where is finds them. This is important since Rosyln is running with every keypress you take in Visual Studio. During editing a C# file 
+there will be many times that a C# file is without braces or just plain wrong. Since Rosyln is used to show you where the code is wrong it 
+needs to be able to construct a tree in any situation.
+
+### Complete
+If you ToString a Syntax tree the C# code generated will be an exact replica of the code that went into creating it. Including the line spaces,
+tabs and all the other Triva that isn't code, but is crucial to reconstruct the originating file.
+
+### Efficient
+It might seem like a huge task to construct a new Syntax tree for each and every change you make to any file in your project. However, in the near
+decade that Roslyn has been under development the team have tuned performance to ensure it is very efficient. I'm not a good enough C# developer
+to fully understand, however, I have been told that the Roslyn code base is a bit of a master class in managed language performance. I guess this 
+makes sense since the folk writing the C# also understand intimately how it's being compiled to Intermediate Language.
+
+## Syntax Nodes
+When the C# file is parsed and converted into a tree each element is converted into objects. The bit that make up the important blocks of code are 
+called nodes. When you query a node it contains lots of stuff but at it's core it's the basic structure of the code.
+
+## Syntax Tokens
+The next type of objects are Syntax Tokens these are nested if you like inside of the nodes and represent all of the C# grammer and information.
+
+## Syntax Triva
+All the other stuff that isn't actaully important for compilation but is important to maintain consistency with the original file is 
+called Syntax Triva. This is all the white space, tabs and other elements.
+
+## Compilation
+When a project is compiled. There maybe multiple references and Syntax trees, ultimately these will all be brought together 
+and IL will be emitted.
+
+## Understanding Syntax trees
+It's hard to construct a mental model of a Syntax Tree just by looking at C# but to query things you will need to understand how 
+it is structured. 
+
+Luckily the Roslyn team built a Syntax Tree Viewer so you could get a visualisation at any time. View > Other Windows > Syntax Visualiser.
+
+## Working with Code Analysis
+First up I am going to create a very simple console application. I will need to install the Nuget Package Microsoft.CodeAnalysis. I open up 
+the Package Manager Windows and Type:
+
+<pre><code class="language-csharp">
+Install-Package Microsoft.CodeAnalysis
+</code>
+<pre>
+
+It can take some time for the code package to install and it's important to remeber your console app will need to be 
+targeting .net framwork 4.6 and greater.
+
+In the void main I write
+
+<pre><code class="language-csharp">
+var tree = CSharpSyntaxTree.ParseText(@"
+                class bb {
+                    void b(){
+                    }
+                }
+            ");
+
+            Console.Write(tree);
+            Console.ReadLine();
+</code>
+<pre>
+
 
 
 
