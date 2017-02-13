@@ -138,7 +138,7 @@ the Package Manager Windows and Type:
 <pre><code class="language-csharp">
 Install-Package Microsoft.CodeAnalysis
 </code>
-<pre>
+</pre>
 
 It can take some time for the code package to install and it's important to remember your console app will need to be 
 targeting .net framework 4.6 and greater.
@@ -156,7 +156,7 @@ var tree = CSharpSyntaxTree.ParseText(@"
             Console.Write(tree);
             Console.ReadLine();
 </code>
-<pre>
+</pre>
 
 You can check to see if the code contains any errors by checking the diagnostics:
 
@@ -164,7 +164,7 @@ You can check to see if the code contains any errors by checking the diagnostics
 var error = tree.GetDiagnostics().Where(n => n.Severity == Microsoft.CodeAnalysis.DiagnosticSeverity.Error).FirstOrDefault();
             Console.Write(error);
 </code>
-<pre>
+</pre>
 
 If I remove a brace and then run the code again. It should now log an error.
 
@@ -184,7 +184,7 @@ try{
 catch(Exception ex){
 }
 </code>
-<pre>
+</pre>
 
 I then need to search for the Try Catch instead using TryStatmentSyntax
 <pre><code class="language-csharp">
@@ -197,7 +197,7 @@ Each block type has different properties, a try has a black for example.
 var block = trystatement.Block;
             Console.WriteLine(block);
 </code>
-<pre>
+</pre>
 
 In the try if I add something like a comment, then this will be printed:
 <pre><code class="language-csharp">
@@ -205,7 +205,7 @@ try{
     // Whats up Bristol
 }
 </code>
-<pre>
+</pre>
 
 We can modify the code and add a return type to the code for example:
 
@@ -217,4 +217,4 @@ We can modify the code and add a return type to the code for example:
             Console.Write("New: " + newmethod);
 
             </code>
-<pre>
+</pre>
