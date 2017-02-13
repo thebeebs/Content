@@ -145,16 +145,15 @@ targeting .net framework 4.6 and greater.
 
 In the void main I write
 
-<pre><code class="language-csharp">
-var tree = CSharpSyntaxTree.ParseText(@"
-                class bb {
-                    void b(){
-                    }
-                }
-            ");
+<pre><code class="language-csharp">var tree = CSharpSyntaxTree.ParseText(@"
+    class bb {
+        void b(){
+        }
+    }
+");
 
-            Console.Write(tree);
-            Console.ReadLine();
+Console.Write(tree);
+Console.ReadLine();
 </code>
 </pre>
 
@@ -162,7 +161,7 @@ You can check to see if the code contains any errors by checking the diagnostics
 
 <pre><code class="language-csharp">
 var error = tree.GetDiagnostics().Where(n => n.Severity == Microsoft.CodeAnalysis.DiagnosticSeverity.Error).FirstOrDefault();
-            Console.Write(error);
+Console.Write(error);
 </code>
 </pre>
 
@@ -170,10 +169,9 @@ If I remove a brace and then run the code again. It should now log an error.
 
 To query the tree a little further I use a combination of Linq and the API:
 
-<pre><code class="language-csharp">
-var root = tree.GetRoot();
-            var method = root.DescendantNodes().OfType<MethodDeclarationSyntax>().First();
-            Console.Write(method);
+<pre><code class="language-csharp">var root = tree.GetRoot();
+var method = root.DescendantNodes().OfType<MethodDeclarationSyntax>().First();
+Console.Write(method);
 </code>
 </pre>
 
@@ -193,9 +191,8 @@ var trystatement = root.DescendantNodes().OfType<TryStatementSyntax>().First();
 </pre>
 
 Each block type has different properties, a try has a black for example.
-<pre><code class="language-csharp">
-var block = trystatement.Block;
-            Console.WriteLine(block);
+<pre><code class="language-csharp">var block = trystatement.Block;
+Console.WriteLine(block);
 </code>
 </pre>
 
@@ -209,12 +206,67 @@ try{
 
 We can modify the code and add a return type to the code for example:
 
-<pre><code class="language-csharp">
- var method = root.DescendantNodes().OfType<MethodDeclarationSyntax>().First();
-            var trivia = SyntaxFactory.ParseTrailingTrivia(" ");
-            var returnType = SyntaxFactory.ParseTypeName("string").WithTrailingTrivia(trivia);            
-            var newmethod = method.WithReturnType(returnType);
-            Console.Write("New: " + newmethod);
-
+<pre><code class="language-csharp"> var method = root.DescendantNodes().OfType<MethodDeclarationSyntax>().First();
+var trivia = SyntaxFactory.ParseTrailingTrivia(" ");
+var returnType = SyntaxFactory.ParseTypeName("string").WithTrailingTrivia(trivia);            
+var newmethod = method.WithReturnType(returnType);
+Console.Write("New: " + newmethod);
             </code>
+</pre>
+
+## Code Analysis and Code Fix
+
+You can find the code for the example here: [github.com/thebeebs/RoslynCodeFixForColour](https://github.com/thebeebs/RoslynCodeFixForColour)
+
+I also want to search Properties and so I will add SymbolKind.Property to the array of RegisterSymbolAction
+<pre><code class="language-csharp">
+context.RegisterSymbolAction(AnalyzeSymbol, SymbolKind.NamedType, SymbolKind.Property);           
+ </code>
+</pre>
+
+Check to see if the Symbol contains color
+
+<pre><code class="language-csharp">private static void AnalyzeSymbol(SymbolAnalysisContext context)
+{
+    var symbol = context.Symbol;
+    if (symbol.Name.ToLower().Contains("color"))
+    {
+        var diagnostic = Diagnostic.Create(Rule, symbol.Locations[0], symbol.Name);
+        context.ReportDiagnostic(diagnostic);
+    }
+}
+         </code>
+</pre>
+
+Thats the code diagnostic taken care of. Next to correct the code fix.
+
+I'm now looking for properties and well as Type Declarations
+
+<pre><code class="language-csharp">// Find the type declaration identified by the diagnostic.
+SyntaxNode declaration = root.FindToken(diagnosticSpan.Start).Parent.AncestorsAndSelf().OfType<PropertyDeclarationSyntax>().FirstOrDefault();
+if (declaration == null) {
+    declaration = root.FindToken(diagnosticSpan.Start).Parent.AncestorsAndSelf().OfType<TypeDeclarationSyntax>().FirstOrDefault();
+}
+                     </code>
+</pre>
+
+Change the signature and name of the CodeFix:
+<pre><code class="language-csharp">
+private async Task<Solution> CorrectSpelling(Document document, SyntaxNode node, CancellationToken cancellationToken)
+ </code>
+</pre>
+
+And Finally I need to make sure the code fix can handle both properties and Type Declarations. 
+
+<pre><code class="language-csharp">string identifierToken;
+if (node.IsKind(SyntaxKind.PropertyDeclaration))
+{
+    identifierToken = ((PropertyDeclarationSyntax)node).Identifier.Text;
+}
+else
+{
+    identifierToken = ((TypeDeclarationSyntax)node).Identifier.Text;
+}     
+var newName = identifierToken.Replace("olor", "olour");
+ </code>
 </pre>
