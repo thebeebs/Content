@@ -175,7 +175,7 @@ var root = tree.GetRoot();
             var method = root.DescendantNodes().OfType<MethodDeclarationSyntax>().First();
             Console.Write(method);
 </code>
-<pre>
+</pre>
 
 I could also find some code in the method. Fist I will add the following to the Method:
 <pre><code class="language-csharp">
