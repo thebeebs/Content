@@ -140,8 +140,8 @@ Install-Package Microsoft.CodeAnalysis
 </code>
 <pre>
 
-It can take some time for the code package to install and it's important to remeber your console app will need to be 
-targeting .net framwork 4.6 and greater.
+It can take some time for the code package to install and it's important to remember your console app will need to be 
+targeting .net framework 4.6 and greater.
 
 In the void main I write
 
@@ -158,6 +158,63 @@ var tree = CSharpSyntaxTree.ParseText(@"
 </code>
 <pre>
 
+You can check to see if the code contains any errors by checking the diagnostics:
 
+<pre><code class="language-csharp">
+var error = tree.GetDiagnostics().Where(n => n.Severity == Microsoft.CodeAnalysis.DiagnosticSeverity.Error).FirstOrDefault();
+            Console.Write(error);
+</code>
+<pre>
 
+If I remove a brace and then run the code again. It should now log an error.
 
+To query the tree a little further I use a combination of Linq and the API:
+
+<pre><code class="language-csharp">
+var root = tree.GetRoot();
+            var method = root.DescendantNodes().OfType<MethodDeclarationSyntax>().First();
+            Console.Write(method);
+</code>
+<pre>
+
+I could also find some code in the method. Fist I will add the following to the Method:
+<pre><code class="language-csharp">
+try{
+}
+catch(Exception ex){
+}
+</code>
+<pre>
+
+I then need to search for the Try Catch instead using TryStatmentSyntax
+<pre><code class="language-csharp">
+var trystatement = root.DescendantNodes().OfType<TryStatementSyntax>().First();
+</code>
+<pre>
+
+Each block type has different properties, a try has a black for example.
+<pre><code class="language-csharp">
+var block = trystatement.Block;
+            Console.WriteLine(block);
+</code>
+<pre>
+
+In the try if I add something like a comment, then this will be printed:
+<pre><code class="language-csharp">
+try{
+    // Whats up Bristol
+}
+</code>
+<pre>
+
+We can modify the code and add a return type to the code for example:
+
+<pre><code class="language-csharp">
+ var method = root.DescendantNodes().OfType<MethodDeclarationSyntax>().First();
+            var trivia = SyntaxFactory.ParseTrailingTrivia(" ");
+            var returnType = SyntaxFactory.ParseTypeName("string").WithTrailingTrivia(trivia);            
+            var newmethod = method.WithReturnType(returnType);
+            Console.Write("New: " + newmethod);
+
+            </code>
+<pre>
