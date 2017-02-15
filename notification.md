@@ -9,7 +9,7 @@ categories:
 - browsers
 - web
 published: 2017/02/14 12:00:00
-updated: 2010/02/14 12:00:00
+updated: 2017/02/14 12:00:00
 ---
 
 In the example above we have two elements on the page a button and a p element that I am using to display information to give some feedback.
