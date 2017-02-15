@@ -23,7 +23,7 @@ Such a cool name. Such promise. Alas the fun police at Microsoft decided that pr
 for the the new .net compiler would infact be converted to "The Microsoft .net Compiler Platform". 
 
 During the talk. I make a joke about Roslyn and it's similarity to Roxanne by the police. This joke never works. I will 
-increment the following number everytime this joke fall flat on it's face: 5
+increment the following number everytime this joke fall flat on it's face: 5.5
 
 ## What is the .net Compiler Platform?
 

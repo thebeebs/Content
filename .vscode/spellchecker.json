@@ -2,7 +2,8 @@
     "language": "en_US",
     "ignoreWordsList": [
         "colourise",
-        "DevExpress"
+        "DevExpress",
+        "thebeebs"
     ],
     "documentTypes": [
         "markdown",
