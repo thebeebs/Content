@@ -7,6 +7,7 @@ types:
 - speaking
 categories:
 - meetup
+- count
 published: 2016/12/13 19:00:00
 updated: 2016/12/13 19:30:00
 ---
