@@ -35,3 +35,11 @@ If you want the sound to stop simple run this:
 </code>
 </pre>
 
+The following demo shows how you could record and visualise audio coming from a Microphone:
+
+[Test Drive Recoder](https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/microphone/)
+
+The following demo shows how you can build a simple tuner: 
+
+[A simple tuner example with code talk through](https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/webaudiotuner/)
+
