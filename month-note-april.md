@@ -2,8 +2,7 @@
 title: 'Month Note April'
 authors:
 - thebeebs
-intro: 'This month has been busy and reader I am happy to tell you I am going on holiday
-tomorrow.'
+intro: 'This month has been busy and reader I am happy to tell you I am going on holiday tomorrow.'
 types:
 - shorts
 - monthnote
@@ -12,6 +11,7 @@ categories:
 published: 2017/04/11 12:00:00
 updated: 2017/04/11 12:00:00
 ---
+
 This month has been busy and reader I am happy to tell you I am going on holiday
 tomorrow.
 
