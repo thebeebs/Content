@@ -2,7 +2,7 @@
 title: 'Innovation Uncovered in Nottingham'
 authors:
 - thebeebs
-intro: 'I am just about to speak in nottingham about cognitive and mobile apps.'
+intro: 'I am just about to speak in Nottingham about cognitive and mobile apps.'
 types:
 - speaking
 categories:
