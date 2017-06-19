@@ -50,7 +50,7 @@ I personally use 2 x Canon Legria G40 and a cheaper Canon 400d. Hunt around on e
 
 ### Lights
 
-If you can afford it get some lights. The type you want will depend on the type of shot you want to take, if it just you consider a ring light, which gives you that classic youtuber look and feel. Learn about 3-point lighting. I love this really simple video that shows how you can achieve this with the sorts of things you will have around the house.
+If you can afford it get some lights. The type you want will depend on the type of shot you want to take, if it just you consider a ring light, which gives you that classic youtuber look and feel. Learn about 3-point lighting. I love this [really simple video](https://www.youtube.com/watch?v=NVIbirzZn0M) that shows how you can achieve this with the sorts of things you will have around the house.
 
 ### Tripod
 
