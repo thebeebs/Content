@@ -11,73 +11,41 @@ published: 2017/06/15 11:00:00
 updated: 2017/06/15 11:00:00
 ---
 
-In the example above we have two elements on the page a button and a p element that I am using to display information to give some feedback.
+## Are apps dead - has the chatbot supplanted the app?
 
-<pre><code class="language-html">&lt;p id=&quot;information&quot;&gt;&lt;/p&gt;    <br/>&lt;button id=&quot;button&quot;&gt;Speak&lt;/button&gt;
-</code></pre>
+Of course they are not dead, and I personally don't see a world without mobile apps. There are still only some types of apps that can be disrupted by messenger bots. Informational apps, apps that have limited user input, apps that currently rely heavily on search and when there is a business need to support lots of different platforms.
 
-To test that the browser is capable of supporting notifications I check to see if Notification appears on the window object. I then
-give the user a little feedback about support and I enable/disable the button.
+Line of business applications are an area I think that chat bots could replace apps the most. Holiday booking, travel booking, extracting report details and information from a large corporation. Helping Organisations know what they know. 
 
-<pre><code class="language-javascript">if (!('speechSynthesis' in window)) {
-    document.getElementById('information').innerText = 'Speech Synthesis is not supported';
-    document.getElementById('button').disabled = true;
-}
-else {
-    document.getElementById('information').innerText = 'Good news Speech Synthesis is supported in your browser';
-    document.getElementById('button').disabled = false;
-}
-</code></pre>
+"What where the sales figures of Martin Beebys sales team last month". 
 
-To start text to speech I first handle the button click.
+But messenger apps aren't going to replace apps that have graphical interfaces: Games, Augmented reality. In fact any app that requires more information than a camera still, or more than 30 seconds of dictation or user input are not going to be great candidates. Email, office, video creation, detailed generalised reporting they all seem to work better as apps rather than bots right now.
 
-<pre><code class="language-javascript">document.getElementById('button').addEventListener('click', function () {// code goes here})
-</code></pre> 
+Messaging bots are far more suited to information consumption rather than creation. 
 
-Next I set up a new Utterance, I pass what I would like to say to the SpeechSynthesisUtterance when I create one.
-<pre><code class="language-javascript">var utterance = new SpeechSynthesisUtterance("Hello and Welcome to thebeebs dot co dot uk");
-</code></pre> 
+## Is it a flash in the pan?
+As Artificial Intelligence and Speech and language understanding improve  messenger bots are going to get more and more capable. This will enable far more complex applications to be built. I can't see this being flash in the pan it has legs in my opinion.
 
-To actually get the browser to speak the utterance, I call the speak method of the speechSynthesis object. I pass in the utterence I created
-in the previous line.
-<pre><code class="language-javascript">window.speechSynthesis.speak(utterance);
-</code></pre> 
+## What types of chatbot will have the greatest longevity?
+One's that improve business processes and productivity. If you can save people time, then you can make money.
 
-## Finding Your Voice
+## Are there sectors which will benefit more than others?
+Companies that are providing services at scale can benefit today from bots today. Any scenarios where you are organising people or assets, or triaging requests. So things like help desks, travel, insurance, telecoms, healthcare I have seen great examples in all those industries.
 
-Each browser will have a different set of voices to choose from to get a list all we do is call the 
-getVoices method of the speechSynthesis object.
-<pre><code class="language-javascript">var voices = window.speechSynthesis.getVoices();
-</code></pre> 
+## Is messaging a waypoint - what about audio?
+I think so, if speech recognition was better I suspect that would become the obvious way to interact with a bot. However, there are times when typing your request still has benefits, maybe you are in a public place or you want your request to be private or you are asking something that won't be easily understood by a speech system.
 
-You will get an array of speechSynthesisVoiceobjects from the this Method. Each one of the 
-objects has the following properties:
+## What have you observed users doing that you didn’t expect?
+Being polite to bots. Or asking questions in unusual ways. So on the Skyscanner bot. I would say "Can I have a flight to Glasgow next weekend. But my dad used it by typing "Glasgow, Fly, Weekend, Please". His expectation of what a bot could do were different than I was expecting.
 
-- name : A human-readable name that describes the voice.
-- voiceURI : A URI specifying the location of the speech synthesis service for this voice.
-- lang : The language code for this voice.
-- default : Will be true for the default voice used by the browser.
-- localService – The API can use a local or remote services to handle speech synthesis. It is true if the voice is local.
+## What data can you share about usage?
+Not much. I worked with Sage on there Pegg Bot they say: [More than 20,000 Sage AI users](https://www.sage.com/us/our-news/press-releases/2017/01/cloud-and-ai): Tens of thousands of ‘new to Sage’ customers adopt accounting chat bot [Pegg](https://www.hellopegg.io/) within six months since launch.
 
-## Further Customisation
+## What tips do you have for delivering as smooth an experience as possible?
+Really work on the conversation design and test early with real people. They say that 5 users will find 80% of your problems, so get it into testers and users hands early and continually iterate and monitor.
 
-The lang attribute gives you the ability to specify the language of the text. 
-This will default to the language of the HTML document.
+## Is conversational design any different from traditional design?
+Yes I think so, but you would have to ask a designer and that one.
 
-<pre><code class="language-javascript">utterance.lang = 'en-GB';
-</code></pre> 
-
-The volume property allows you to adjust the volume of the speech. A float value between 0 and 1 should be specified here. The default is 1.
-
-<pre><code class="language-javascript">utterance.volume = 1;
-</code></pre> 
-
-The rate attribute defines the speed at which the text should be spoken. This should be a float value between 0 and 10, the default being 1.
-
-<pre><code class="language-javascript">utterance.rate = 1;
-</code></pre> 
-
-The pitch attribute controls how high or low the text is spoken. This should be a float value between 0 and 2, with a value of 1 being the default.
-
-<pre><code class="language-javascript">utterance.pitch = 1;
-</code></pre> 
+## What does the future look like?
+Speech, I think it will change everything. Operating system will use speech more and more untill someday, maybe you don't need a touch screen interface or a screen to get most of your tasks done. That could change a lot of tecnology assumptions we make today.
