@@ -8,9 +8,8 @@ types:
 categories:
 - bots
 published: 2017/06/15 11:00:00
-updated: 2017/06/15 11:00:00
+updated: 2017/07/05 00:12:00
 ---
-These are my notes on a panel I did last week. I will turn it into a blog post soon.
 
 ## Are apps dead - has the chatbot supplanted the app?
 
