@@ -15,7 +15,7 @@ I’ve been a developer since I was 16. Having no garage, unlike my American cou
 
 Early on, this involved discovering how to send SMS messages for free by piggybacking on a service owned by HMV. (This was back when an SMS could cost up to 30p.) The resulting service – ZipSMS – grew to capture around 1% of all texts sent each day. It also captured HMV’s attention and, while they were surprisingly good about it, ultimately this meant the demise of that particular brainchild.
 
-Since then, my career has followed roughly the same path – find stuff that needs fixing and then use technology to fix it. Today, I’m a Software Development Engineer for Microsoft.
+Since then, my career has followed roughly the same path – find stuff that needs fixing and then use technology to fix it. Today, I’m a Software Development Engineer at Microsoft.
 
 Basically this means I spend most of my time building software with partners.
 
