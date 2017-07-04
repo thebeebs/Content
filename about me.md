@@ -19,4 +19,4 @@ Since then, my career has followed roughly the same path – find stuff that nee
 
 Basically this means I spend most of my time talking to developers about new tools, languages and products we’re launching and getting their feedback. This is invaluable in ensuring we create the best products we can and that developers get the most value out of them.
 
-While I work across all of our technologies, my particular passion is HTML5. I regularly speak, blog and about all aspects of HTML5 development and implementation. I’ve written articles for, and been featured in, .NET Magazine, ZDNet, the Microsoft Developer Network and Windows Magazine. I’m also the editor of the Microsoft Flash Newsletter.
+While I work across all of our technologies, my particular passion is the Web. I regularly speak, blog and about all aspects of Web development and implementation. I’ve written articles for, and been featured in, .NET Magazine, ZDNet, the Microsoft Developer Network and Windows Magazine. I’m also the editor of the Microsoft Flash Newsletter.
