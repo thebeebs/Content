@@ -29,7 +29,7 @@ While I work across all of our technologies, my particular passion is the Web. I
 I’ve written articles for, and been featured in, NET Magazine, Creative Bloq, SitePoint, ZDNet, the Microsoft Developer Network, and many more.
 
 ### Third Person Bio:
-Martin Beeby works for Microsoft where he works on Web, Bots and Cloud Development. Martin has been developing since he was 16 and over the past 19 years has worked on projects with many Major brands.
+Martin Beeby works for Microsoft where he works on the Web, Bots and Cloud Development. Martin has been developing since he was 16 and over the past 19 years has worked on projects with many Major brands.
 Martin has written articles for, and been featured in, NET Magazine, Creative Bloq, SitePoint, ZDNet, the Microsoft Developer Network, and many more.
 
 ### Short Bio:
