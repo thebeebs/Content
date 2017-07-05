@@ -8,7 +8,7 @@ types:
 categories:
 - speaking
 published: 2015/12/11 12:00:00
-updated: 2017/07/05 06:00:00
+updated: 2017/07/05 05:00:00
 ---
 
 I’m happy to speak at pretty much any developer event. Here are a few topics that I’m talking about at the moment, 
