@@ -34,4 +34,9 @@ Martin has written articles for, and been featured in, NET Magazine, Creative Bl
 
 ### Short Bio:
 Martin works for Microsoft. He’s been a developer since the late 90s and loves figuring out problems and experimenting with code.
-Pictures
+
+
+### Pictures
+
+![Picture of Martin Beeby](https://thebeebscontent.blob.core.windows.net/images/martinbeeby-small.jpg) 
+Larger download [can be found here](https://thebeebscontent.blob.core.windows.net/images/martinbeeby.jpg)
