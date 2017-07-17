@@ -10,6 +10,7 @@ categories:
 - career
 - interviews
 - jobs
+- popular
 published: 2012/03/30 12:00:00
 updated: 2012/03/30 13:00:00
 status: archived
