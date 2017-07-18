@@ -8,6 +8,7 @@ types:
 - secondheadline
 categories:
 - personal
+- popular
 published: 2016/01/01 12:00:00
 updated: 2017/02/07 12:00:00
 ---

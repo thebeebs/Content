@@ -8,6 +8,7 @@ types:
 categories:
 - article
 - clients
+- popular
 published: 2012/05/17 12:00:00
 updated: 2012/05/17 13:00:00
 status: archived
