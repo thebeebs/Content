@@ -1,5 +1,5 @@
 ---
-title: Launch.json and node appication settings
+title: Launch.json and node application settings
 authors:
 - thebeebs
 intro: 'The launch.json file is a great way to add application settings to a node application when you are debugging locally'
@@ -13,9 +13,9 @@ updated: 2017/07/26 14:00:00
 ---
 When hosting a node application in Azure I will often set application settings and keys in the portal using the application settings UI. 
 
-In my app I retreive a variables using the env object e.g. <pre><code class="language-javascript">env.MICROSOFT_APP_ID</code></pre> 
+In my app I retrieve a variables using the env object e.g. <pre><code class="language-javascript">env.MICROSOFT_APP_ID</code></pre> 
 
-It's then a question on how to add these application settings to your app when debugging locally. My current favourite way to do this is to use the <pre>launch.json</pre> file in VS Code. You can configure your debugging experiance [in many ways](https://code.visualstudio.com/Docs/editor/debugging#_launchjson-attributes) using this file and easily add env settings as you can see below:  
+It's then a question on how to add these application settings to your app when debugging locally. My current favourite way to do this is to use the <pre>launch.json</pre> file in VS Code. You can configure your debugging experience  [in many ways](https://code.visualstudio.com/Docs/editor/debugging#_launchjson-attributes) using this file and easily add env settings as you can see below:  
 
 <pre><code class="language-javascript">
 {    
