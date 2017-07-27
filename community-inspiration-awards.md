@@ -8,7 +8,7 @@ types:
 categories:
 - shorts
 published: 2017/07/26 09:00:00
-updated: 2017/07/26 10:00:00
+updated: 2017/07/27 10:00:00
 ---
 
 Last Night I attended the Community Inspiration Awards in Birmingham along with some of the Microsoft BAME organisers and volunteers Shorof, Zia, Raymond, and Deepam.
