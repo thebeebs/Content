@@ -26,4 +26,4 @@ Three Microsoft Technologist walked into a Linux user group. There’s no punch 
 
 I guess technologists like technology, regardless of where it came from.
 
-You can watch the Talks here: https://skillsmatter.com/meetups/8880-linuxing-in-london-may
+You can watch the Talks here: [https://skillsmatter.com/meetups/8880-linuxing-in-london-may](https://skillsmatter.com/meetups/8880-linuxing-in-london-may)
