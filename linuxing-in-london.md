@@ -10,8 +10,9 @@ categories:
 published: 2017/05/18 19:45:00
 updated: 2017/08/01 15:45:00
 ---
+<iframe src="https://spark.adobe.com/video/okTLxbsXp79ES/embed"  width="960" height="540" frameborder="0" allowfullscreen></iframe>
 
-On May, the 18 we ran a special evening of Microsoft and Open source software at Linuxing in London.
+On May, the 18th we ran a special evening of Microsoft and Open source software at Linuxing in London.
 
 There was a free bar and free food that we picked the tab up for. I say we, I mean the Azure team. Thanks, Chiggy.  There were developers and enthusiasts from all spectrums of the Linux community in attendance. 
 
