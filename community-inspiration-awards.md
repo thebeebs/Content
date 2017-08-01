@@ -14,6 +14,8 @@ updated: 2017/07/26 10:00:00
 Last Night I attended the Community Inspiration Awards in Birmingham along with some of the Microsoft BAME organisers and volunteers Shorof, Zia, Raymond, and Deepam.
 Microsoft was shortlisted for an award for its BAME student day event. We sadly didn’t win but were recognised as finalists and given a rather lovely certificate.
 
+![Our Lovely Certificate Presentation](https://thebeebs.azureedge.net/bamepresentation.jpg)
+
 As for my part in BAME I gave a talk at this year’s BAME Student day and judged the student teams that competed to produce an app. I’ve also offered my services to help with organisation and logistics in the future.
 
 Now the elephant in the room of course is that I am not Black, Asian, Ethnic nor am I a minority. I’m actually pretty much as far away from that as possible, but I often speak to young people about how to get a job at a tech company and it’s with that idea that I put forward my talk. 
