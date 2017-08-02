@@ -10,6 +10,8 @@ categories:
 published: 2017/05/18 19:45:00
 updated: 2017/08/01 15:45:00
 ---
+On May, the 18th we ran a special evening of Microsoft and Open source software at Linuxing in London.
+
 <video controls preload="metadata" poster="https://thebeebscontent.blob.core.windows.net/asset-4053cab8-f084-4977-af38-c9b200c89d59/linuxing-in-london_000001.jpg?sv=2015-07-08&sr=c&si=0279b1d9-691f-4773-8348-91e4dac7f666&sig=SkFuXVTjfzJrQq2jRmuMdeg%2F5UXvIJjgCTN6f9hlYB8%3D&se=2017-08-02T12:33:57Z"> 
    
     <source src="https://thebeebscontent.blob.core.windows.net/asset-4053cab8-f084-4977-af38-c9b200c89d59/linuxing-in-london_320x180_400.mp4?sv=2015-07-08&sr=c&si=0279b1d9-691f-4773-8348-91e4dac7f666&sig=SkFuXVTjfzJrQq2jRmuMdeg%2F5UXvIJjgCTN6f9hlYB8%3D&se=2017-08-02T12:33:57Z" type="video/mp4" media="all and (max-width:320px)">
