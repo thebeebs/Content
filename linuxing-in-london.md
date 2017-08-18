@@ -8,7 +8,7 @@ types:
 categories:
 - meetup
 published: 2017/05/18 19:45:00
-updated: 2017/08/01 15:45:00
+updated: 2017/08/18 15:45:00
 ---
 On May, the 18th we ran a special evening of Microsoft and Open source software at Linuxing in London.
 
