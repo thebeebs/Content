@@ -1,5 +1,5 @@
 ---
-title: Feel Overwhelmed by new Technology, You're not alone
+title: Everone feels Overwhelmed
 authors:
 - thebeebs
 intro: 'It can sometimes feel like there is still so much to learn and that everyone else knows more than you and somehow manages to stay current. Fear not, that is normal.'
