@@ -18,7 +18,7 @@ I can present on most Cloud, Web, C# or JavaScript topics. Contact me at martin 
 > Great talk this evening by @thebeebs on the .NET Compiler Platform (aka. Roslyn) at @dotnetsouthwest
 > 
 > Joseph Woodward 
-> [@joe_mighty] (https://twitter.com/joe_mighty/status/831253112488878081)
+> [@joe_mighty](https://twitter.com/joe_mighty/status/831253112488878081)
 
 * The State of the Function: 
 
