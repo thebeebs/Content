@@ -2,7 +2,7 @@
 title: Speaking Requests
 authors:
 - thebeebs
-intro: 'Contact me if you would like me to speak at your event'
+intro: 'Contact me if you would like me to speak at your meetup or event'
 types:
 - headline
 categories:
