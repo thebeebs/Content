@@ -7,7 +7,7 @@ types:
 - speaking
 categories:
 - cloud, web, events
-published: 2017/11/29 21:37:00:00
+published: 2017/11/29 21:37:00
 updated: 2017/11/29 21:37:00
 ---
 
@@ -27,6 +27,6 @@ Familiarity with any of the following coding languages: Java, PHP or Node.js.
 
 ## Recommendations depending on language:
 
-Java: Maven and JDK installed
-Node.js: NPM (Node Package Manager) installed
-PHP: Apache web server and PHP installed
+* Java: Maven and JDK installed
+* Node.js: NPM (Node Package Manager) installed
+* PHP: Apache web server and PHP installed
