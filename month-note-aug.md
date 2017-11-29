@@ -1,8 +1,8 @@
 ---
-title: ‘Month Note August’
+title: 'Month Note August'
 authors:
 - thebeebs
-intro: ‘This month I have been to Preston to work on a the black radley project.’
+intro: 'This month I have been to Preston to work on a the black radley project.'
 types:
 - shorts
 - monthnote
