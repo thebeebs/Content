@@ -28,6 +28,7 @@ There is a real buzz in the air about Functions and Serverless software developm
 * Building JavaScript Applications in the Enterprise for the Web and Mobile
 * Building bots that people want to use
 * A primer of Blockchain for the developer
+* Workshop: Becoming the Dev Star. [More Information](https://thebeebs.co.uk/devstar)
 
 ## My Bio
 
