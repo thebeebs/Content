@@ -7,13 +7,18 @@ types:
 - headline
 categories:
 - speaking
-published: 2015/12/11 12:00:00
+ublished: 2015/12/11 12:00:00
 updated: 2017/11/27 05:00:00
 ---
 
 I’m happy to speak at pretty much any developer event. Here are a few topics that I’m talking about at the moment, 
 but if you have a specific topic feel free to ask me, 
 I can present on most Cloud, Web, C# or JavaScript topics. Contact me at martin dot beeby at oracle.com
+
+> Great talk this evening by @thebeebs on the .NET Compiler Platform (aka. Roslyn) at @dotnetsouthwest
+> 
+> Joseph Woodward 
+> [@joe_mighty] (https://twitter.com/joe_mighty/status/831253112488878081)
 
 * The State of the Function: 
 
@@ -39,3 +44,23 @@ Martin works for Oracle. He’s been a developer since the late 90s and loves fi
 
 ![Picture of Martin Beeby](https://pbs.twimg.com/profile_images/913716032736546816/0ue0bBTG_400x400.jpg) 
 
+
+> November's meet up brought us @thebeebs and The Web on day 10,000. Nicest man alive and a great talk. 
+> 
+> Frontend NE 
+> [@FrontendNE](https://twitter.com/FrontendNE/status/799205507722543104)
+
+> Great talk from @thebeebs at #LinuxingInLondon
+> 
+> Brian Linuxing 
+> [@BrianLinuxing](https://twitter.com/BrianLinuxing/status/865261746579222528)
+
+> Big thanks to @thebeebs and @MartinKearn for coming along to talk at @ADNUGUK tonight. They shared some great information!
+>
+> Gary Ewan Park 
+> [@gep13](https://twitter.com/gep13/status/845039417920307200)
+
+> Great talk last night by @thebeebs Reasons to be creative 2016 - the web on day 10,000 
+> 
+> Brian Teeman
+> [@brianteeman](https://twitter.com/brianteeman/status/830032940834906112)
