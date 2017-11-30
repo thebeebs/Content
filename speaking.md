@@ -12,8 +12,7 @@ updated: 2017/11/29 05:00:00
 ---
 
 I’m happy to speak at pretty much any developer event. Here are a few topics that I’m talking about at the moment, 
-but if you have a specific topic feel free to ask me, 
-I can present on most Cloud, Web, C# or JavaScript topics. Contact me at martin dot beeby at oracle.com
+but if you have a specific topic feel free to ask me. I can present on most Cloud, Web, C# or JavaScript topics. Contact me at martin dot beeby at oracle.com
 
 > Great talk this evening by @thebeebs on the .NET Compiler Platform (aka. Roslyn) at @dotnetsouthwest
 > 
@@ -33,10 +32,10 @@ There is a real buzz in the air about Functions and Serverless software developm
 ## My Bio
 
 ### First Person:
-I’m a Developer Evangelist at Oracle. While I work across all of our technologies, my particular passion is Cloud. I regularly speak and blog about all aspects of Cloud development and implementation. I’ve written articles for and featured in, NET Magazine, ZDNet, NOUPE, SitePoint, TutsPlus and Channel 9.
+I am a Developer Evangelist at Oracle. While I work across all of our technologies, my particular passion is Cloud. I regularly speak and blog about all aspects of Cloud development and implementation. I have been a since I was 16 and over the past 19 years has worked on projects with many Major brands. Prior to joining Oracle I worked at Microsoft as a developer and evangelist for 8 years. I’ve written articles for and featured in, NET Magazine, ZDNet, NOUPE, SitePoint, TutsPlus and Channel 9.
 
 ### Third Person Bio:
-Martin beeby is a Developer Evangelist at Oracle. Martin has been developing since he was 16 and over the past 19 years has worked on projects with many Major brands. Martin has written articles for, and been featured in, NET Magazine, ZDNet, NOUPE, SitePoint, TutsPlus and Channel 9.
+Martin Beeby is a Developer Evangelist at Oracle. Martin has been developing since he was 16 and over the past 19 years has worked on projects with many Major brands. Prior to joining Oracle Martin worked at Microsoft as a developer and evangelist for 8 years. Martin has written articles for, and been featured in, NET Magazine, ZDNet, NOUPE, SitePoint, TutsPlus and Channel 9.
 
 ### Short Bio:
 Martin works for Oracle. He’s been a developer since the late 90s and loves figuring out problems and experimenting with code.
