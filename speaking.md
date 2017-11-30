@@ -7,7 +7,7 @@ types:
 - headline
 categories:
 - speaking
-ublished: 2015/12/11 12:00:00
+published: 2015/12/11 12:00:00
 updated: 2017/11/29 05:00:00
 ---
 
