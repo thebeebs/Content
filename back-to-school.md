@@ -8,7 +8,7 @@ types:
 categories:
 - personal
 published: 2017/11/29 12:00:00
-updated: 2017/11/29 12:00:00
+updated: 2017/12/08 12:00:00
 ---
 
 This morning I went to The Hazeley Academy in Milton Keynes with [Si Jobling] (https://twitter.com/si) from asos.com, [Richard Wiggens]( https://twitter.com/richardwiggins) from [MK Geek Night](http://mkgeeknight.co.uk) and [PixelCreation](http://pixelcreation.co.uk ) fame and a bunch of other “Creative Professionals” (yes I realise that creative is a stretch for my profession) that had travelled from far and wide for a creative careers breakfast at 7:30-9:00.

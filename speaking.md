@@ -32,7 +32,7 @@ There is a real buzz in the air about Functions and Serverless software developm
 ## My Bio
 
 ### First Person:
-I am a Developer Evangelist at Oracle. While I work across all of our technologies, my particular passion is Cloud. I regularly speak and blog about all aspects of Cloud development and implementation. I have been a since I was 16 and over the past 19 years have worked on projects with many Major brands. Prior to joining Oracle I worked at Microsoft as a developer and evangelist for 8 years. I’ve written articles for and featured in, NET Magazine, ZDNet, NOUPE, SitePoint, TutsPlus and Channel 9.
+I am a Developer Evangelist at Oracle. While I work across all of our technologies, my particular passion is Cloud. I regularly speak and blog about all aspects of Cloud development and implementation. I have been a developer since I was 16 and over the past 19 years have worked on projects with many Major brands. Prior to joining Oracle I worked at Microsoft as a developer and evangelist for 8 years. I’ve written articles for and featured in, NET Magazine, ZDNet, NOUPE, SitePoint, TutsPlus and Channel 9.
 
 ### Third Person Bio:
 Martin Beeby is a Developer Evangelist at Oracle. Martin has been developing since he was 16 and over the past 19 years has worked on projects with many Major brands. Prior to joining Oracle Martin worked at Microsoft as a developer and evangelist for 8 years. Martin has written articles for, and been featured in, NET Magazine, ZDNet, NOUPE, SitePoint, TutsPlus and Channel 9.
