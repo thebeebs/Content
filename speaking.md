@@ -28,15 +28,40 @@ but if you have a specific topic feel free to ask me. I can present on most Clou
 </thead><tbody>
 <tr>
 <td>The State of the Function</td>
+  
 <td>There is a real buzz in the air about Functions and Serverless software development, and there is an overwhelming number of platforms offering similar but different things. In this 20-minute talk, Martin Beeby will take a look at the various platforms available, give an overview of how they work, their different approaches and talk about projects that he has built using them. </td>
 </tr>
-</tbody></table>
+  
+<tr>
+<td>The Web on Day 10,000</td>
+  
+<td>[Video of this talk](https://www.youtube.com/watch?v=hgcrKRgFpn4)</td>
+</tr>
 
-* The Web on Day 10000 - [Video of this talk](https://www.youtube.com/watch?v=hgcrKRgFpn4)
-* Building JavaScript Applications in the Enterprise for the Web and Mobile
-* Building bots that people want to use
-* A primer of Blockchain for the developer
-* Workshop: Becoming the Dev Star. [More Information](https://thebeebs.co.uk/devstar)
+<tr>
+<td>Building JavaScript Applications in the Enterprise for the Web and Mobile</td>
+  
+<td></td>
+</tr>
+
+<tr>
+<td>Building bots that people want to use</td>
+  
+<td></td>
+</tr>
+
+<tr>
+<td>A primer on Blockchain</td>
+  
+<td></td>
+</tr>
+
+<tr>
+<td>Workshop: Becoming the Dev Star. [More Information](https://thebeebs.co.uk/devstar)</td>  
+<td></td>
+</tr>
+ 
+</tbody></table>
 
 ## My Bio
 
@@ -52,7 +77,6 @@ Martin works for Oracle. He’s been a developer since the late 90s and loves fi
 ### Pictures
 
 ![Picture of Martin Beeby](https://thebeebs.azureedge.net/speaking-profile.jpg) 
-
 
 > November's meet up brought us @thebeebs and The Web on day 10,000. Nicest man alive and a great talk. 
 > 
