@@ -27,6 +27,10 @@ There is a real buzz in the air about Functions and Serverless software developm
 ### Using Docker Containers as Functions
 
 The Fn project is a container native serverless platform that you can run anywhere -- any cloud or on-premise. Each function is a container which means anything that runs in a container can be a function. In this talk, we will explore how it works and how to develop an application using this very different approach to application development.
+
+### Continous Integration and Deployment of Containerised Applications using Wercker
+
+Containerised apps are becoming the new normal, yet it's not always apparent to how to put these applications live in a DevOps style. In this talk I will look at how I use Wercker to deploy a web app I have built.
   
 ### The Web on Day 10,000
 
