@@ -75,8 +75,9 @@ Martin Beeby is a Developer Evangelist at Oracle. Martin has been developing sin
 Martin works for Oracle. He’s been a developer since the late 90s and loves figuring out problems and experimenting with code.
 
 ### Pictures
-
-![Picture of Martin Beeby](https://thebeebs.azureedge.net/speaking-profile.jpg) 
+<a href="https://thebeebs.azureedge.net/speaking-profile.jpg">
+<img src="https://thebeebs.azureedge.net/speaking-profile.jpg" style="max-width:100%;" />
+</a>
 
 > November's meet up brought us @thebeebs and The Web on day 10,000. Nicest man alive and a great talk. 
 > 
