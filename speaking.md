@@ -35,7 +35,7 @@ but if you have a specific topic feel free to ask me. I can present on most Clou
 <tr>
 <td>The Web on Day 10,000</td>
   
-<td>[Video of this talk](https://www.youtube.com/watch?v=hgcrKRgFpn4)</td>
+<td>You can see a <a href="https://www.youtube.com/watch?v=hgcrKRgFpn4">video of this talk here</a></td>
 </tr>
 
 <tr>
@@ -57,8 +57,8 @@ but if you have a specific topic feel free to ask me. I can present on most Clou
 </tr>
 
 <tr>
-<td>Workshop: Becoming the Dev Star. [More Information](https://thebeebs.co.uk/devstar)</td>  
-<td></td>
+<td>Workshop: Becoming the Dev Star.</td>  
+<td>More Information(https://thebeebs.co.uk/devstar)</td>
 </tr>
  
 </tbody></table>
