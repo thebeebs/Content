@@ -23,6 +23,10 @@ but if you have a specific topic feel free to ask me. I can present on most Clou
 ### The State of the Function
   
 There is a real buzz in the air about Functions and Serverless software development, and there is an overwhelming number of platforms offering similar but different things. In this 20-minute talk, Martin Beeby will take a look at the various platforms available, give an overview of how they work, their different approaches and talk about projects that he has built using them. 
+
+### Using Docker Containers as Functions
+
+The Fn project is a container native serverless platform that you can run anywhere -- any cloud or on-premise. Each function is a container which means anything that runs in a container can be a function. In this talk, we will explore how it works and how to develop an application using this very different approach to application development.
   
 ### The Web on Day 10,000
 
@@ -35,7 +39,8 @@ Using live code and demos I will explore, amongst other things, Bots, Web Compon
 You can see a <a href="https://www.youtube.com/watch?v=hgcrKRgFpn4">video of this talk here</a>
  
 ### A Developer Primer on Blockchain
-Come find out how you can build a peer-to-peer distributed ledger forged by consensus. Understand through code how to build “smart contracts” and build a different type of transactional application that establishes trust, accountability and transparency, while streamlining business processes and legal constraints.
+
+Come find out how you can build a peer-to-peer distributed ledger forged by consensus. Understand through code how to create “smart contracts” and develop a different type of transactional application that establishes trust, accountability and transparency, while streamlining business processes and legal constraints.
   
 ### Workshop: Becoming the Dev Star.
 The team at Oracle has put together this interactive workshop that I can now deliver at your company or event. If you are interested just get in contact on email martin dot beeby at oracle dot com.
