@@ -25,16 +25,23 @@ but if you have a specific topic feel free to ask me. I can present on most Clou
 There is a real buzz in the air about Functions and Serverless software development, and there is an overwhelming number of platforms offering similar but different things. In this 20-minute talk, Martin Beeby will take a look at the various platforms available, give an overview of how they work, their different approaches and talk about projects that he has built using them. 
   
 ### The Web on Day 10,000<
-  
-You can see a <a href="https://www.youtube.com/watch?v=hgcrKRgFpn4">video of this talk here</a>
 
-### Building JavaScript Applications in the Enterprise for the Web and Mobile
-  
-### Building bots that people want to use</td>
+It's been 9,700 days since Dec 1990 when the first website was published and changed everything. In this 45 minute talk I will pose one simple question: What will the web be like on day 10,000?
+
+I will look at the future capabilities of browsers, devices and servers and how applications will be impacted by advances in those three areas.
+
+Using live code and demos I will explore, amongst other things, Bots, Web Components, Web Assembly, AI, Language Understanding, Speech and Serverless application architecture.
+
+You can see a <a href="https://www.youtube.com/watch?v=hgcrKRgFpn4">video of this talk here</a>
  
-### A primer on Blockchain
+### A Developer Primer on Blockchain
+Come find out how you can build a peer-to-peer distributed ledger forged by consensus. Understand through code how to build “smart contracts” and build a different type of transactional application that establishes trust, accountability and transparency, while streamlining business processes and legal constraints.
   
 ### Workshop: Becoming the Dev Star.
+The team at Oracle has put together this interactive workshop that I can now deliver at your company or event. If you are interested just get in contact on email martin dot beeby at oracle dot com.
+
+In this workshop you will work together in squads to complete the mission – becoming the Dev Star. We will look at how you build Microservices and host them on the Oracle cloud.
+
 More Information(https://thebeebs.co.uk/devstar)
 
 ## My Bio
