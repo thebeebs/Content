@@ -20,21 +20,21 @@ but if you have a specific topic feel free to ask me. I can present on most Clou
 > [@joe_mighty](https://twitter.com/joe_mighty/status/831253112488878081)
 
 
-###The State of the Function<
+### The State of the Function
   
 There is a real buzz in the air about Functions and Serverless software development, and there is an overwhelming number of platforms offering similar but different things. In this 20-minute talk, Martin Beeby will take a look at the various platforms available, give an overview of how they work, their different approaches and talk about projects that he has built using them. 
   
-###The Web on Day 10,000<
+### The Web on Day 10,000<
   
 You can see a <a href="https://www.youtube.com/watch?v=hgcrKRgFpn4">video of this talk here</a>
 
-###Building JavaScript Applications in the Enterprise for the Web and Mobile
+### Building JavaScript Applications in the Enterprise for the Web and Mobile
   
-###Building bots that people want to use</td>
+### Building bots that people want to use</td>
  
-###A primer on Blockchain
+### A primer on Blockchain
   
-###Workshop: Becoming the Dev Star.
+### Workshop: Becoming the Dev Star.
 More Information(https://thebeebs.co.uk/devstar)
 
 ## My Bio
