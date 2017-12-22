@@ -8,7 +8,7 @@ types:
 categories:
 - speaking
 published: 2015/12/11 12:00:00
-updated: 2017/11/29 05:00:00
+updated: 2017/12/21 05:00:00
 ---
 
 I’m happy to speak at pretty much any developer event. Here are a few topics that I’m talking about at the moment, 
@@ -19,9 +19,18 @@ but if you have a specific topic feel free to ask me. I can present on most Clou
 > Joseph Woodward 
 > [@joe_mighty](https://twitter.com/joe_mighty/status/831253112488878081)
 
-* The State of the Function: 
 
-There is a real buzz in the air about Functions and Serverless software development, and there is an overwhelming number of platforms offering similar but different things. In this 20-minute talk, Martin Beeby will take a look at the various platforms available, give an overview of how they work, their different approaches and talk about projects that he has built using them. 
+<table><thead>
+<tr>
+<th>Talk Name</th>
+<th>Abstract</th>
+</tr>
+</thead><tbody>
+<tr>
+<td>The State of the Function</td>
+<td>There is a real buzz in the air about Functions and Serverless software development, and there is an overwhelming number of platforms offering similar but different things. In this 20-minute talk, Martin Beeby will take a look at the various platforms available, give an overview of how they work, their different approaches and talk about projects that he has built using them. </td>
+</tr>
+</tbody></table>
 
 * The Web on Day 10000 - [Video of this talk](https://www.youtube.com/watch?v=hgcrKRgFpn4)
 * Building JavaScript Applications in the Enterprise for the Web and Mobile
