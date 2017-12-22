@@ -24,7 +24,7 @@ but if you have a specific topic feel free to ask me. I can present on most Clou
   
 There is a real buzz in the air about Functions and Serverless software development, and there is an overwhelming number of platforms offering similar but different things. In this 20-minute talk, Martin Beeby will take a look at the various platforms available, give an overview of how they work, their different approaches and talk about projects that he has built using them. 
   
-### The Web on Day 10,000<
+### The Web on Day 10,000
 
 It's been 9,700 days since Dec 1990 when the first website was published and changed everything. In this 45 minute talk I will pose one simple question: What will the web be like on day 10,000?
 
