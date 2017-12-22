@@ -20,48 +20,22 @@ but if you have a specific topic feel free to ask me. I can present on most Clou
 > [@joe_mighty](https://twitter.com/joe_mighty/status/831253112488878081)
 
 
-<table><thead>
-<tr>
-<th>Talk Name</th>
-<th>Abstract</th>
-</tr>
-</thead><tbody>
-<tr>
-<td>The State of the Function</td>
+###The State of the Function<
   
-<td>There is a real buzz in the air about Functions and Serverless software development, and there is an overwhelming number of platforms offering similar but different things. In this 20-minute talk, Martin Beeby will take a look at the various platforms available, give an overview of how they work, their different approaches and talk about projects that he has built using them. </td>
-</tr>
+There is a real buzz in the air about Functions and Serverless software development, and there is an overwhelming number of platforms offering similar but different things. In this 20-minute talk, Martin Beeby will take a look at the various platforms available, give an overview of how they work, their different approaches and talk about projects that he has built using them. 
   
-<tr>
-<td>The Web on Day 10,000</td>
+###The Web on Day 10,000<
   
-<td>You can see a <a href="https://www.youtube.com/watch?v=hgcrKRgFpn4">video of this talk here</a></td>
-</tr>
+You can see a <a href="https://www.youtube.com/watch?v=hgcrKRgFpn4">video of this talk here</a>
 
-<tr>
-<td>Building JavaScript Applications in the Enterprise for the Web and Mobile</td>
+###Building JavaScript Applications in the Enterprise for the Web and Mobile
   
-<td></td>
-</tr>
-
-<tr>
-<td>Building bots that people want to use</td>
-  
-<td></td>
-</tr>
-
-<tr>
-<td>A primer on Blockchain</td>
-  
-<td></td>
-</tr>
-
-<tr>
-<td>Workshop: Becoming the Dev Star.</td>  
-<td>More Information(https://thebeebs.co.uk/devstar)</td>
-</tr>
+###Building bots that people want to use</td>
  
-</tbody></table>
+###A primer on Blockchain
+  
+###Workshop: Becoming the Dev Star.
+More Information(https://thebeebs.co.uk/devstar)
 
 ## My Bio
 
