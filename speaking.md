@@ -34,7 +34,7 @@ Containerised apps are becoming the new normal, yet it's not always apparent to 
   
 ### The Web on Day 10,000
 
-It's been 9,700 days since Dec 1990 when the first website was published and changed everything. In this 45 minute talk I will pose one simple question: What will the web be like on day 10,000?
+It's been 9,865 days since Dec 1990 when the first website was published and changed everything. In this 45 minute talk I will pose one simple question: What will the web be like on day 10,000?
 
 I will look at the future capabilities of browsers, devices and servers and how applications will be impacted by advances in those three areas.
 
