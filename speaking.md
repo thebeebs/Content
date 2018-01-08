@@ -93,3 +93,8 @@ Martin works for Oracle. He’s been a developer since the late 90s and loves fi
 > 
 > Brian Teeman
 > [@brianteeman](https://twitter.com/brianteeman/status/830032940834906112)
+
+> He's bloody good.
+> 
+> Adam Bolton, International Developers in London
+> [@Adam__Bolton](https://twitter.com/Adam__Bolton/status/950474643885961216)
