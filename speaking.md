@@ -8,17 +8,17 @@ types:
 categories:
 - speaking
 published: 2015/12/11 12:00:00
-updated: 2017/12/21 05:00:00
+updated: 2018/01/07 05:00:00
 ---
 
 I’m happy to speak at pretty much any developer event. Here are a few topics that I’m talking about at the moment, 
 but if you have a specific topic feel free to ask me. I can present on most Cloud, Web, C# or JavaScript topics. Contact me at martin dot beeby at oracle.com
 
-> Great talk this evening by @thebeebs on the .NET Compiler Platform (aka. Roslyn) at @dotnetsouthwest
-> 
-> Joseph Woodward 
-> [@joe_mighty](https://twitter.com/joe_mighty/status/831253112488878081)
-
+> Martin spoke at the Hyperledger London Meetup and he was fantastic! Very experienced speaker with great ideas on how to make his talks entertaining and interactive!
+>
+> Marta Piekarska 
+> Director of Ecosystem, Hyperledger
+> Linux Foundation
 
 ### The State of the Function
   
@@ -68,6 +68,11 @@ Martin works for Oracle. He’s been a developer since the late 90s and loves fi
 <a href="https://thebeebs.azureedge.net/speaking-profile.jpg">
 <img src="https://thebeebs.azureedge.net/speaking-profile.jpg" style="max-width:100%;" />
 </a>
+
+> Great talk this evening by @thebeebs on the .NET Compiler Platform (aka. Roslyn) at @dotnetsouthwest
+> 
+> Joseph Woodward 
+> [@joe_mighty](https://twitter.com/joe_mighty/status/831253112488878081)
 
 > November's meet up brought us @thebeebs and The Web on day 10,000. Nicest man alive and a great talk. 
 > 
