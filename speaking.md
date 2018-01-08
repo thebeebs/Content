@@ -11,8 +11,8 @@ published: 2015/12/11 12:00:00
 updated: 2018/01/07 05:00:00
 ---
 
-I’m happy to speak at pretty much any developer event. Here are a few topics that I’m talking about at the moment, 
-but if you have a specific topic feel free to ask me. I can present on most Cloud, Web, C# or JavaScript topics. Contact me at martin dot beeby at oracle.com
+I’m happy to speak at pretty much any developer event in Europe, the Middle East or Africa. Here are a few topics that I’m talking about at the moment, 
+but if you have a specific topic feel free to ask me. I can present on most Cloud, Web, JavaScript or C# topics. Contact me at martin dot beeby at oracle.com
 
 > Martin spoke at the Hyperledger London Meetup and he was fantastic! Very experienced speaker with great ideas on how to make his talks entertaining and interactive!
 >
