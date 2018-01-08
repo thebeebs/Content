@@ -17,8 +17,8 @@ but if you have a specific topic feel free to ask me. I can present on most Clou
 > Martin spoke at the Hyperledger London Meetup and he was fantastic! Very experienced speaker with great ideas on how to make his talks entertaining and interactive!
 >
 > Marta Piekarska 
-> Director of Ecosystem, Hyperledger
-> Linux Foundation
+> 
+> Director of Ecosystem, Hyperledger, Linux Foundation
 
 ### The State of the Function
   
