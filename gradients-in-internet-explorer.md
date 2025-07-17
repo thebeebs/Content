@@ -2,16 +2,22 @@
 title: Gradients in Internet Explorer
 authors:
 - thebeebs
-intro: 'Last week at the [digital barn](http://thedigitalb...'
+intro: Last week at the [digital barn](http://thedigitalb...
 types:
 - shorts
 categories:
 - web
 - html5at5
 published: 2012/02/20 12:00:00
-updated: 2012/02/20 13:00:00
+updated: 2012/02/20 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 Last week at the [digital barn](http://thedigitalbarn.co.uk/) I gave a talk called &ldquo;The Way the web should be&rdquo; in it I talked about the importance of Web Standards in the development of IE. In a follow up blog post [Ian Parr](http://www.twitter.com/devolute) made an interesting point:> <p>One point that I think MS people sometimes miss is that it&rsquo;s one thing having comparable features in browsers, but it&rsquo;s another thing all-together ensuring that these features can be implemented consistently. I think a great example of this is implementing a linear gradient with opacity using CSS3. It&rsquo;s great that you can now do this in CSS but if you look at the difference between doing this in Firefox and Webkit (with a nice tidy rgba value) and IE9 (with a confusing 8-digit hex code&hellip; thing) then it shows there is still one way for IE and one way for everyone else.
 

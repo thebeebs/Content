@@ -1,16 +1,23 @@
 ---
-title: 'Month Note June'
+title: Month Note June
 authors:
 - thebeebs
-intro: 'This month I have loads of BOT events and projects a tonne of Cognitive Work and thank goodness a holiday.'
+intro: This month I have loads of BOT events and projects a tonne of Cognitive Work
+  and thank goodness a holiday.
 types:
 - shorts
 - monthnote
 categories:
 - personal
-published: 2017/06/07 13:00:00
-updated: 2017/06/07 13:30:00
+published: 2017/06/07 12:00:00
+updated: 2017/06/07 12:00:00
 ---
+
+
+
+
+
+
 
 At Microsoft this is one of the busiest times of year. Our year ends in June and so now is the time for last minute efforts to achieve whatever you set out in your commitments.
 

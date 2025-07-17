@@ -1,8 +1,8 @@
 ---
-title: Tech conferences – a four-point survival guide
+title: "Tech conferences \u2013 a four-point survival guide"
 authors:
 - thebeebs
-intro: 'I go to a lot of conferences.&nbsp; Some would say...'
+intro: I go to a lot of conferences.&nbsp; Some would say...
 types:
 - shorts
 categories:
@@ -10,9 +10,15 @@ categories:
 - events
 - html5
 published: 2012/03/29 12:00:00
-updated: 2012/03/29 13:00:00
+updated: 2012/03/29 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 I go to a lot of conferences.&nbsp; Some would say too many. In fact, it&rsquo;s probably around 25 or so a year. So, about one every fortnight (although, like London buses, there may not be one for a bit and then three turn up in the same week).<p>While some are brilliant &ndash; incisive, inspirational, a joy to be at &ndash; I sit in others and realise that this is time I will never get back. The trick is, of course, spotting the difference before they lock you in. But I&rsquo;m not sure I&rsquo;ve quite cracked that one yet.
 

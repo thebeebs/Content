@@ -2,7 +2,7 @@
 title: How do you stop element breaking inside a CSS3 multi column layout
 authors:
 - thebeebs
-intro: 'I came across a rather annoying feature today when...'
+intro: I came across a rather annoying feature today when...
 types:
 - shorts
 categories:
@@ -10,9 +10,15 @@ categories:
 - web
 - html5at5
 published: 2013/02/28 12:00:00
-updated: 2013/02/28 13:00:00
+updated: 2013/02/28 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 I came across a rather annoying feature today when I was trying to create a layout with [CSS3 multi column](http://www.w3.org/TR/css3-multicol/). I wanted to stack some divs on top of each other in columns.
 

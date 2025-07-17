@@ -1,16 +1,22 @@
 ---
-title: 'Month Note July'
+title: Month Note July
 authors:
 - thebeebs
-intro: 'This month I have moved teams'
+intro: This month I have moved teams
 types:
 - shorts
 - monthnote
 categories:
 - personal
-published: 2017/07/05 10:00:00
-updated: 2017/07/07 10:30:00
+published: 2017/07/05 12:00:00
+updated: 2017/07/07 12:00:00
 ---
+
+
+
+
+
+
 As I write this I have been back from holiday for three days and as I look out of the window at Microsoft London's offices, over the road at the Virgin (the business) Offices I'm contemplating all that’s changed in the past few days. As I understand it there have been some redundancies (these do not directly impact me personally) due to a reorganisation in the business.
 
 As part of this I have been moved into a new team called Commercial Software Engineering. This is the new name for my old department DX (Developer Experience) however, the job looks very different from what I have been doing previously. I will also no longer report to the UK but instead report to the global team. Past that, I’m not too clear on what I will be doing.

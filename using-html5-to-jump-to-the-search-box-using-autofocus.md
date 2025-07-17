@@ -9,9 +9,15 @@ categories:
 - web
 - html5at5
 published: 2012/01/23 12:00:00
-updated: 2012/01/23 13:00:00
+updated: 2012/01/23 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 [Autofocus](http://dev.w3.org/html5/spec/Overview.html#autofocusing-a-form-control) is a HTML5 attribute that you add to input elements, which cause the browser to automatically focus on the input element when the page loads. Google and every other search engine have been doing this since the dawn of time (slight exaggeration) with JavaScript but now you can do it with some simple markup.
 

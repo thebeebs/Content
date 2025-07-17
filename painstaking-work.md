@@ -2,15 +2,21 @@
 title: Painstaking Work
 authors:
 - thebeebs
-intro: 'I often think that web development work can be pai...'
+intro: I often think that web development work can be pai...
 types:
 - shorts
 categories:
 - web
 published: 2010/11/09 12:00:00
-updated: 2010/11/09 13:00:00
+updated: 2010/11/09 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 I often think that web development work can be painstaking. Aligning pixels across browsers can be hard work, but it's nothing when you compare it to the work that Kim Rugg does:<p>&nbsp;
 

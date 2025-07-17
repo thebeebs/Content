@@ -2,15 +2,23 @@
 title: Everone feels Overwhelmed
 authors:
 - thebeebs
-intro: 'It can sometimes feel like there is still so much to learn and that everyone else knows more than you and somehow manages to stay current. Fear not, that is normal.'
+intro: It can sometimes feel like there is still so much to learn and that everyone
+  else knows more than you and somehow manages to stay current. Fear not, that is
+  normal.
 types:
 - shorts
 categories:
 - personal
 - popular
-published: 2017/12/21 11:33:00
-updated: 2017/12/21 11:33:00
+published: 2017/12/21 12:00:00
+updated: 2017/12/21 12:00:00
 ---
+
+
+
+
+
+
 
 If you are a fulltime Developer, there are lots pressures to stay current. It can sometimes feel like there's still so much to learn and that everyone else knows more than you and somehow manages to stay current. Allow me to let you into a little secret: No one is ever up to date.
 

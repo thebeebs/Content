@@ -2,15 +2,22 @@
 title: Launch.json and node application settings
 authors:
 - thebeebs
-intro: 'The launch.json file is a great way to add application settings to a node application when you are debugging locally'
+intro: The launch.json file is a great way to add application settings to a node application
+  when you are debugging locally
 types:
 - tutorials
 categories:
 - web
 - bots
-published: 2017/07/26 14:00:00
-updated: 2017/07/26 14:00:00
+published: 2017/07/26 12:00:00
+updated: 2017/07/26 12:00:00
 ---
+
+
+
+
+
+
 When hosting a node application in Azure I will often set application settings and keys in the portal using the application settings UI. 
 
 In my app I retrieve a variables using the env object e.g. <pre><code class="language-javascript">env.MICROSOFT_APP_ID</code></pre> 

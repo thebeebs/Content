@@ -1,8 +1,8 @@
 ---
-title: 'README all about how I manage the content for my blog'
+title: README all about how I manage the content for my blog
 authors:
 - thebeebs
-intro: 'This is simply about how I mange the content of my blog'
+intro: This is simply about how I mange the content of my blog
 types:
 - opinion
 categories:
@@ -10,6 +10,12 @@ categories:
 published: 2016/01/01 12:00:00
 updated: 2017/05/01 12:00:00
 ---
+
+
+
+
+
+
 
 I use GitHub to manage the content of my blog. The hope was that this would provide me with a central 
 repository for all of my content and alow anyone to contribute.

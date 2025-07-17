@@ -1,0 +1,529 @@
+/* Authentic Amiga Workbench Theme */
+:root {
+  /* Amiga Workbench 1.3 colors */
+  --wb-bg: #0055aa;
+  --wb-text: #ffffff;
+  --wb-window: #aaaaaa;
+  --wb-window-text: #000000;
+  --wb-title-active: #ffffff;
+  --wb-title-inactive: #aaaaaa;
+  --wb-title-text: #000000;
+  --wb-highlight: #ff8800;
+  --wb-border: #000000;
+  --wb-gadget: #ffffff;
+  --wb-gadget-text: #000000;
+  --wb-folder: #ffffff;
+  --wb-file: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: 'TopazPlus';
+  src: url('https://cdn.jsdelivr.net/gh/rewtnull/amigafonts/fonts/TopazPlus_a1200.ttf') format('truetype');
+}
+
+body {
+  font-family: 'TopazPlus', monospace;
+  background-color: var(--wb-bg);
+  color: var(--wb-text);
+  line-height: 1.4;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  height: 100vh;
+  cursor: default;
+  font-size: 13px;
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Workbench Desktop */
+.workbench {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  background-color: var(--wb-bg);
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAEklEQVQImWNgYGD4z0AswK4SAFXuAf8EPy+xAAAAAElFTkSuQmCC');
+  background-repeat: repeat;
+}
+
+/* Desktop Icons */
+.desktop-icons {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+  gap: 10px;
+  padding: 10px;
+}
+
+.desktop-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+  width: 80px;
+  text-align: center;
+  padding: 5px;
+}
+
+.desktop-icon.selected {
+  background-color: var(--wb-highlight);
+}
+
+.desktop-icon.selected .icon-label {
+  color: var(--wb-window-text);
+}
+
+.icon {
+  width: 40px;
+  height: 40px;
+  margin-bottom: 5px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.icon.disk {
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><rect fill="%23ffffff" stroke="%23000000" stroke-width="1" x="5" y="5" width="30" height="30" rx="2" /><rect fill="%23000000" x="10" y="10" width="20" height="5" /><rect fill="%23000000" x="10" y="20" width="20" height="2" /><rect fill="%23000000" x="10" y="25" width="20" height="2" /></svg>');
+}
+
+.icon.folder {
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><path fill="%23ffffff" stroke="%23000000" stroke-width="1" d="M5,10 L15,10 L20,15 L35,15 L35,35 L5,35 Z" /><path fill="%23ffffff" stroke="%23000000" stroke-width="1" d="M5,10 L15,10 L20,15 L5,15 Z" /></svg>');
+}
+
+.icon.document {
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><path fill="%23ffffff" stroke="%23000000" stroke-width="1" d="M10,5 L25,5 L30,10 L30,35 L10,35 Z" /><path fill="%23ffffff" stroke="%23000000" stroke-width="1" d="M25,5 L25,10 L30,10" /></svg>');
+}
+
+.icon-label {
+  color: var(--wb-text);
+  font-size: 11px;
+  word-wrap: break-word;
+  max-width: 80px;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+}
+
+/* Windows */
+.window {
+  position: absolute;
+  background-color: var(--wb-window);
+  border: 1px solid var(--wb-border);
+  display: flex;
+  flex-direction: column;
+  z-index: 10;
+  min-width: 200px;
+  min-height: 150px;
+}
+
+.window.hidden {
+  display: none;
+}
+
+.window.active {
+  z-index: 100;
+}
+
+.window-titlebar {
+  height: 20px;
+  background-color: var(--wb-title-active);
+  color: var(--wb-title-text);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: move;
+  user-select: none;
+  border-bottom: 1px solid var(--wb-border);
+  padding: 0 5px;
+}
+
+.window.inactive .window-titlebar {
+  background-color: var(--wb-title-inactive);
+}
+
+.window-title {
+  font-weight: bold;
+  font-size: 12px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.window-controls {
+  display: flex;
+  gap: 2px;
+}
+
+.window-control {
+  width: 16px;
+  height: 16px;
+  background-color: var(--wb-gadget);
+  border: 1px solid var(--wb-border);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  font-weight: bold;
+  color: var(--wb-gadget-text);
+}
+
+.window-control:active {
+  background-color: var(--wb-highlight);
+}
+
+.window-content {
+  flex-grow: 1;
+  overflow: auto;
+  background-color: var(--wb-window);
+  color: var(--wb-window-text);
+  position: relative;
+  border: 2px solid var(--wb-window);
+}
+
+/* Directory Window */
+.directory-window {
+  width: 400px;
+  height: 300px;
+  top: 50px;
+  left: 50px;
+}
+
+.directory-header {
+  padding: 5px;
+  border-bottom: 1px solid var(--wb-border);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--wb-window);
+}
+
+.directory-path {
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.directory-controls {
+  display: flex;
+  gap: 5px;
+}
+
+.directory-control {
+  background-color: var(--wb-gadget);
+  border: 1px solid var(--wb-border);
+  padding: 2px 8px;
+  cursor: pointer;
+  font-size: 11px;
+  color: var(--wb-gadget-text);
+}
+
+.directory-control:active {
+  background-color: var(--wb-highlight);
+}
+
+.directory-items {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+  gap: 10px;
+  padding: 10px;
+}
+
+.directory-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+  width: 80px;
+  text-align: center;
+  padding: 5px;
+}
+
+.directory-item:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.directory-item.selected {
+  background-color: var(--wb-highlight);
+}
+
+.directory-item.selected .item-label {
+  color: var(--wb-window-text);
+}
+
+.item-icon {
+  width: 32px;
+  height: 32px;
+  margin-bottom: 5px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.item-icon.folder {
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="%23ffffff" stroke="%23000000" stroke-width="1" d="M4,8 L12,8 L16,12 L28,12 L28,28 L4,28 Z" /><path fill="%23ffffff" stroke="%23000000" stroke-width="1" d="M4,8 L12,8 L16,12 L4,12 Z" /></svg>');
+}
+
+.item-icon.document {
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="%23ffffff" stroke="%23000000" stroke-width="1" d="M8,4 L20,4 L24,8 L24,28 L8,28 Z" /><path fill="%23ffffff" stroke="%23000000" stroke-width="1" d="M20,4 L20,8 L24,8" /></svg>');
+}
+
+.item-label {
+  font-size: 11px;
+  word-wrap: break-word;
+  max-width: 80px;
+  color: var(--wb-window-text);
+}
+
+.directory-status {
+  padding: 2px 5px;
+  font-size: 11px;
+  border-top: 1px solid var(--wb-border);
+  background-color: var(--wb-window);
+}
+
+/* Document Window */
+.document-window {
+  width: 500px;
+  height: 400px;
+  top: 70px;
+  left: 150px;
+}
+
+.document-content {
+  padding: 10px;
+  font-family: 'TopazPlus', monospace;
+  line-height: 1.5;
+  height: 100%;
+  overflow: auto;
+}
+
+.document-content h1, 
+.document-content h2, 
+.document-content h3 {
+  color: var(--wb-window-text);
+  margin-top: 15px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.document-content h1 {
+  font-size: 16px;
+}
+
+.document-content h2 {
+  font-size: 14px;
+}
+
+.document-content h3 {
+  font-size: 13px;
+}
+
+.document-content p {
+  margin-bottom: 15px;
+}
+
+.document-content pre {
+  background-color: var(--wb-bg);
+  color: var(--wb-text);
+  padding: 10px;
+  border: 1px solid var(--wb-border);
+  overflow-x: auto;
+  margin-bottom: 15px;
+}
+
+.document-content img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid var(--wb-border);
+  margin: 10px 0;
+}
+
+.document-content a {
+  color: var(--wb-window-text);
+  text-decoration: underline;
+}
+
+/* About Window */
+.about-window {
+  width: 300px;
+  height: 200px;
+  top: 100px;
+  left: 200px;
+}
+
+.about-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  text-align: center;
+  padding: 20px;
+}
+
+.about-logo {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.about-version {
+  margin-bottom: 20px;
+  font-size: 12px;
+}
+
+.about-description {
+  margin-bottom: 20px;
+  font-size: 12px;
+}
+
+.about-copyright {
+  font-size: 11px;
+  margin-top: 20px;
+}
+
+/* Context Menu */
+.context-menu {
+  position: absolute;
+  background-color: var(--wb-window);
+  border: 1px solid var(--wb-border);
+  z-index: 1000;
+  min-width: 150px;
+  color: var(--wb-window-text);
+}
+
+.context-menu.hidden {
+  display: none;
+}
+
+.context-menu-item {
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 11px;
+}
+
+.context-menu-item:hover {
+  background-color: var(--wb-highlight);
+}
+
+.context-menu-separator {
+  height: 1px;
+  background-color: var(--wb-border);
+  margin: 5px 0;
+}
+
+/* Startup Screen */
+.startup-screen {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: var(--wb-bg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+.startup-logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: var(--wb-text);
+  margin-bottom: 20px;
+}
+
+.startup-progress {
+  width: 200px;
+  height: 20px;
+  border: 1px solid var(--wb-text);
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.startup-progress-bar {
+  height: 100%;
+  background-color: var(--wb-text);
+  width: 0%;
+  transition: width 3s ease-in-out;
+}
+
+.startup-message {
+  color: var(--wb-text);
+  font-size: 14px;
+}
+
+/* Mobile Optimizations */
+@media (max-width: 768px) {
+  .desktop-icons {
+    grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
+    gap: 5px;
+  }
+  
+  .desktop-icon {
+    width: 60px;
+  }
+  
+  .icon {
+    width: 30px;
+    height: 30px;
+  }
+  
+  .icon-label {
+    font-size: 10px;
+    max-width: 60px;
+  }
+  
+  .window {
+    width: 90vw !important;
+    height: 80vh !important;
+    top: 10vh !important;
+    left: 5vw !important;
+  }
+  
+  .directory-items {
+    grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
+  }
+  
+  .directory-item {
+    width: 60px;
+  }
+  
+  .item-icon {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .item-label {
+    font-size: 10px;
+    max-width: 60px;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 16px;
+  height: 16px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--wb-window);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--wb-gadget);
+  border: 1px solid var(--wb-border);
+}
+
+::-webkit-scrollbar-button {
+  background: var(--wb-gadget);
+  border: 1px solid var(--wb-border);
+  display: block;
+  height: 16px;
+  width: 16px;
+}

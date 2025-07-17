@@ -8,9 +8,15 @@ types:
 categories:
 - events
 published: 2010/10/07 12:00:00
-updated: 2010/10/07 13:00:00
+updated: 2010/10/07 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 [![Steve Ballmer](images/5875.balmer_thumb_78D46664.png "Steve Ballmer")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/4370.balmer_5C2B171C.png) 
 

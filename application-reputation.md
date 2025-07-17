@@ -2,15 +2,21 @@
 title: Application Reputation
 authors:
 - thebeebs
-intro: 'On Thursday during my IE9 online talk I was asked ...'
+intro: On Thursday during my IE9 online talk I was asked ...
 types:
 - shorts
 categories:
 - ie9-beta
 published: 2011/01/24 12:00:00
-updated: 2011/01/24 13:00:00
+updated: 2011/01/24 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 On Thursday during my IE9 online talk I was asked to give more information about the inner workings of how Application Reputation works I promised I&rsquo;d update my blog with further information&hellip; So here it is.<p>When I was a kid my mum would warn me, don&rsquo;t cross the road at the end of the street. She'd tell me that so often that by the age of about six I just ignored it, by Six and a half I&rsquo;d managed to get myself run over. If people continually repeat their advice, regardless of how good the advice maybe, it loses it&rsquo;s effect.
 

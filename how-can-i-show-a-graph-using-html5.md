@@ -2,7 +2,7 @@
 title: How can I show a graph using HTML5?
 authors:
 - thebeebs
-intro: 'There are a number of ways to create graphs in HTM...'
+intro: There are a number of ways to create graphs in HTM...
 types:
 - shorts
 categories:
@@ -10,9 +10,15 @@ categories:
 - web
 - html5at5
 published: 2011/12/23 12:00:00
-updated: 2011/12/23 13:00:00
+updated: 2011/12/23 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 There are a number of ways to create graphs in HTML5, you could use canvas for example, but one of my favourite ways is to go outside of the HTML5 spec and use an associated technology called Scalable Vector Graphics (SVG).<p align="left">Using SVG you can create really nice data visualisations that don&rsquo;t degrade when scaled. There are a number of libraries that can get you up and running quickly. [Rapha&euml;l](http://raphaeljs.com) is one of them.
 

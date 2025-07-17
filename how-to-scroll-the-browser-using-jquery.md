@@ -2,15 +2,21 @@
 title: How to scroll the browser using JQuery
 authors:
 - thebeebs
-intro: 'I was looking at the website [http://forrst.com/](...'
+intro: I was looking at the website [http://forrst.com/](...
 types:
 - shorts
 categories:
 - javascript
 published: 2010/11/03 12:00:00
-updated: 2010/11/03 13:00:00
+updated: 2010/11/03 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 I was looking at the website [http://forrst.com/](http://forrst.com/ "http://forrst.com/") and loved the way that they hide the registration screen just below the fold of the front page. When you click on the apply now button the screen scrolls.
 
@@ -18,7 +24,7 @@ I quickly whipped up the following guide to show how easy it is to implement. Yo
 
 &#160;
 
-## Step 1
+# # Step 1
 
 Add the JQuery Library to your webpage. In the demo I have used the Microsoft Hosted version of the Library, you just need to add the following code to the head section of your website:
   <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:9D7513F9-C04C-4721-824A-2B34F0212519:ad1dc3eb-a921-4e6c-9c8a-9fe2e05cf8c4" class="wlWriterEditableSmartContent"><pre style=" width: 478px; height: 39px;background-color:White;overflow: auto;"><div><!--
@@ -30,7 +36,7 @@ http://www.CodeHighlighter.com/
 
 code></div></pre><!-- Code inserted with Steve Dunn's Windows Live Writer Code Formatter Plugin.  http://dunnhq.com --></!--></div>
 
-## Step 2
+# # Step 2
 
 Add the page HTML.
 
@@ -52,7 +58,7 @@ code></div></pre><!-- Code inserted with Steve Dunn's Windows Live Writer Code F
 
 &#160;
 
-## Step 3
+# # Step 3
 
 Add some CSS to style your page. In my example I used really simple colours to illustrate the different sections of the webpage.
 
@@ -93,7 +99,7 @@ code></div></pre><!-- Code inserted with Steve Dunn's Windows Live Writer Code F
 
 &#160;
 
-## Step 4
+# # Step 4
 
 When the user click the link they will fire the scrollScreen event so it is probably a good idea to add the function to the page.
 

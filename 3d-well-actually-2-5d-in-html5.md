@@ -8,9 +8,15 @@ types:
 categories:
 - html5
 published: 2011/01/12 12:00:00
-updated: 2011/01/12 13:00:00
+updated: 2011/01/12 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 ![image](images/2766.image_5A75B728.png "image")It's been released for a little while now, but I just wanted to make sure you hadn't missed this rather cool HTML5 demo that was developed by the National Museum of China. 
 

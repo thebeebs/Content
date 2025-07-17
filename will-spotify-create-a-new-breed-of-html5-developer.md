@@ -9,9 +9,15 @@ categories:
 - article
 - html5
 published: 2011/12/11 12:00:00
-updated: 2011/12/11 13:00:00
+updated: 2011/12/11 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 [The announcement](http://www.billboard.biz/bbbiz/industry/digital-and-mobile/music-app-developers-anticipating-spotify-1005596152.story) that Spotify is transforming itself (at least in part) to an application platform has been grabbing some serious attention in recent days. For those who missed it, the basic idea is that developers will now be able to create HTML5 apps that integrate into the Spotify platform. [Wired](http://www.wired.co.uk/news/archive/2011-12/01/spotify-music-platform) sums it up well:<p>&ldquo;App creators will be able to tap into information about what the user is listening to, as well as the contents of their playlists and the ability to create new playlists. For example, an app might be able to display lyrics or reviews while a song is playing, or generate a list of concerts near the user based on the bands that they play the most, complete with links to buy tickets. It could even recommend you new music.&rdquo;
 

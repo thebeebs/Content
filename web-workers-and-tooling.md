@@ -9,9 +9,15 @@ categories:
 - article
 - html5
 published: 2011/07/11 12:00:00
-updated: 2011/07/11 13:00:00
+updated: 2011/07/11 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 [![Cogs](images/3414.image_thumb_54DA02CC.png "I can&#39;t find a good picture of web workers ;) So cogs will have to do.")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/8787.image_777E4147.png)[Web Workers](http://www.w3.org/TR/workers/) are a technology that give you a way of supporting long running or complex JavaScript functions without interrupting the general browsing experience. In short, Web Workers give developers an opportunity to create applications in JavaScript that would have previously been impossible.
 

@@ -2,16 +2,22 @@
 title: How to write a feature detection script in JavaScript
 authors:
 - thebeebs
-intro: 'When I use a HTML5 feature in my website I will of...'
+intro: When I use a HTML5 feature in my website I will of...
 types:
 - shorts
 categories:
 - web
 - html5at5
 published: 2012/01/25 12:00:00
-updated: 2012/01/25 13:00:00
+updated: 2012/01/25 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 When I use a HTML5 feature in my website I will often test the browser that is visiting to see if it is capable of using the feature. If it is not capable I will Fall-back to something that the browser is a capable of supporting. In practice, I use [modernizr](http://www.modernizr.com/) for this purpose, however, there maybe instances where you want to write your own tests.
 
@@ -49,7 +55,7 @@ So for example the following code would use my test when the browser loads:
 
 [<span>Demo</span> view here ](http://lab.thebeebs.co.uk/featuredetection/audio.html)
 
-## What if I want to use Modernizr and my own custom tests?
+# # What if I want to use Modernizr and my own custom tests?
 
 Modernizr has a rather nice feature that allows you to add custom tests to the library.
 

@@ -2,16 +2,22 @@
 title: How to do a Count in IndexedDB
 authors:
 - thebeebs
-intro: 'I had a question from a customer today where he as...'
+intro: I had a question from a customer today where he as...
 types:
 - shorts
 categories:
 - indexeddb
 - internet-explorer
 published: 2011/11/08 12:00:00
-updated: 2011/11/08 13:00:00
+updated: 2011/11/08 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 I had a question from a customer today where he asked How can I count the records in an IndexedDb database.
 

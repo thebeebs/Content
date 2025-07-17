@@ -2,15 +2,21 @@
 title: IE9 Beta at uktechdays
 authors:
 - thebeebs
-intro: 'It&rsquo;s been interesting watching the tweets an...'
+intro: It&rsquo;s been interesting watching the tweets an...
 types:
 - shorts
 categories:
 - ie9-beta
 published: 2010/10/07 12:00:00
-updated: 2010/10/07 13:00:00
+updated: 2010/10/07 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 It&rsquo;s been interesting watching the tweets and blogs over the last few days, in reaction to the talk that I gave at on Tuesday about IE9. There were some people that were happy to see IE9 beta&rsquo;s new direction and support for standards and some that wished we&rsquo;d go even further, some were happy to see us innovate and use pinning some would rather we didn&rsquo;t.<p>Whatever your opinion, and my gosh there are there allot of them, I think it&rsquo;s fair to say that the IE9 Beta is our fastest and most standards compliant browser and demonstrates a new approach to the way that we develop browsers and approach interoperability.
 

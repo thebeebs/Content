@@ -2,7 +2,7 @@
 title: Will you create the next billion dollar app?
 authors:
 - thebeebs
-intro: 'So [Facebook buys Instagram for a cool $1bn](http:...'
+intro: So [Facebook buys Instagram for a cool $1bn](http:...
 types:
 - shorts
 categories:
@@ -10,9 +10,15 @@ categories:
 - article
 - html5
 published: 2012/04/23 12:00:00
-updated: 2012/04/23 13:00:00
+updated: 2012/04/23 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 So [Facebook buys Instagram for a cool $1bn](http://www.bbc.co.uk/news/business-17666032). Let&rsquo;s face it, even in real money that&rsquo;s a lot of cash. Especially for an app that only launched in late 2010. Just goes to show what a great idea, some&nbsp;good execution&nbsp;and 30 million users can do for you.<p>Of course for every Instagram, there are thousands of apps that never make it beyond a small group of users. But for the lucky few, it&rsquo;s gold-rush time &ndash; either with enough 69p downloads (a la [Angry Birds](http://www.angrybirds.com/)) or with one big acquisition (such as [Instagram](http://www.instagram.com/)). And the reality is that the price of entry has plummeted. While the image of two guys in a garage &ndash; coding, sleeping and eating pizza &ndash; is generally a myth, relatively small teams can create, develop and distribute their apps more easily than ever before.
 

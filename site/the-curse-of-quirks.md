@@ -1,0 +1,1 @@
+/Users/mbeeby/Code/Content/the-curse-of-quirks.md

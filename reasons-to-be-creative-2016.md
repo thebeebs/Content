@@ -2,16 +2,22 @@
 title: Reasons to be creative 2016
 authors:
 - thebeebs
-intro: 'This morning I awoke in a really sunny Brighton. I...'
+intro: This morning I awoke in a really sunny Brighton. I...
 types:
 - shorts
 categories:
 - event
 - web
 published: 2016/09/07 12:00:00
-updated: 2016/09/07 13:00:00
+updated: 2016/09/07 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 This morning I awoke in a really sunny Brighton. I love it hear and i'm in town for what is becoming a regular yearly jaunt to Reasons to be creative a creative event that was previously called flash on the beach.
 

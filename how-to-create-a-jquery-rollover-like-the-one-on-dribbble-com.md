@@ -9,9 +9,15 @@ categories:
 - javascript
 - jquery
 published: 2010/11/14 12:00:00
-updated: 2010/11/14 13:00:00
+updated: 2010/11/14 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 [![owlScrollOver](images/0652.owlScrollOver_6E08A702.png "owlScrollOver")](http://dribbble.com/ "http://dribbble.com/")
 
@@ -23,7 +29,7 @@ I took a look at [http://dribbble.com/](http://dribbble.com/) last night and not
 
 &#160;
 
-## Step 1
+# # Step 1
 
 First we need to add a reference to jQuery 1.4.4.
   <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:9D7513F9-C04C-4721-824A-2B34F0212519:ff35dcb4-8459-48d2-a087-de071faf6b66" class="wlWriterEditableSmartContent"><pre style=" width: 400px; height: 68px;background-color:White;overflow: auto;"><div><!--
@@ -36,7 +42,7 @@ http://www.CodeHighlighter.com/
 
 code></div></pre><!-- Code inserted with Steve Dunn's Windows Live Writer Code Formatter Plugin.  http://dunnhq.com --></!--></div>
 
-## Step 2
+# # Step 2
 
 Add the HTML mark-up for the pictures. I have added a DIV with a class called poloroid (I've just realised that should have been spelt polaroid, whoops), this contains the Image, and a DIV with the class name overlay. This overlay contain 3 tags a **H2**, **H3** and a **H4** which will hold the title, information and date respectively.
 
@@ -64,7 +70,7 @@ http://www.CodeHighlighter.com/
 
 code></div></pre><!-- Code inserted with Steve Dunn's Windows Live Writer Code Formatter Plugin.  http://dunnhq.com --></!--></div>
 
-## Step 3
+# # Step 3
 
 Next up add the CSS to style the content and make it look like a polaroid. There is nothing worth mentioning here other than the fact that I gave the overlay class a z-index of 1 so that it is higher than the image.
 
@@ -136,7 +142,7 @@ http://www.CodeHighlighter.com/
 
 code></div></pre><!-- Code inserted with Steve Dunn's Windows Live Writer Code Formatter Plugin.  http://dunnhq.com --></!--></div>
 
-## Step 4
+# # Step 4
 
 Firstly add a&#160; jQuery ready function that will fire when the document is ready, this should call the **setUp** function.
 
@@ -154,7 +160,7 @@ http://www.CodeHighlighter.com/
 
 code></div></pre><!-- Code inserted with Steve Dunn's Windows Live Writer Code Formatter Plugin.  http://dunnhq.com --></!--></div>
 
-## Step 5
+# # Step 5
 
 Add the setup function, the first line of this function hides all of the objects with an overlay class. If for some reason JavaScript isn't working then the overlay will be visible over the image by default so the website will still be operational.
 

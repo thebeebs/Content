@@ -1,8 +1,9 @@
 ---
-title: Using Modernizr to support the Scale CSS3 2d transform in older versions of IE
+title: Using Modernizr to support the Scale CSS3 2d transform in older versions of
+  IE
 authors:
 - thebeebs
-intro: 'As of Platform preview 6, IE9 has support for CSS3...'
+intro: As of Platform preview 6, IE9 has support for CSS3...
 types:
 - shorts
 categories:
@@ -10,9 +11,15 @@ categories:
 - ie9-beta
 - jquery
 published: 2010/12/07 12:00:00
-updated: 2010/12/07 13:00:00
+updated: 2010/12/07 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 As of Platform preview 6, IE9 has support for CSS3 2d transforms. The final version of IE9 will support CSS3 2d transforms.
 
@@ -26,7 +33,7 @@ To test if the browser is capable of supporting CSS3 2d Transforms I&rsquo;m goi
 
 &nbsp;
 
-## Step 1 &ndash; Setup Modernizr
+# # Step 1 &ndash; Setup Modernizr
 
 To set up Modenizr download the script from [their website](http://www.modernizr.com/) and then add the following script reference to the page:
 
@@ -56,7 +63,7 @@ http://www.CodeHighlighter.com/
 code></div></pre>
 <!-- Code inserted with Steve Dunn's Windows Live Writer Code Formatter Plugin.  http://dunnhq.com --></!--></div>
 
-## Step 2 &ndash; Setup jQuery
+# # Step 2 &ndash; Setup jQuery
 
 To make things easy I&rsquo;m also going to add a reference to JQuery:
 
@@ -73,7 +80,7 @@ code></div></pre>
 
 &nbsp;
 
-## Step 3 &ndash; Test for CSS Transforms
+# # Step 3 &ndash; Test for CSS Transforms
 
 When the document loads I'm going to test if the browser supports csstransforms. If it does I'm going to use jQuery to Apply a CSS Class that uses transforms. If the browser doesn't support Transforms I&rsquo;m going to attempt to use Filters by calling the function&nbsp; **resizeUsingFilters **(Bear in mind this will only work with IE 6/7/8/9 Beta. It won&rsquo;t work with other browsers that don&rsquo;t support CSS3 transforms&hellip; If you have a fix for other browsers you could apply it here too, testing before you apply a fix would be a good idea here, but for simplicity I have not added it to this demo).
 
@@ -102,7 +109,7 @@ code></div></pre>
 
 &nbsp;
 
-## Step 4 &ndash; Add Function to resize using Filters
+# # Step 4 &ndash; Add Function to resize using Filters
 
 This little function uses the proprietary MS filters which is supported by IE6, 7, 8, and IE9Beta
 
@@ -127,7 +134,7 @@ code></div></pre>
 
 &nbsp;
 
-## Step 5 &ndash; Add CSS Class to do CSS transform
+# # Step 5 &ndash; Add CSS Class to do CSS transform
 
 In step 2 we applied a CSS class to the box&hellip; You want to make sure this is added to the style sheet.
 
@@ -159,7 +166,7 @@ http://www.CodeHighlighter.com/
 code></div></pre>
 <!-- Code inserted with Steve Dunn's Windows Live Writer Code Formatter Plugin.  http://dunnhq.com --></!--></div>
 
-## Step 5 &ndash; Add the HTML
+# # Step 5 &ndash; Add the HTML
 
 I&rsquo;ve just used to simple boxes to illustrate that the scaling is working
 

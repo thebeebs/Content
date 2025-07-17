@@ -1,8 +1,9 @@
 ---
-title: 'JavaScript and Unexpected Dependencies'
+title: JavaScript and Unexpected Dependencies
 authors:
 - thebeebs
-intro: 'I have recently been helping a few people debug issues they have with Microsoft Edge.'
+intro: I have recently been helping a few people debug issues they have with Microsoft
+  Edge.
 types:
 - opinion
 categories:
@@ -11,7 +12,11 @@ published: 2016/01/01 12:00:00
 updated: 2017/05/01 12:00:00
 ---
 
-#
+
+
+
+
+
 
 I have recently been helping a few people debug issues they have with Microsoft Edge. 
 

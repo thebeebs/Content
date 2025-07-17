@@ -2,15 +2,21 @@
 title: Responsive web design in 3 minutes 42 seconds
 authors:
 - thebeebs
-intro: 'How many screens do you create your sites for? <p>...'
+intro: How many screens do you create your sites for? <p>...
 types:
 - shorts
 categories:
 - article
 published: 2012/02/28 12:00:00
-updated: 2012/02/28 13:00:00
+updated: 2012/02/28 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 How many screens do you create your sites for? <p>For many designers and developers the answer is one, perhaps two &ndash; a traditional desktop/laptop and, maybe, a smartphone. Chances are these will be two separate sites &ndash; the www.main-site-that-most-effort-goes-into.co.uk and m.mobile-version-with-bigger-buttons-and-some-stuff-taken-out.co.uk. But, just between you and me, the real world isn&rsquo;t nearly so simple. 
 
@@ -24,7 +30,7 @@ Last week I hosted the [Responsive Summit](http://responsivesummit.com/) in Lond
 
 In this post, however, I simply want to give a short primer on responsive web design for the uninitiated together with some links for those who want to know more.
 
-## What is responsive web design?
+# # What is responsive web design?
 
 There are a range of definitions available, but for the purposes of this primer I&rsquo;m going to define responsive web design as:
 
@@ -35,7 +41,7 @@ To flesh this out a little, it means creating a site that will dynamically adapt
 
 Importantly, it can be all these things employing a single set of code and will use CSS3 to achieve the right effects.
 
-## The three core elements to responsive web design
+# # The three core elements to responsive web design
 
 In Ethan Marcotte&rsquo;s book, [Responsive Web Design](http://www.abookapart.com/products/responsive-web-design) (which you simply must go and buy right now) he sets out the three elements you need to play with to create a responsive design:
 
@@ -53,7 +59,7 @@ Media queries allow you to determine the type of media the viewer has access to 
 
 I am, of course, massively over-simplifying the topic here. Do check out Ethan&rsquo;s book, it&rsquo;s a great read. And take a look at the sample site he set up at [http:// responsivewebdesign.com/robot/](http://responsivewebdesign.com/robot/) &ndash; resize to your heart&rsquo;s content to see what he means. Finally, further reading can be found at the links below.
 
-## Further reading
+# # Further reading
 
 *   [Responsive web design](http://www.alistapart.com/articles/responsive-web-design/) (the original A List Apart article by Ethan Marcotte himself)
 *   [Fluid grids, orientation and resolution independence](http://blog.responsivenews.co.uk/post/13925578846/fluid-grids-orientation-resolution-independence)

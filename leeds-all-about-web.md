@@ -1,16 +1,22 @@
 ---
-title: 'All about Web meetup with Jonathon Day & Martin Beeby'
+title: All about Web meetup with Jonathon Day & Martin Beeby
 authors:
 - thebeebs
-intro: 'I am in leeds to talk about the web on day 10000.'
+intro: I am in leeds to talk about the web on day 10000.
 types:
 - speaking
 categories:
 - meetup
 - nocount
-published: 2017/02/08 19:45:00
-updated: 2017/02/01 20:45:00
+published: 2017/02/08 12:00:00
+updated: 2017/02/01 12:00:00
 ---
+
+
+
+
+
+
 
 For the 2nd time in 2017 I'm traveling up to Leeds, this time for a meet up called [All About Web](https://www.meetup.com/AllaboutWeb/events/234578978/). 
 I think it's the first event 

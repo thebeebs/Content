@@ -2,7 +2,7 @@
 title: Notification API
 authors:
 - thebeebs
-intro: 'A look into the Notification API'
+intro: A look into the Notification API
 types:
 - tutorials
 categories:
@@ -11,6 +11,12 @@ categories:
 published: 2017/02/14 12:00:00
 updated: 2017/02/14 12:00:00
 ---
+
+
+
+
+
+
 
 In the example above we have two elements on the page a button and a p element that I am using to display information to give some feedback.
 
@@ -100,7 +106,7 @@ document.getElementById('button').addEventListener('click', function () {
 });
 </code></pre> 
 
-## Push Notification
+# # Push Notification
 
 To perform push notifications the browser must support the [Push](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/pushapi/) API and service workers, 
 since Edge dosen't currently support this I will revisit this when it does. If you want more info, [check this out](https://developers.google.com/web/updates/2015/03/push-notifications-on-the-open-web).

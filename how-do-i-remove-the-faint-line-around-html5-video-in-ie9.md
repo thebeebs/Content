@@ -2,16 +2,22 @@
 title: How do I remove the faint Line around HTML5 Video in IE9?
 authors:
 - thebeebs
-intro: 'When you select a video by clicking, stop, pause o...'
+intro: When you select a video by clicking, stop, pause o...
 types:
 - shorts
 categories:
 - web
 - html5at5
 published: 2011/12/07 12:00:00
-updated: 2011/12/07 13:00:00
+updated: 2011/12/07 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 When you select a video by clicking, stop, pause or play you will see a faint line appear around the video element. This line is intentional so that people navigating your site with a keyboard can see which element them have selected. It&rsquo;s possible to remove the outline by using the following CSS:
 

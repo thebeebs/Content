@@ -2,16 +2,22 @@
 title: A look at the new CSS3 units of measure
 authors:
 - thebeebs
-intro: 'So if you have been developing for any length of t...'
+intro: So if you have been developing for any length of t...
 types:
 - shorts
 categories:
 - web
 - html5at5
 published: 2012/02/13 12:00:00
-updated: 2012/02/13 13:00:00
+updated: 2012/02/13 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 So if you have been developing for any length of time then you are probably familiar with &lsquo;em&rsquo;, &lsquo;%&rsquo;and &lsquo;px&rsquo; as units of measurements in CSS. As part of the CSS3 specification there are a few new&nbsp; units of measurement that I think are worth casting an eye over.
 

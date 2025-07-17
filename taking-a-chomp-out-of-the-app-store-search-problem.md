@@ -2,15 +2,21 @@
 title: Taking a Chomp out of the app store search problem
 authors:
 - thebeebs
-intro: 'Chances are that at some point you&rsquo;ve search...'
+intro: Chances are that at some point you&rsquo;ve search...
 types:
 - shorts
 categories:
 - article
 published: 2012/03/07 12:00:00
-updated: 2012/03/07 13:00:00
+updated: 2012/03/07 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 Chances are that at some point you&rsquo;ve searched for an app in one of the app stores. If you knew what you were looking for by name, you probably found it pretty quickly. If you simply knew the category, you have my sympathies. <p>Let&rsquo;s face it, app store search is broken. Well, maybe not broken so much as it never worked well in the first place. But now that every week seems to see another 1,000+ apps hit the market, the chances of finding the best option for you are witheringly small.
 

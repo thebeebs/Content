@@ -9,9 +9,15 @@ categories:
 - javascript
 - jquery
 published: 2010/11/13 12:00:00
-updated: 2010/11/13 13:00:00
+updated: 2010/11/13 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 [![jQuery](images/0257.jQuery_thumb_29056C86.jpg "jQuery")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/8171.jQuery_7494C00A.jpg)
 
@@ -25,7 +31,7 @@ At the point of writing Google haven't yet updated their CDN but when they do it
 
 1.4.4 is&#160; is the fourth minor release of jQuery 1.4 and fixes a number of bug and adds a few improvements, they have also added the new fadeToggle method. All the fixes can be found [here](http://blog.jquery.com/2010/11/11/jquery-1-4-4-release-notes/) in the jQuery release notes.
 
-## So what is fadeToggle?
+# # So what is fadeToggle?
 
 For a long time we have been able to toggleSlide and toggleClass so I guess it makes sense to add this feature to fading as well. Basically you can use it to fade in or out a elements opacity without having to check it's current visibility.
 
@@ -41,7 +47,7 @@ code></div></pre><!-- Code inserted with Steve Dunn's Windows Live Writer Code F
 
 Under the covers this sets the duration property to 0.
 
-## Using fadeToggle
+# # Using fadeToggle
 
 It's pretty simple to use. In the example below I added a reference to jQuery 1.4.4 then added a link and an Image with the ID of Teddy. In the onclick event of the link I added some jQuery to select the image object and then call the fadeToggle function.
 

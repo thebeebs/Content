@@ -1,15 +1,22 @@
 ---
-title: 'Dev Star Workshop'
+title: Dev Star Workshop
 authors:
 - thebeebs
-intro: 'In this workshop you will work together in squads to complete the mission – becoming the Dev Star.'
+intro: "In this workshop you will work together in squads to complete the mission\
+  \ \u2013 becoming the Dev Star."
 types:
 - speaking
 categories:
 - cloud, web, events
-published: 2017/11/29 21:37:00
-updated: 2017/11/29 21:37:00
+published: 2017/11/29 12:00:00
+updated: 2017/11/29 12:00:00
 ---
+
+
+
+
+
+
 The team at Oracle has put together this interactive workshop that I can now deliver at your company or event. If you are interested just get in contact on email martin dot beeby at oracle dot com.
 
 In this workshop you will work together in squads to complete the mission – becoming the Dev Star.
@@ -20,13 +27,13 @@ In this workshop you will work together in squads to complete the mission – be
 * You will explore and perform actions related to scaling and operating your microservices.
 * You will use your creativity and team play to develop features to your microservices that will help your team win!
 
-## Prerequisites
+# # Prerequisites
 
 Laptop. Any IDE or code editor with Git support.
 
 Familiarity with any of the following coding languages: Java, PHP or Node.js.
 
-## Recommendations depending on language:
+# # Recommendations depending on language:
 
 * Java: Maven and JDK installed
 * Node.js: NPM (Node Package Manager) installed

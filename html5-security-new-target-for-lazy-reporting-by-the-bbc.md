@@ -1,17 +1,23 @@
 ---
-title: HTML5 security – new target for lazy reporting by the BBC
+title: "HTML5 security \u2013 new target for lazy reporting by the BBC"
 authors:
 - thebeebs
-intro: 'Are you scared? Well you should be [according to t...'
+intro: Are you scared? Well you should be [according to t...
 types:
 - shorts
 categories:
 - article
 - html5
 published: 2011/12/13 12:00:00
-updated: 2011/12/13 13:00:00
+updated: 2011/12/13 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 Are you scared? Well you should be [according to the BBC](http://www.bbc.co.uk/news/technology-16005053). Right now cybercriminals are targeting you through frightening new developments in HTML5. Be afraid. Be very afraid.<p>**<rant>**
 

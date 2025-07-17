@@ -2,15 +2,21 @@
 title: A Common mistake with IE9 Pinning
 authors:
 - thebeebs
-intro: 'After my [last blog](http://blogs.msdn.com/b/thebe...'
+intro: After my [last blog](http://blogs.msdn.com/b/thebe...
 types:
 - shorts
 categories:
 - ie9-beta
 published: 2010/09/18 12:00:00
-updated: 2010/09/18 13:00:00
+updated: 2010/09/18 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 After my [last blog](http://blogs.msdn.com/b/thebeebs/archive/2010/09/16/how-to-add-ie9-beta-pinning-to-you-website.aspx "my last blog post") on IE9 pinning a number of people contacted me to tell me that they couldn't get pinning to work. I asked a few people to send me code and kindly they did. What I noticed was a small transcoding error that people had made when copying the code from the image that I had posted. This error will stop the task items appearing on the Jump List menu.
 

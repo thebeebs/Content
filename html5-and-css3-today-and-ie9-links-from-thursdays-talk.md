@@ -2,15 +2,21 @@
 title: HTML5 and CSS3 today and IE9- Links from Thursdays talk
 authors:
 - thebeebs
-intro: 'During my talk on Thursday I mentioned a number of...'
+intro: During my talk on Thursday I mentioned a number of...
 types:
 - shorts
 categories:
 - ie9-beta
 published: 2011/01/24 12:00:00
-updated: 2011/01/24 13:00:00
+updated: 2011/01/24 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 During my talk on Thursday I mentioned a number of links, I&rsquo;ve posted them below for your convenience.<p>The Killers HTML5 Website - [http://www.thekillersmusic.com/HTML5](http://www.thekillersmusic.com/HTML5)
 

@@ -2,15 +2,21 @@
 title: How do I add video elements to a WinJS.UI.ListView
 authors:
 - thebeebs
-intro: 'If you create a [WinJS.UI.ListView](http://msdn.mi...'
+intro: If you create a [WinJS.UI.ListView](http://msdn.mi...
 types:
 - shorts
 categories:
 - win8at8
 published: 2012/08/01 12:00:00
-updated: 2012/08/01 13:00:00
+updated: 2012/08/01 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 If you create a [WinJS.UI.ListView](http://msdn.microsoft.com/en-us/library/windows/apps/hh465496.aspx) and add interactive content to it, by default you will not be be able to interact with it. So with a video element you will not be able to press the play button or change the volume.
 

@@ -2,15 +2,21 @@
 title: Are you developing for all browsers or just your favourite?
 authors:
 - thebeebs
-intro: 'The choice of browsers today is wider than ever be...'
+intro: The choice of browsers today is wider than ever be...
 types:
 - shorts
 categories:
 - article
 published: 2012/02/20 12:00:00
-updated: 2012/02/20 13:00:00
+updated: 2012/02/20 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 The choice of browsers today is wider than ever before. And, for the most part, if you develop for one modern browser, your site will pretty much work on all the others (albeit with a little tweaking here and there). It&rsquo;s pretty amazing, and this browser interoperability is down to the great work standards bodies and standards advocates have been doing since the beginning of the web.<p> However, there is one area that is causing some concern amongst standards advocates and that is &ndash; vendor prefixes.
 
@@ -45,7 +51,7 @@ The real answer, long term, is for us in the browser community to work together 
 
 Until then we all need to do whatever we can to ensure sites are coded for every browser, not just the developer&rsquo;s favourite.
 
-## Further reading
+# # Further reading
 
 There are a whole bunch of posts around vendor prefixes. In addition to those mentioned above, check out:
 

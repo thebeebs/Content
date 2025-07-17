@@ -1,8 +1,8 @@
 ---
-title: 'MozFest 2016'
+title: MozFest 2016
 authors:
 - thebeebs
-intro: 'MozFest is a gathering in London, here's what happened when I went along'
+intro: MozFest is a gathering in London, here is what happened when I went along
 types:
 - shorts
 categories:
@@ -10,6 +10,11 @@ categories:
 published: 2016/01/01 12:00:00
 updated: 2017/05/01 12:00:00
 ---
+
+
+
+
+
 
 I’ve just got back from MozFest 2016 which is a technical gathering in London at Ravensbourne college which is opposite the o2 in the docklands.
 

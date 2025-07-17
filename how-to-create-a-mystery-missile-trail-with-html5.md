@@ -2,15 +2,21 @@
 title: How to create a mystery missile trail with HTML5
 authors:
 - thebeebs
-intro: 'On Monday the 8th of November a large [condensatio...'
+intro: On Monday the 8th of November a large [condensatio...
 types:
 - shorts
 categories:
 - html5
 published: 2010/11/13 12:00:00
-updated: 2010/11/13 13:00:00
+updated: 2010/11/13 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 On Monday the 8th of November a large [condensation trail](http://www.bbc.co.uk/news/world-us-canada-11731014) was visible in the skies of California. It was rumoured that the trail was caused by a missile, however the pentagon have since stated they believe it to have been created by an aircraft.
 
@@ -22,13 +28,13 @@ In the demo below press and then drag the mouse over the canvas and a vapour tra
 
 Below are the steps I took to create this demo:
 
-## Step 1
+# # Step 1
 
 As with all my demos, firstly add a reference to Jquery
   <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:f32c3428-b7e9-4f15-a8ea-c502c7ff2e88:2bdf8ecc-5b80-48a4-860b-86bcff180025" class="wlWriterEditableSmartContent"><pre class="brush: javascript;"><script src="images/jquery-1.4.2.min.js" language="javascript"
 type="text/javascript"></script></pre></div>
 
-## Step 2
+# # Step 2
 
 Next add a function that will be called when the page is ready. Also add in a few global variables which we will use to save objects into later. In the example below I have used the jQuery ready function to fire a JavaScript function called **setUpVapour()**
 
@@ -41,7 +47,7 @@ $(document).ready(function () {
     setUpVapour();
 });</pre></div>
 
-## Step 3
+# # Step 3
 
 The **setUpVapour** function firstly gets a reference to the canvas element and saves it into the canvas variable we set up in step 1. We then call the **getContext** function and save the result into the variable **ctx** that we created in step 1. This **ctx** gives us a reference to the canvas which we will be able to use to draw.
 
@@ -80,9 +86,9 @@ Next we add added the **mousemove** event to the canvas. As the mouse moves we d
     });            
 }</pre></div>
 
-## &#160;
+# # &#160;
 
-## Step 4 
+# # Step 4 
 
 Add the **drawBackground** function. This function loads a JavaScript Image object. It sets the **onload** function to a new anonymous function which will in turn draw the image to canvas only when the image is loaded.
 
@@ -99,7 +105,7 @@ Lastly we set the **src** of the image object.
     images.src = "images/vapour.jpg";
 } </pre></div>
 
-## Step 5
+# # Step 5
 
 Add the **generateRandomPartcle** function. This function takes the x and y coordinates and randomly draws 50 1x1 rectangles around the mouse point. It also changes the colour of 20% of the rectangles to grey.
 

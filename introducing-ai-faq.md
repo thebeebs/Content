@@ -1,15 +1,21 @@
 ---
-title: 'Introducing AI FAQ'
+title: Introducing AI FAQ
 authors:
 - thebeebs
-intro: 'Some frequently asked questiong about Introducing AI'
+intro: Some frequently asked questions about Introducing AI
 types:
 - shorts
 categories:
 - web
-published: 2017/24/03 12:00:00
-updated: 2017/24/03 12:00:00
+published: 2017/03/24 12:00:00
+updated: 2017/03/24 12:00:00
 ---
+
+
+
+
+
+
 
 
 <table>

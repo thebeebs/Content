@@ -2,15 +2,21 @@
 title: Tech.Days is done
 authors:
 - thebeebs
-intro: 'You honestly would not believe the amount of effor...'
+intro: You honestly would not believe the amount of effor...
 types:
 - shorts
 categories:
 - events
 published: 2011/06/02 12:00:00
-updated: 2011/06/02 13:00:00
+updated: 2011/06/02 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 You honestly would not believe the amount of effort and organisation that goes into putting on an event like tech.days. The team have been planning since December. Every Wednesday, 14 or so of us would have an hour long meeting to discuss the logistics, content and video production.<p>My involvement consisted of turning up for the meetings, briefing the agency that were designing the event website, creating the build scripts for putting the site on Azure and sorting out the content for the web day.
 

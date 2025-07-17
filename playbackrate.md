@@ -2,15 +2,21 @@
 title: PlaybackRate
 authors:
 - thebeebs
-intro: 'I was asked an interesting question on Thursday af...'
+intro: I was asked an interesting question on Thursday af...
 types:
 - shorts
 categories:
 - ie9-beta
 published: 2011/01/24 12:00:00
-updated: 2011/01/24 13:00:00
+updated: 2011/01/24 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 I was asked an interesting question on Thursday after I showed my HTML5 video demo. Q: If you use playbackrate to fast forward video does the property have a max value setting? Reading through the W3C [spec](http://dev.w3.org/html5/spec/video.html#video) I couldn&rsquo;t find anything specific.<p>Although the following paragraph seems to suggest that the rate can be set to whatever, but if it is too high then audio should be muted.
 

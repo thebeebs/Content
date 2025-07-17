@@ -1,16 +1,22 @@
 ---
-title: HTML5 - Not just because it’s new and shiny
+title: "HTML5 - Not just because it\u2019s new and shiny"
 authors:
 - thebeebs
-intro: 'After my giddy excitement over the [Cut the Rope H...'
+intro: After my giddy excitement over the [Cut the Rope H...
 types:
 - shorts
 categories:
 - article
 published: 2012/01/16 12:00:00
-updated: 2012/01/16 13:00:00
+updated: 2012/01/16 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 After my giddy excitement over the [Cut the Rope HTML5 game](http://blogs.msdn.com/b/thebeebs/archive/2012/01/10/cut-the-rope-now-in-html5.aspx), Rob Ashton&rsquo;s [comment](http://blogs.msdn.com/b/thebeebs/archive/2012/01/10/cut-the-rope-now-in-html5.aspx#10254977) got me thinking a bit more.<p>In some ways I take Rob&rsquo;s point &ndash; using HTML5 because it&rsquo;s new or shiny or cool isn&rsquo;t the best of reasons for doing this kind of thing. (Although I admit, I like cool stuff as much as anyone.) 
 

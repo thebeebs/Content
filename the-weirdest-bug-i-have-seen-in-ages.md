@@ -2,15 +2,21 @@
 title: The Weirdest Bug I Have Seen In Ages
 authors:
 - thebeebs
-intro: 'One of my colleagues came to me last week with an ...'
+intro: One of my colleagues came to me last week with an ...
 types:
 - shorts
 categories:
 - web
 published: 2015/12/14 12:00:00
-updated: 2015/12/14 13:00:00
+updated: 2015/12/14 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 One of my colleagues came to me last week with an issue they were having with the Costa website inside of Microsoft Edge. When they attempted to checkout and pay for a gift card (they had 20 or so they needed to create) they would press a Checkout button, Microsoft Edge appeared to open an iframe then immediately close it and push the user back to their basket.
 

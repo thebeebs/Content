@@ -8,9 +8,15 @@ types:
 categories:
 - css
 published: 2010/11/13 12:00:00
-updated: 2010/11/13 13:00:00
+updated: 2010/11/13 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 [![TypeKit](images/1323.fonts_thumb_26D84113.png "TypeKit")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/3718.fonts_557E6FC2.png)A common request from clients is to use their corporate font on their website, sadly the font isn't a [websafe](http://en.wikipedia.org/wiki/Web-safe_fonts) one so inevitably you have to use an image for the headings and revert to a safe font for body content.
 

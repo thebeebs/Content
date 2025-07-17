@@ -1,16 +1,22 @@
 ---
-title: 'Northampton Geek Night'
+title: Northampton Geek Night
 authors:
 - thebeebs
-intro: 'I am in Northampton to talk about Cognitive Services'
+intro: I am in Northampton to talk about Cognitive Services
 types:
 - speaking
 categories:
 - meetup
 - count
-published: 2016/10/12 19:00:00
-updated: 2016/10/12 19:30:00
+published: 2016/10/12 12:00:00
+updated: 2016/10/12 12:00:00
 ---
+
+
+
+
+
+
 
 Meetup: https://www.meetup.com/Northampton-Geek-Nights/events/231908208/
 

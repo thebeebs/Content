@@ -2,15 +2,21 @@
 title: SkyDrive re-launched with new interface and more storage
 authors:
 - thebeebs
-intro: 'When I say to someone out side of Microsoft "Stick...'
+intro: When I say to someone out side of Microsoft "Stick...
 types:
 - shorts
 categories:
 - web
 published: 2011/06/20 12:00:00
-updated: 2011/06/20 13:00:00
+updated: 2011/06/20 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 When I say to someone out side of Microsoft "Stick it on SkyDrive" they often look at me blank faced? Do you mean DropBox? Apparently the service has around 100 million users worldwide, but I don't think it's really caught on in the UK as much as it must have done else where. Which is odd considering how good a service it is. 
 

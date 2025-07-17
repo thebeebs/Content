@@ -2,15 +2,21 @@
 title: Granting Access to Twitter applications
 authors:
 - thebeebs
-intro: 'I always think its fun to take a look at the appli...'
+intro: I always think its fun to take a look at the appli...
 types:
 - shorts
 categories:
 - web
 published: 2010/11/22 12:00:00
-updated: 2010/11/22 13:00:00
+updated: 2010/11/22 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 I always think its fun to take a look at the applications that you have given access to via twitter. It's in Settings>&#160; Connections.
 

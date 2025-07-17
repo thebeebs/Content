@@ -2,15 +2,21 @@
 title: IE9 Platform Preview 7 is out
 authors:
 - thebeebs
-intro: 'You can download the [Platform Preview 7 here](htt...'
+intro: You can download the [Platform Preview 7 here](htt...
 types:
 - shorts
 categories:
 - web
 published: 2010/11/17 12:00:00
-updated: 2010/11/17 13:00:00
+updated: 2010/11/17 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 You can download the [Platform Preview 7 here](http://bit.ly/9SKEKW).&nbsp; In our last preview we brought CSS3 2d Transforms, in the new platform preview 7 we show the progress we have made with JavaScript Performance.<p>JavaScript performance is important for many web scenarios, but when you are working with HTML5 canvas, you start to realise why it is so important for the future of the web.
 

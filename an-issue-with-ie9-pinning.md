@@ -2,15 +2,21 @@
 title: An issue with IE9 Pinning
 authors:
 - thebeebs
-intro: 'During the Tech.Days Online conference that I spok...'
+intro: During the Tech.Days Online conference that I spok...
 types:
 - shorts
 categories:
 - web
 published: 2011/10/10 12:00:00
-updated: 2011/10/10 13:00:00
+updated: 2011/10/10 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 During the Tech.Days Online conference that I spoke at last week around 20 questions were asked and I thought I&rsquo;d answered them all. However it turns out that I missed one, so I thought I would answer it here:<p>_Q:&nbsp; I can drag pins to my taskbar, however, when I click on them nothing happens &ndash; the icon highlights for about 10 seconds but then fades back to its original state.&nbsp; Any ideas what could be causing this?_
 

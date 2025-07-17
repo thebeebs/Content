@@ -1,15 +1,22 @@
 ---
-title: 'Fixing InvalidOperationException No database provider has been configured for this DbContext.'
+title: Fixing InvalidOperationException No database provider has been configured for
+  this DbContext.
 authors:
 - thebeebs
-intro: 'I had an odd error popup on my when building a website recently.'
+intro: I had an odd error popup on my when building a website recently.
 types:
 - fix
 categories:
 - web
-published: 2017/01/09 12:20:00
-updated: 2017/01/09 16:15:00
+published: 2017/01/09 12:00:00
+updated: 2017/01/09 12:00:00
 ---
+
+
+
+
+
+
 I had an odd error popup on my when building a website recently in ASP.Net Core 1.0 using EF core 1.0. It happened when I deleted an OnConfiguring method that I thought I no longer needed.
 
 <pre><code class="language-csharp">protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

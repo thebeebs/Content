@@ -32,11 +32,11 @@ The media resource specified by [src](http://msdn.microsoft.com/en-us/site/ff974
 
 In IE9 if you get error code 4 then there are two common issues:
 
-## Incorrect Encoding
+# # Incorrect Encoding
 
 IE9 supports H.264 in an MP4 container and WebM if the user has the codec installed on their machine. To support IE9 you will need to ensure that you have correctly encoded your video. For H.264 video I use [Miro](http://www.mirovideoconverter.com/) (a .net application on windows that wraps up FFMPEG) or if I want a specific baseline or setting I use [Expression Encoder](http://www.microsoft.com/expression/products/EncoderPro_Overview.aspx).
 
-## Incorrect MIME Type
+# # Incorrect MIME Type
 
 You need to make sure your sever returns the correct MIME type when it returns a file. If the file is MP4 then the files MIME type should be video/mp4. If you want to check the MIME type then use the F12 developer tools (press F12 in IE9) and then navigate to the Network Tab. Press Start Capturing and refresh the web site.
 

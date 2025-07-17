@@ -2,15 +2,21 @@
 title: 10 myths holding HTML5 back
 authors:
 - thebeebs
-intro: 'While the momentum is certainly with HTML5, for so...'
+intro: While the momentum is certainly with HTML5, for so...
 types:
 - shorts
 categories:
 - article
 published: 2012/02/08 12:00:00
-updated: 2012/02/08 13:00:00
+updated: 2012/02/08 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 While the momentum is certainly with HTML5, for some of us progress can&rsquo;t happen fast enough. Yet, annoyingly, all too often we find ourselves facing the same old questions and challenges &ndash; ones that really have no basis in reality. So in this post, I want to focus on the 10 myths that I have to put down most often. <p>**Myth 1: HTML5 is a Flash-killer** 
 

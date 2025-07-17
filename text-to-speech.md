@@ -2,7 +2,7 @@
 title: Speech Synthesis API
 authors:
 - thebeebs
-intro: 'A look into the Speech Synthesis API'
+intro: A look into the Speech Synthesis API
 types:
 - tutorials
 categories:
@@ -11,6 +11,12 @@ categories:
 published: 2017/03/11 12:00:00
 updated: 2017/03/11 12:00:00
 ---
+
+
+
+
+
+
 
 In the example above we have two elements on the page a button and a p element that I am using to display information to give some feedback.
 
@@ -44,7 +50,7 @@ in the previous line.
 <pre><code class="language-javascript">window.speechSynthesis.speak(utterance);
 </code></pre> 
 
-## Finding Your Voice
+# # Finding Your Voice
 
 Each browser will have a different set of voices to choose from to get a list all we do is call the 
 getVoices method of the speechSynthesis object.
@@ -60,7 +66,7 @@ objects has the following properties:
 - default : Will be true for the default voice used by the browser.
 - localService – The API can use a local or remote services to handle speech synthesis. It is true if the voice is local.
 
-## Further Customisation
+# # Further Customisation
 
 The lang attribute gives you the ability to specify the language of the text. 
 This will default to the language of the HTML document.

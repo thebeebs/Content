@@ -2,15 +2,21 @@
 title: Turning up our noses at browser sniffing
 authors:
 - thebeebs
-intro: 'Did you notice it? Well if you&rsquo;re an Opera u...'
+intro: Did you notice it? Well if you&rsquo;re an Opera u...
 types:
 - shorts
 categories:
 - article
 published: 2012/02/06 12:00:00
-updated: 2012/02/06 13:00:00
+updated: 2012/02/06 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 Did you notice it? Well if you&rsquo;re an Opera user you might. As of last week, if you go to [Bing](http://www.bing.com/) using Opera, you&rsquo;ll get to see the HTML5 background video in all its glory.<p>Now, let&rsquo;s be clear, it&rsquo;s not as if Opera couldn&rsquo;t play the video before. It just never got the chance.
 

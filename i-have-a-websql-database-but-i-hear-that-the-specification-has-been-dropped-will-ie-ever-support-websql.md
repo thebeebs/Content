@@ -1,17 +1,24 @@
 ---
-title: I have a WebSQL database but I hear that the specification has been dropped will IE ever support WebSQL?
+title: I have a WebSQL database but I hear that the specification has been dropped
+  will IE ever support WebSQL?
 authors:
 - thebeebs
-intro: 'The browser based WebSQL specification was an in b...'
+intro: The browser based WebSQL specification was an in b...
 types:
 - shorts
 categories:
 - web
 - html5at5
 published: 2011/12/15 12:00:00
-updated: 2011/12/15 13:00:00
+updated: 2011/12/15 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 The browser based WebSQL specification was an in browser database and has been supported by Chrome and a number of other browsers for some time. However, the specification has been dropped in favour of IndexedDB and chrome will be dropping support for it in a future version. As you have invested some time into developing a WebSQL system this isn&rsquo;t great news as it is unlikely that IE will implement it in the future.<p>Ido Green a developer Advocate at Google Chrome has written a nice post this week showing you how to convert a WebSQL database into an IndexedDB one which you can [find here](http://greenido.wordpress.com/2011/11/29/convert-your-websql-to-indexeddb/).
 

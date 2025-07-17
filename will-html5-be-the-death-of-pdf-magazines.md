@@ -2,15 +2,21 @@
 title: Will HTML5 be the death of PDF magazines?
 authors:
 - thebeebs
-intro: 'Do you still read magazines? Newspapers? If so, ar...'
+intro: Do you still read magazines? Newspapers? If so, ar...
 types:
 - shorts
 categories:
 - article
 published: 2012/01/22 12:00:00
-updated: 2012/01/22 13:00:00
+updated: 2012/01/22 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 Do you still read magazines? Newspapers? If so, are they printed publications or have you gone digital?<p>With the wild popularity of the iPad and the predicted stampede for the Kindle Fire (not to mention all the other tablets hitting the market) there has been a headlong rush by many publishers to get onto these new devices and do it fast. 
 

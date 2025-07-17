@@ -2,16 +2,22 @@
 title: Overlaying data on a video
 authors:
 - thebeebs
-intro: 'I got asked by [Gordon Rae](https://twitter.com/#!...'
+intro: I got asked by [Gordon Rae](https://twitter.com/#!...
 types:
 - shorts
 categories:
 - web
 - html5at5
 published: 2012/02/21 12:00:00
-updated: 2012/02/21 13:00:00
+updated: 2012/02/21 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 I got asked by [Gordon Rae](https://twitter.com/#!/socialtechno) on twitter today:> <p>@[thebeebs](https://twitter.com/thebeebs) Martin, can you recommend a good tutorial for overlaying data on video in HTML5 ?
 >  &mdash; Gordon Rae (@socialtechno) [February 21, 2012](https://twitter.com/socialtechno/status/171976267657256960)<script src="images/widgets.js" charset="utf-8"></script>

@@ -1,0 +1,1 @@
+/Users/mbeeby/Code/Content/i-would-like-to-mask-a-html5-video-element-and-convert-it-into-a-triangle-i-want-a-solution-that-will-work-in-ie9-firefox-and-chrome-is-it-possible.md

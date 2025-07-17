@@ -2,15 +2,21 @@
 title: How to enable IE9 pinning and JumpLists on your website
 authors:
 - thebeebs
-intro: 'Enabling pinning on Jumplists'
+intro: Enabling pinning on Jumplists
 types:
 - shorts
 categories:
 - ie9-beta
 published: 2010/09/15 12:00:00
-updated: 2010/09/15 13:00:00
+updated: 2010/09/15 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 [![image](images/6457.image_thumb_69150AAC.png "image")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/4861.image_6084D7ED.png) 
 

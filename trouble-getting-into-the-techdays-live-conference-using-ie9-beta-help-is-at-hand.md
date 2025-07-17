@@ -1,17 +1,24 @@
 ---
-title: Trouble getting into the TechDays Live conference using IE9 Beta? Help is at hand
+title: Trouble getting into the TechDays Live conference using IE9 Beta? Help is at
+  hand
 authors:
 - thebeebs
-intro: 'It seems our live meeting friends have a bug on th...'
+intro: It seems our live meeting friends have a bug on th...
 types:
 - shorts
 categories:
 - ie9-beta
 - techdays
 published: 2011/01/20 12:00:00
-updated: 2011/01/20 13:00:00
+updated: 2011/01/20 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 It seems our live meeting friends have a bug on their website that makes it confusing to enter a 2007 live meeting using IE9 Beta.
 
@@ -52,17 +59,17 @@ This is the solution I came too:
 
 Sorry for this inconvenience.&#160; If you are still having issue, I have listed some further support information:
 
-## In Event Support:
+# # In Event Support:
 
 In the LiveMeeting itself, a support member will be logged in as "Support (LM IT) and contactable via private chat if you are having any issues while viewing this Live Meeting.&#160;&#160; 
 
 Email: [weregsup@microsoft.com](mailto:weregsup@microsoft.com) Tel: +44 (0) 870 8509442 
 
-## Live Meeting Checklist and Tips:
+# # Live Meeting Checklist and Tips:
 
 Use the Microsoft [Live Meeting 2007 Windows Console Compatibility Test ](http://go.microsoft.com/fwlink/?LinkId=90703)to join a meeting to see if your computer is compatible with Live Meeting 2007. 
 
-##### <a name="_Toc272229163"></a><a name="_Toc259523022"></a><a name="_Toc259535040"></a>Instructions before the webcast starts
+# # # # # <a name="_Toc272229163"></a><a name="_Toc259523022"></a><a name="_Toc259535040"></a>Instructions before the webcast starts
 
 To attend a Live Meeting, you will need:
 
@@ -74,7 +81,7 @@ To attend a Live Meeting, you will need:
 
 4. A compatible computer configuration. **Verify Microsoft Live Meeting 2007 System Requirements**
 
-##### <a name="_Toc272229164"></a><a name="_Toc259523023"></a><a name="_Toc259535041"></a>Listen to the audio portion of the event
+# # # # # <a name="_Toc272229164"></a><a name="_Toc259523023"></a><a name="_Toc259535041"></a>Listen to the audio portion of the event
 
 After you log in to the Live Meeting console, you will hear the event's streaming audio. If you do not have Windows Media Player (WMP) 9 or a later version installed, you will be prompted to install it.
 
@@ -82,7 +89,7 @@ If you have WMP 9 or a later version installed but still do not hear the audio, 
 
 Please note for this event the audio will be speaker only through the PC.&#160; You will not be able to speak as an attendee. 
 
-## IE9 and Live Meeting:&#160; Known Issue:
+# # IE9 and Live Meeting:&#160; Known Issue:
 
 If you use IE9 with Live Meeting Web Access you will very probably be asked to install the Live Meeting 2007 client. Once you have successfully done that, you will be once again asked to install the Live Meting 2007 client. It's an endless loop.
 

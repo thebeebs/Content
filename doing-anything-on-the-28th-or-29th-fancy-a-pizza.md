@@ -2,15 +2,21 @@
 title: Doing anything on the 28th or 29th - Fancy a pizza?
 authors:
 - thebeebs
-intro: 'In two weeks time I&rsquo;m going on my holidays&h...'
+intro: In two weeks time I&rsquo;m going on my holidays&h...
 types:
 - shorts
 categories:
 - events
 published: 2010/10/13 12:00:00
-updated: 2010/10/13 13:00:00
+updated: 2010/10/13 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 In two weeks time I&rsquo;m going on my holidays&hellip; I was just packing my bucket and spade last night when I realised I was going to be missing the PDC UK Event.<p>Basically the UK evangelist team are getting together in Reading to watch a live stream of the PDC2010 event in Redmond and we are inviting anyone who is interested to come along.
 

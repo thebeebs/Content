@@ -2,15 +2,21 @@
 title: 8 things you should know before building an HTML5 app
 authors:
 - thebeebs
-intro: 'A few days ago, [Seth Porges](http://www.twitter.c...'
+intro: A few days ago, [Seth Porges](http://www.twitter.c...
 types:
 - shorts
 categories:
 - article
 published: 2012/02/15 12:00:00
-updated: 2012/02/15 13:00:00
+updated: 2012/02/15 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 A few days ago, [Seth Porges](http://www.twitter.com/sethporges) put up an interesting post on Mashable: [8 Things You Should Know Before Building a Mobile App](http://mashable.com/2012/02/02/how-to-make-app/). While, as the name implies, Seth&rsquo;s post focused on native apps, it got me thinking &ndash; how does his 8 questions relate to creating an HTML5 app? So here goes...<p>**1. What does it cost to make an app?**
 

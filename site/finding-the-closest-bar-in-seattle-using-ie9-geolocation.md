@@ -1,0 +1,1 @@
+/Users/mbeeby/Code/Content/finding-the-closest-bar-in-seattle-using-ie9-geolocation.md

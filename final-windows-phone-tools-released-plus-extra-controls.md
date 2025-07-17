@@ -2,15 +2,21 @@
 title: Final Windows Phone Tools Released Plus Extra controls
 authors:
 - thebeebs
-intro: 'The final version of the Windows Phone developer t...'
+intro: The final version of the Windows Phone developer t...
 types:
 - shorts
 categories:
 - web
 published: 2010/09/16 12:00:00
-updated: 2010/09/16 13:00:00
+updated: 2010/09/16 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 The final version of the Windows Phone developer tools were released today you can download them [here](http://go.microsoft.com/fwlink/?LinkId=185584):
 

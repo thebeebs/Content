@@ -1,16 +1,22 @@
 ---
-title: Is Pinterest’s HTML5 app short-changing users?
+title: "Is Pinterest\u2019s HTML5 app short-changing users?"
 authors:
 - thebeebs
-intro: 'It seems you virtually can&rsquo;t move online wit...'
+intro: It seems you virtually can&rsquo;t move online wit...
 types:
 - shorts
 categories:
 - article
 published: 2012/02/21 12:00:00
-updated: 2012/02/21 13:00:00
+updated: 2012/02/21 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 It seems you virtually can&rsquo;t move online without running into an article on [Pinterest](http://ubelly.com/2011/04/pinterest-design-inspiration-in-a-new-way/). As a platform, it&rsquo;s certainly captured people&rsquo;s (or at least the blogosphere&rsquo;s) imagination. Core to the attraction is just how easy it makes sharing the stuff we all find every day on the web.<p>To its credit, Pinterest has taken [a decidedly mobile first approach](http://blogs.msdn.com/b/thebeebs/archive/2012/01/11/html5-in-2012-the-year-of-mobile-first.aspx) to developing the site &ndash; they understand that people find stuff on the move and want to share it instantly. They have a smart IOS app which gives all the functionality of the site and makes good use of the limited screen real estate. But at the same time they admit that they are lagging behind in developing a similar app for other platforms.
 

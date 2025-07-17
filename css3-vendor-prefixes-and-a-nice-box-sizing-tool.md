@@ -2,16 +2,22 @@
 title: CSS3 vendor Prefixes and a nice box sizing tool
 authors:
 - thebeebs
-intro: 'Chris Coyier tweeted last night about a CSS3 tool ...'
+intro: Chris Coyier tweeted last night about a CSS3 tool ...
 types:
 - shorts
 categories:
 - web
 - html5at5
 published: 2012/03/06 12:00:00
-updated: 2012/03/06 13:00:00
+updated: 2012/03/06 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 Chris Coyier tweeted last night about a CSS3 tool called box-shadow.info. 
   > If you're gonna make a CSS3 helper app thingy, do like [box-shadow.info](https://t.co/n1ACopMS "http://box-shadow.info/") and help people understand prefixes/compatibility.
@@ -29,7 +35,7 @@ What does this mean? Well it means at version 4 of Firefox, they stopped requiri
 
 If you switch off -webkit then it changes the compatibility of Chrome from 4.0+ to 10.0+.
 
-## So what?
+# # So what?
 
 I think this tool gives people a better understanding of how vendor prefixes work and the various differences between prefixes and browser versions.
 

@@ -1,0 +1,1 @@
+/Users/mbeeby/Code/Content/5 things to get compatible with edge.md

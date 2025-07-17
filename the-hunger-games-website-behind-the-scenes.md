@@ -1,16 +1,22 @@
 ---
-title: The Hunger Games website – behind the scenes
+title: "The Hunger Games website \u2013 behind the scenes"
 authors:
 - thebeebs
-intro: 'So among the other, more serious stuff we do at Mi...'
+intro: So among the other, more serious stuff we do at Mi...
 types:
 - shorts
 categories:
 - article
 published: 2012/03/21 12:00:00
-updated: 2012/03/21 13:00:00
+updated: 2012/03/21 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 So among the other, more serious stuff we do at Microsoft, we also get to play on some really cool projects too. Half the time I can&rsquo;t talk about them (if I told you I&rsquo;d have to kill you and all that) but now and then one surfaces that we have more free reign on. And this is one of those times.<p>[The Hunger Games](http://www.imdb.com/title/tt1392170/) is a new film directed by Gary Ross set in a not-too-distant future where teens fight to the death on live TV (as you would). The production company, Lionsgate, wanted to bring the world of the film to life on the web and turned to development house [Ignition Creative](http://ignitioncreative.net/#/Interactive), HTML5 specialists at [The Nerdery](http://www.nerdery.com/) and the Microsoft Internet Explorer team to make it happen.
 

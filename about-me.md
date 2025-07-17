@@ -1,8 +1,8 @@
 ---
-title: 'Everything you need to know about me'
+title: Everything you need to know about me
 authors:
 - thebeebs
-intro: 'A potted history of how I became a developer.'
+intro: A potted history of how I became a developer.
 types:
 - shorts
 categories:
@@ -10,6 +10,12 @@ categories:
 published: 2016/01/01 12:00:00
 updated: 2017/11/20 12:00:00
 ---
+
+
+
+
+
+
 
 I’ve been a developer since I was 16. Having no garage, unlike my American counterparts, I began developing small sites, apps and hacks from the comfort of my bedroom. My focus back then was pretty much the same as it is now – finding new ways of solving significant problems.
 

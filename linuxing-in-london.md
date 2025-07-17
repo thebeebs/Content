@@ -1,15 +1,22 @@
 ---
-title: 'Linuxing in London'
+title: Linuxing in London
 authors:
 - thebeebs
-intro: 'We went to a London Linux user group to talk about Microsoft and surprisingly it went really well. '
+intro: 'We went to a London Linux user group to talk about Microsoft and surprisingly
+  it went really well. '
 types:
 - speaking
 categories:
 - meetup
-published: 2017/05/18 19:45:00
-updated: 2017/08/19 10:00:00
+published: 2017/05/18 12:00:00
+updated: 2017/08/19 12:00:00
 ---
+
+
+
+
+
+
 On May, the 18th we ran a special evening of Microsoft and Open source software at Linuxing in London.
 
 <video width="640" controls poster="https://thebeebscontent.blob.core.windows.net/asset-4053cab8-f084-4977-af38-c9b200c89d59/linuxing-in-london_000001.jpg">

@@ -2,7 +2,7 @@
 title: Why is HTML5 so focused on JavaScript?
 authors:
 - thebeebs
-intro: 'I frequently get asked this question by people tha...'
+intro: I frequently get asked this question by people tha...
 types:
 - shorts
 categories:
@@ -11,9 +11,15 @@ categories:
 - html5at5
 - javascript
 published: 2011/12/22 12:00:00
-updated: 2011/12/22 13:00:00
+updated: 2011/12/22 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 I frequently get asked this question by people that are new to HTML5. As well as detailing lots of new elements HTML5 defines a number of new JavaScript APIs. When the HTML5 specification was formulated in 2004 it was felt that APIs were necessary to support the new elements that were created to support Web applications (below list [taken from the W3C](http://www.w3.org/TR/2011/WD-html5-diff-20110405/)).
 

@@ -2,7 +2,7 @@
 title: 10 super-smart data visualisations
 authors:
 - thebeebs
-intro: 'At one time, visualising data meant graphs. Lots a...'
+intro: At one time, visualising data meant graphs. Lots a...
 types:
 - shorts
 categories:
@@ -10,9 +10,15 @@ categories:
 - challenge
 - visualisation
 published: 2012/05/17 12:00:00
-updated: 2012/05/17 13:00:00
+updated: 2012/05/17 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 At one time, visualising data meant graphs. Lots and lots of graphs. Largely static. Often incomprehensible. Certainly not entertaining.<p>Since I&rsquo;ve recently set up the [HTML5 Sports Challenge](http://www.ubelly.com/2012/04/html5-sports-challenge/) on [Ubelly](http://www.ubelly.com/), I&rsquo;ve been looking around for inspiration on how data can be brought to life in more interesting, more engaging ways. Fortunately there&rsquo;s loads out there. 
 

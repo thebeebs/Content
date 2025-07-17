@@ -2,16 +2,22 @@
 title: Managing an Agile project
 authors:
 - thebeebs
-intro: 'I have worked as a Developer Evangelist for around...'
+intro: I have worked as a Developer Evangelist for around...
 types:
 - shorts
 categories:
 - article
 - c#
 published: 2013/01/10 12:00:00
-updated: 2013/01/10 13:00:00
+updated: 2013/01/10 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 I have worked as a Developer Evangelist for around 3 years now and whilst I still code, it&rsquo;s been quite some time since I have worked on a software project. Over Christmas this changed as I found myself building a service to help people with no coding skills build Windows 8 Applications. <p>Since I was the lead developer, Architect, Project Manger, Tester, Junior Developer and cleaner, I felt it was good opportunity to try the cloud version of [Microsoft's Team Foundation Server](http://tfs.visualstudio.com/). I figured, if I didn&rsquo;t get on with it, I was only going to upset myself.
 
@@ -21,7 +27,7 @@ I&rsquo;d then manage the project on BaseCamp or MSProject (I have tried loads o
 
 In summary, there are lots of moving parts and different systems that integrate with each other with varying degrees of success.
 
-## TFS in the Cloud is brilliant
+# # TFS in the Cloud is brilliant
 
 There i said it. In my experience the software you use to manage your source control and build process is only as good as the guy that set the whole thing up. If they know what they are doing, you are living the dream, if they didn&rsquo;t, you are in software building hell. That's what makes [http://tfs.visualstudio.com](http://tfs.visualstudio.com) so good, all that crazy set up and configuration is completely taken away and you can have a system set up and running in about 10 minutes.
 

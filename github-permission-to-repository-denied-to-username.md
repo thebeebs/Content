@@ -2,15 +2,21 @@
 title: GitHub Permission to <<repository>> denied to <<username>>
 authors:
 - thebeebs
-intro: 'I was trying to use terminal on my Mac to upload s...'
+intro: I was trying to use terminal on my Mac to upload s...
 types:
 - shorts
 categories:
 - article
 published: 2014/08/21 12:00:00
-updated: 2014/08/21 13:00:00
+updated: 2014/08/21 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 I was trying to use terminal on my Mac to upload some code to GitHub using an account that was different to my usual one. I set the following three settings:
 

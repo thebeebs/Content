@@ -2,14 +2,20 @@
 title: Community Inspiration Awards
 authors:
 - thebeebs
-intro: 'Last night I attended the Community Inspiration Awards in Birmingham'
+intro: Last night I attended the Community Inspiration Awards in Birmingham
 types:
 - speaking
 categories:
 - shorts
-published: 2017/07/26 09:00:00
-updated: 2017/07/27 10:00:00
+published: 2017/07/26 12:00:00
+updated: 2017/07/27 12:00:00
 ---
+
+
+
+
+
+
 
 Last Night I attended the Community Inspiration Awards in Birmingham along with some of the Microsoft BAME organisers and volunteers Shorof, Zia, Raymond, and Deepam.
 Microsoft was shortlisted for an award for its BAME student day event. We sadly didn’t win but were recognised as finalists and given a rather lovely certificate.

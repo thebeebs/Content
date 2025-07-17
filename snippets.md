@@ -2,15 +2,21 @@
 title: Snippets
 authors:
 - thebeebs
-intro: 'I demo quite a bit in Visual Studio and use snippe...'
+intro: I demo quite a bit in Visual Studio and use snippe...
 types:
 - shorts
 categories:
 - web
 published: 2015/12/11 12:00:00
-updated: 2015/12/11 13:00:00
+updated: 2015/12/11 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 I demo quite a bit in Visual Studio and use snippets where possible to make my code demos less tedious. I thought I'd document here what tools I use and a few gotchas.
 

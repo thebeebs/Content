@@ -1,16 +1,22 @@
 ---
-title: 'Innovation Uncovered in Nottingham'
+title: Innovation Uncovered in Nottingham
 authors:
 - thebeebs
-intro: 'I am just about to speak in Nottingham about cognitive and mobile apps.'
+intro: I am just about to speak in Nottingham about cognitive and mobile apps.
 types:
 - speaking
 categories:
 - meetup
 - count
-published: 2017/06/07 13:30:00
-updated: 2017/06/07 14:00:00
+published: 2017/06/07 12:00:00
+updated: 2017/06/07 12:00:00
 ---
+
+
+
+
+
+
 
 Today I am speaking at a rather lovely event in Nottingham called "Innovation Uncovered: Mobile App Development" I'm talking about how companies are using Machine Learning via Cognitive services in their apps. Here are some of the links that I mention in the talk.
 

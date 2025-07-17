@@ -1,15 +1,22 @@
 ---
-title: 'Azure Function Running PDFtoText'
+title: Azure Function Running PDFtoText
 authors:
 - thebeebs
-intro: 'PDFtotext is a command line utility that extracts text from a PDF. In this tutorial I explain how I used it in a Azure Function'
+intro: PDFtotext is a command line utility that extracts text from a PDF. In this
+  tutorial I explain how I used it in a Azure Function
 types:
 - tutorials
 categories:
 - bots
-published: 2017/08/21 21:00:00
-updated: 2017/08/21 21:00:00
+published: 2017/08/21 12:00:00
+updated: 2017/08/21 12:00:00
 ---
+
+
+
+
+
+
 
 The first part of a bot I am working required the extraction of questions and answers from a set of 1200 PDFs. After about 3 hours of trying to find the perfect solution in either node, C# or Python I realised that I was searching for a silver-lining in a bin bag: there are no perfect solutions. There was, however, a good command line utility called pdftotext.
 

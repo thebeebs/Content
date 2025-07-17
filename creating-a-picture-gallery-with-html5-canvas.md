@@ -2,16 +2,22 @@
 title: Creating a picture gallery with HTML5 canvas
 authors:
 - thebeebs
-intro: 'Creating a picture gallery'
+intro: Creating a picture gallery
 types:
 - shorts
 categories:
 - html5
 - jquery
 published: 2011/01/26 12:00:00
-updated: 2011/01/26 13:00:00
+updated: 2011/01/26 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 <iframe class="youtube-player" title="YouTube video player" height="345" src="images/KhJz2LmvWEg?rel=0" frameborder="0" width="560" type="text/html" allowfullscreen="allowfullscreen"></iframe>
 

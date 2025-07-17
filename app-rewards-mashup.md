@@ -2,15 +2,21 @@
 title: App Rewards Mashup
 authors:
 - thebeebs
-intro: 'To celebrate the Launch of the our new [App reward...'
+intro: To celebrate the Launch of the our new [App reward...
 types:
 - shorts
 categories:
 - web
 published: 2013/02/20 12:00:00
-updated: 2013/02/20 13:00:00
+updated: 2013/02/20 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 To celebrate the Launch of the our new [App rewards programme](http://bit.ly/154BDCO), I&rsquo;ll give 12 Months XBOX Live Gold Membership to the two best app names that use the hash tag #apprewards #appmash. Sadly only folks in the UK are eligible to win.<p>You don&rsquo;t need to go into detail about the app (if you don&rsquo;t want)&hellip; Just tell me the name:
 

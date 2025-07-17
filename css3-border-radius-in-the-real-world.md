@@ -2,15 +2,21 @@
 title: CSS3 border-radius in the real world
 authors:
 - thebeebs
-intro: 'I was walking through the high street yesterday an...'
+intro: I was walking through the high street yesterday an...
 types:
 - shorts
 categories:
 - css3
 published: 2011/01/17 12:00:00
-updated: 2011/01/17 13:00:00
+updated: 2011/01/17 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 I was walking through the high street yesterday and noticed a poster outside of M&S that was advertising a dine in for two, £10 promotion. The way that they had used a picture as the infill for the 0 in £10 made me think about how you could achieve that effect using CSS3.
 
@@ -68,19 +74,19 @@ I started up the browser and IE9 displayed roughly what I was expecting. However
 
 &#160;
 
-## Google Chrome 
+# # Google Chrome 
 
 rounded the corners but did not display the white border that I specified.
 
 ![Chrome Failed to render the border](images/2728.image_564AB097.png "Chrome Failed to render the border")
 
-## Safari 
+# # Safari 
 
 pulled the same trick.
 
 ![Safari failed to render the border](images/3225.image_1463CB49.png "Safari failed to render the border")
 
-## Firefox 
+# # Firefox 
 
 Did not apply the rounded corners at all. This is because Firefox currently applies border radius with a vendor prefix.
 
@@ -101,7 +107,7 @@ However, Firefox still didn't apply the border as I was expecting.
 
 ![Firefox](images/4401.image_5B89717B.png "Firefox")
 
-## Opera
+# # Opera
 
 The rendering in opera was similar:
 
@@ -155,25 +161,25 @@ http://www.CodeHighlighter.com/
 
 code></div></pre><!-- Code inserted with Steve Dunn's Windows Live Writer Code Formatter Plugin.  http://dunnhq.com --></!--></div>
 
-## IE9
+# # IE9
 
 ![Internet Explorer 9](images/7140.image_4C921C94.png "Internet Explorer 9")
 
-## Opera
+# # Opera
 
 ![opera](images/3252.image_23A7078B.png "opera")
 
 &#160;
 
-## Safari
+# # Safari
 
 ![Safari](images/1682.image_53EDDC41.png "Safari")
 
-## Chrome
+# # Chrome
 
 ![Chrome](images/2350.image_600F5668.png "Chrome")
 
-## FireFox
+# # FireFox
 
 ![FireFox](images/1108.image_2547AD92.png "Firefox")
 

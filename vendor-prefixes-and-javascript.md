@@ -2,16 +2,22 @@
 title: Vendor Prefixes and JavaScript
 authors:
 - thebeebs
-intro: 'I got asked a question recently [on twitter](https...'
+intro: I got asked a question recently [on twitter](https...
 types:
 - shorts
 categories:
 - web
 - html5at5
 published: 2012/01/11 12:00:00
-updated: 2012/01/11 13:00:00
+updated: 2012/01/11 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 I got asked a question recently [on twitter](https://twitter.com/#!/seb_ly/status/156333741504069632) from Seb Lee-Delisle about vendor Prefixes and JavaScript. He asked:
   > is the JS equivalent of -ms-transform MSTransform? or msTransform?  
@@ -25,7 +31,7 @@ All CSS properties have a JavaScript Equivalent. However, in JavaScript you can'
 element.style.msTransitionDuration = "3s";
 </pre></div>
 
-## CSS case-sensitivity
+# # CSS case-sensitivity
 
 Generally CSS is case-insensitive (except with XHTML in some browsers). However, it's best practice with vendor prefixes to have them lowercase, the spec that covers this can be [found here](http://www.w3.org/TR/CSS2/syndata.html#vendor-keywords). Therefore CSS vendor prefixes look like this:
 
@@ -35,7 +41,7 @@ Generally CSS is case-insensitive (except with XHTML in some browsers). However,
 *   -webkit-transform (Safari, Chrome)
 <!--EndFragment-->
 
-## JavaScript case-sensitivity
+# # JavaScript case-sensitivity
 
 JavaScript, however, is a case-sensitive language and it's important to note that different browser vendors have taken slightly different approaches to casing Vendor Prefixes. Now before you get to worried, it is very simple to deal with this issue and this article shows a very easy way to deal with it:&#160; [A best practice for programming with vendor prefixes](http://blogs.msdn.com/b/ie/archive/2011/10/28/a-best-practice-for-programming-with-vendor-prefixes.aspx).
 

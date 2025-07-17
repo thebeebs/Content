@@ -2,7 +2,7 @@
 title: Windows Phone 7 Colours
 authors:
 - thebeebs
-intro: 'I was putting together a WP7 presentation recently...'
+intro: I was putting together a WP7 presentation recently...
 types:
 - shorts
 categories:
@@ -10,9 +10,15 @@ categories:
 - colours
 - mobile
 published: 2011/01/13 12:00:00
-updated: 2011/01/13 13:00:00
+updated: 2011/01/13 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 I was putting together a WP7 presentation recently. I needed to use all of the WP7 colours as background for the slides. It took me a while to collate all of the colours so I thought I'd post them up here in case anyone needed them.
 

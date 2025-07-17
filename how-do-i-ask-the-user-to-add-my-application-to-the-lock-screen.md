@@ -2,17 +2,23 @@
 title: How do I ask the user to add my application to the lock screen?
 authors:
 - thebeebs
-intro: For background task with timers to launch you...'
+intro: '''For background task with timers to launch you...\'''''
 types:
 - shorts
 categories:
 - win8at8
 published: 2012/08/03 12:00:00
-updated: 2012/08/03 13:00:00
+updated: 2012/08/03 12:00:00
 status: archived
 ---
 
-#### For background task with timers to launch you must ensure that your app is added to the lock screen. You can request to be added as a lock screen application by adding the following code to your project:
+
+
+
+
+
+
+# # # # For background task with timers to launch you must ensure that your app is added to the lock screen. You can request to be added as a lock screen application by adding the following code to your project:
 
    <div id="scid:f32c3428-b7e9-4f15-a8ea-c502c7ff2e88:9bfcba99-2f9c-45b0-82d9-23c02df81211" class="wlWriterEditableSmartContent" style="float: none; padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px"><pre class="brush: javascript;">var Background = Windows.ApplicationModel.Background;
 

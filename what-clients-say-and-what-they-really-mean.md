@@ -2,7 +2,7 @@
 title: What clients say (and what they really mean)
 authors:
 - thebeebs
-intro: 'We&rsquo;ve all been there &ndash; your client (in...'
+intro: We&rsquo;ve all been there &ndash; your client (in...
 types:
 - shorts
 categories:
@@ -10,9 +10,15 @@ categories:
 - clients
 - popular
 published: 2012/05/17 12:00:00
-updated: 2012/05/17 13:00:00
+updated: 2012/05/17 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 We&rsquo;ve all been there &ndash; your client (internal or external, makes no difference) is trying to get across what they want from their next project. They&rsquo;ve done a bit of reading so as not to look dumb in front of the techies and latched on to a few phrases to throw in to the meeting. The question is: what the hell do they actually mean?<p>Don&rsquo;t panic. I think I can help.
 

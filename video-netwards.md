@@ -1,15 +1,21 @@
 ---
-title: 'Video Net Awards'
+title: Video Net Awards
 authors:
 - thebeebs
-intro: 'My presenting skills on show as Freddie Mercury'
+intro: My presenting skills on show as Freddie Mercury
 types:
 - video
 categories:
 - browser
-published: 2017/06/08 13:00:00
-updated: 2017/06/08 13:30:00
+published: 2017/06/08 12:00:00
+updated: 2017/06/08 12:00:00
 ---
+
+
+
+
+
+
 
 I presented this little highlight reel in 2011 after a video presenting training course with Blue Peters' Peter Pervis. I have since presented hundreds of videos, but this is the only one where I was dressed as Freddie Mercury.
 

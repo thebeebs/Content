@@ -2,15 +2,21 @@
 title: Learning HTML5 & CSS3
 authors:
 - thebeebs
-intro: 'How did you learn to code? <p>I ask because a coup...'
+intro: How did you learn to code? <p>I ask because a coup...
 types:
 - shorts
 categories:
 - article
 published: 2012/01/31 12:00:00
-updated: 2012/01/31 13:00:00
+updated: 2012/01/31 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 How did you learn to code? <p>I ask because a couple of recent chance encounters have got me thinking that there are some pretty big gaps in people&rsquo;s knowledge of HTML5 and CSS3.
 

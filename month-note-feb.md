@@ -1,8 +1,8 @@
 ---
-title: 'Month Note Feb'
+title: Month Note Feb
 authors:
 - thebeebs
-intro: 'This month I have genrally been enjoying febuary.'
+intro: This month I have genrally been enjoying febuary.
 types:
 - shorts
 - monthnote
@@ -11,6 +11,12 @@ categories:
 published: 2016/08/01 12:00:00
 updated: 2017/08/08 12:00:00
 ---
+
+
+
+
+
+
 
 I’ve been a developer since I was 16. Having no garage, unlike my American counterparts, I began developing small sites, apps and hacks from the comfort of my bedroom. My focus back then was pretty much the same as it is now – finding new ways of solving annoying problems.
 

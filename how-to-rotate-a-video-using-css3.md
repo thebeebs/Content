@@ -2,15 +2,21 @@
 title: How to Rotate a video using CSS3
 authors:
 - thebeebs
-intro: 'Earlier I showed you how to [rotate a video using ...'
+intro: Earlier I showed you how to [rotate a video using ...
 types:
 - shorts
 categories:
 - css3
 published: 2010/11/08 12:00:00
-updated: 2010/11/08 13:00:00
+updated: 2010/11/08 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 Earlier I showed you how to [rotate a video using HTML5](http://blogs.msdn.com/b/thebeebs/archive/2010/11/08/how-to-rotate-html5-video.aspx). It is a little complicated so luckily you can achieve the same effect using a CSS3 2d transform.
 
@@ -20,7 +26,7 @@ You will be able to see the effect in IE9 Platform Preview (but not the beta), c
 
 &nbsp;
 
-## Step 1
+# # Step 1
 
 Add the style tag to the head section of your browser. You will need to add the proprietary syntax for each of the browser vendors.
 
@@ -53,7 +59,7 @@ code></div></pre>
 
 &nbsp;
 
-## Step 2
+# # Step 2
 
 Add the video element making sure to use the same id as we declared in the CSS which was #mVideo.
 

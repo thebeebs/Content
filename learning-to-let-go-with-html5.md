@@ -2,16 +2,22 @@
 title: Learning to let go with HTML5
 authors:
 - thebeebs
-intro: 'While it&rsquo;s a generalisation, I think most of...'
+intro: While it&rsquo;s a generalisation, I think most of...
 types:
 - shorts
 categories:
 - article
 - html5
 published: 2011/12/07 12:00:00
-updated: 2011/12/07 13:00:00
+updated: 2011/12/07 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 While it&rsquo;s a generalisation, I think most of us in the web development community have an internal control freak just lurking inside of us. After all, there&rsquo;s so much that can (and generally does) go wrong. And you know that it&rsquo;s always the one thing you let go that&rsquo;ll come back to bite you.<p>With Flash, you own the experience. Every pixel and its exact position are determined by the designer. HTML 5 is different. With HTML5, you relinquish at least some of that control to the browser. This can be a bit of a culture shock for some people. 
 

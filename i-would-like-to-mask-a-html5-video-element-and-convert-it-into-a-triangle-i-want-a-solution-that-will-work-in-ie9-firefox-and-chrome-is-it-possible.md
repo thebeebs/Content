@@ -1,17 +1,24 @@
 ---
-title: I would like to mask a HTML5 video element and convert it into a triangle. I want a solution that will work in IE9, Firefox and Chrome. Is it possible?
+title: I would like to mask a HTML5 video element and convert it into a triangle.
+  I want a solution that will work in IE9, Firefox and Chrome. Is it possible?
 authors:
 - thebeebs
-intro: 'I got asked this question during a workshop last m...'
+intro: I got asked this question during a workshop last m...
 types:
 - shorts
 categories:
 - web
 - html5at5
 published: 2011/12/08 12:00:00
-updated: 2011/12/08 13:00:00
+updated: 2011/12/08 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 I got asked this question during a workshop last month and so thought I'd answer it here during the time I put aside at 5 everyday to answer HTML5 questions.
  [<span>Demo</span> View Demo](http://jsfiddle.net/thebeebs/NKtGM/1/)   

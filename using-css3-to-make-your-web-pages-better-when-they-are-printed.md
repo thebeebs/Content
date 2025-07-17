@@ -2,16 +2,22 @@
 title: Using CSS3 to make your web pages better when they are printed.
 authors:
 - thebeebs
-intro: 'I recently walked past someone in the office who w...'
+intro: I recently walked past someone in the office who w...
 types:
 - shorts
 categories:
 - web
 - html5at5
 published: 2012/01/18 12:00:00
-updated: 2012/01/18 13:00:00
+updated: 2012/01/18 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 I recently walked past someone in the office who was reading a web article that they'd printed off. Now putting to one-side the environmental impact of printing the internet there is also another disadvantage to reading printed webpages... the hyperlinks don't work. Wouldn't it be nice if you could somehow add the textual link next to a hyperlink but only when a document was printed, well you can using CSS [:after](http://www.w3schools.com/cssref/sel_after.asp) selector.
 

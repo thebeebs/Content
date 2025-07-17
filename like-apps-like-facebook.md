@@ -2,15 +2,21 @@
 title: Like apps? Like Facebook?
 authors:
 - thebeebs
-intro: 'How did you find the mobile apps you use the most?...'
+intro: How did you find the mobile apps you use the most?...
 types:
 - shorts
 categories:
 - article
 published: 2012/02/13 12:00:00
-updated: 2012/02/13 13:00:00
+updated: 2012/02/13 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 How did you find the mobile apps you use the most? I&rsquo;m guessing that some of you came across them on a blog or in a mag somewhere (10 Apps Every Developer Should Own). You might have found others browsing through an app store of whatever flavour. But, if you&rsquo;re anything like me, you&rsquo;ll have found quite a few simply through the recommendations of your friends (both real and virtual).<p>Considering how many thousands of apps there are, they can be surprisingly tricky to find. In my experience, the search function of most app stores leaves something to be desired (and I&rsquo;m being kind here). And even though most stores feature user reviews, it can still be hard to distinguish the reality between the &lsquo;This is the best app EVER!!!&rsquo; reviews and the &lsquo;This is total rubbish, I want my 69p back or I&rsquo;m going to sue!!!&rsquo; ones.
 

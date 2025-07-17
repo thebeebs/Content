@@ -2,16 +2,22 @@
 title: Just got back from dConstruct
 authors:
 - thebeebs
-intro: 'I just got back form [dConstruct](http://bit.ly/9Y...'
+intro: I just got back form [dConstruct](http://bit.ly/9Y...
 types:
 - shorts
 categories:
 - dconstruct
 - events
 published: 2010/09/04 12:00:00
-updated: 2010/09/04 13:00:00
+updated: 2010/09/04 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 I just got back form [dConstruct](http://bit.ly/9YOAjM "dConstruct conference") yesterday, It was a whirlwind. I managed to speak to loads of people about development and design at both the event and at the pre party at [lola los](http://bit.ly/b1StG4 "Link to the Lola Los website in brighton") the night before. After looking through my phone I managed to find a few pictures I'd taken throughout the day... None are very good but it does bring back the memories.
 

@@ -2,15 +2,21 @@
 title: IE9 Shortcuts
 authors:
 - thebeebs
-intro: 'Mice are for Wimps! Any .net developer worth their...'
+intro: Mice are for Wimps! Any .net developer worth their...
 types:
 - shorts
 categories:
 - web
 published: 2011/03/14 12:00:00
-updated: 2011/03/14 13:00:00
+updated: 2011/03/14 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 Mice are for Wimps! Any .net developer worth their salt has memorised all the important Visual Studio Shortcut keys they need, so I thought maybe you&rsquo;d like to see the IE9 ones. Below are a list of my favourites.<p>If you have anymore you use, let me know in the comments.
 

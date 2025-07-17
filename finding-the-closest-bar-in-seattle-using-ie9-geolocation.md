@@ -2,16 +2,22 @@
 title: Finding the closest Bar in Seattle using IE9 GeoLocation
 authors:
 - thebeebs
-intro: 'A little look into Geolocation'
+intro: A little look into Geolocation
 types:
 - shorts
 categories:
 - geolocation
 - ie9
 published: 2011/02/11 12:00:00
-updated: 2011/02/11 13:00:00
+updated: 2011/02/11 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 ![Beer](images/3060.image_02B88060.png "Beer")I just wrote a little sample application in jQuery using the new GeoLocation feature in [IE9 RC](http://www.beautyoftheweb.co.uk/).
 

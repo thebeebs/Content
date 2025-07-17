@@ -2,15 +2,21 @@
 title: 8 leading designers on what responsive web design means today
 authors:
 - thebeebs
-intro: 'In my last post, I delivered a barebones primer on...'
+intro: In my last post, I delivered a barebones primer on...
 types:
 - shorts
 categories:
 - article
 published: 2012/03/02 12:00:00
-updated: 2012/03/02 13:00:00
+updated: 2012/03/02 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 In my last post, I delivered a barebones primer on the subject of <u>responsive web design</u>. It was based on hosting and attending the recent [Responsive Summit](http://responsivesummit.com/) and hearing what some of today&rsquo;s leading web designers and UX professionals are doing with responsive design.<p>The summit covered a huge amount of ground including: design workflows, W3C, browsers, grids, layout, content-out approaches, progressive enhancement, how responsive web design fits with editorial design and resolution independence. Not bad for one day. I plan to publish all of the content from the Responsive Summit next week.
 

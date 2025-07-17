@@ -1,8 +1,8 @@
 ---
-title: Five Things You Can’t Do With HTML5 (yet)
+title: "Five Things You Can\u2019t Do With HTML5 (yet)"
 authors:
 - thebeebs
-intro: 'As much as I&rsquo;m fascinated with where HTML5 i...'
+intro: As much as I&rsquo;m fascinated with where HTML5 i...
 types:
 - shorts
 categories:
@@ -11,9 +11,15 @@ categories:
 - html5
 - ie9
 published: 2011/12/04 12:00:00
-updated: 2011/12/04 13:00:00
+updated: 2011/12/04 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 As much as I&rsquo;m fascinated with where HTML5 is going, most of my day to day work is all about what you can do right now (or at the very least, ways to hack something together that works until a more elegant solution comes along). But today, I want to briefly focus on a few things HTML5 **can&rsquo;t** do just yet (but which I think it&rsquo;ll be able to do pretty soon).<p>**1: HTML5 can&rsquo;t do DRM**
 

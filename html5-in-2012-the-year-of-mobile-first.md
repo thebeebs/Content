@@ -1,16 +1,22 @@
 ---
-title: HTML5 in 2012 – the year of mobile first?
+title: "HTML5 in 2012 \u2013 the year of mobile first?"
 authors:
 - thebeebs
-intro: 'So we have a bright shiny new year on our hands. B...'
+intro: So we have a bright shiny new year on our hands. B...
 types:
 - shorts
 categories:
 - article
 published: 2012/01/11 12:00:00
-updated: 2012/01/11 13:00:00
+updated: 2012/01/11 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 So we have a bright shiny new year on our hands. Both a leap year and the year when the Olympics comes to my home country. While the future looks iffy on the economy, it&rsquo;s pretty rosy as far as HTML5 goes.<p>They key, of course is mobile. Sure, HTML5 can do some brilliant stuff on the desktop but it wouldn&rsquo;t be getting half as much attention if it wasn&rsquo;t for the proliferation of mobile devices we&rsquo;ve seen over the last year (and will continue to see in 2012).
 

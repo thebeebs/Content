@@ -1,0 +1,1 @@
+/Users/mbeeby/Code/Content/responsive-web-design-in-3-minutes-42-seconds.md

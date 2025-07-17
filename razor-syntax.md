@@ -2,15 +2,21 @@
 title: Razor Syntax
 authors:
 - thebeebs
-intro: 'Razor is a syntax that you can use to create webpa...'
+intro: Razor is a syntax that you can use to create webpa...
 types:
 - shorts
 categories:
 - razor
 published: 2011/01/12 12:00:00
-updated: 2011/01/12 13:00:00
+updated: 2011/01/12 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 Razor is a syntax that you can use to create webpages in ASP.NET. The syntax makes it possible to create templates that generate well structured and clean HTML output.
 

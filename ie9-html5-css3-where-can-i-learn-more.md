@@ -2,15 +2,21 @@
 title: IE9, HTML5, CSS3 where can I learn more?
 authors:
 - thebeebs
-intro: 'There are some great resources on the net to learn...'
+intro: There are some great resources on the net to learn...
 types:
 - shorts
 categories:
 - web
 published: 2011/01/14 12:00:00
-updated: 2011/01/14 13:00:00
+updated: 2011/01/14 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 There are some great resources on the net to learn more about HTML5 and CSS3 here is just a list of a few I find really helpful:
 

@@ -2,16 +2,22 @@
 title: The need for speed?
 authors:
 - thebeebs
-intro: 'IT Pro Portal ran a story the other week&ndash; [H...'
+intro: IT Pro Portal ran a story the other week&ndash; [H...
 types:
 - shorts
 categories:
 - article
 - html5
 published: 2012/07/16 12:00:00
-updated: 2012/07/16 13:00:00
+updated: 2012/07/16 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 IT Pro Portal ran a story the other week&ndash; [HTML5 Mobile Performance Lags Way Behind Laptops](http://www.itproportal.com/2012/05/24/html5-mobile-performance-lags-way-behind-laptops/). In it, Darren Allan points to a new set of benchmarks showing that HTML5 runs up to 6 to 10 times slower than on a current laptop. The conclusion is that this will limit the ability of developers to create more complex multi-platform HTML5 games.<p>Now I&rsquo;d be the first to admit that mobile presents some pretty unique challenges. As Darren concedes, compared to a laptop, everything about a mobile device is a compromise. Less powerful processors. Smaller screens. Lower memory. Limited battery life. 
 

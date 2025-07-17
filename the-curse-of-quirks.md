@@ -2,15 +2,21 @@
 title: The Curse of Quirks
 authors:
 - thebeebs
-intro: '<rant><p>At the danger of causing my [Klout](http:...'
+intro: <rant><p>At the danger of causing my [Klout](http:...
 types:
 - shorts
 categories:
 - article
 published: 2012/01/31 12:00:00
-updated: 2012/01/31 13:00:00
+updated: 2012/01/31 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 <rant><p>At the danger of causing my [Klout](http://www.klout.com/) score irreparable damage, I want to spend this post using their site to highlight a mistake I&rsquo;ve seen three times in the last week. 
 

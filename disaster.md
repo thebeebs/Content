@@ -2,16 +2,22 @@
 title: Disaster
 authors:
 - thebeebs
-intro: 'The worst day I had at work was when I was 23'
+intro: The worst day I had at work was when I was 23
 types:
 - shorts
 categories:
 - personal
 - popular
 published: 2015/12/10 12:00:00
-updated: 2015/12/10 13:00:00
+updated: 2015/12/10 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 The worst day I had at work was when I was 23.
 

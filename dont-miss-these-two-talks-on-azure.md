@@ -1,16 +1,22 @@
 ---
-title: Don’t miss these two talks on Azure
+title: "Don\u2019t miss these two talks on Azure"
 authors:
 - thebeebs
-intro: 'I&rsquo;ve been heavily involved with cloud develo...'
+intro: I&rsquo;ve been heavily involved with cloud develo...
 types:
 - shorts
 categories:
 - azure
 published: 2011/06/15 12:00:00
-updated: 2011/06/15 13:00:00
+updated: 2011/06/15 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 I&rsquo;ve been heavily involved with cloud development recently, particularly Azure. I used the Azure platform to put the [Tech.Days](http://www.microsoft.com/uk/techdays) website live and I learnt a great deal in that process.<p>The following two videos from the the Tech.Days event are great ones to watch if you&rsquo;re new to Azure.
 

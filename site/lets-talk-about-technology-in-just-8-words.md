@@ -1,0 +1,1 @@
+/Users/mbeeby/Code/Content/lets-talk-about-technology-in-just-8-words.md

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amiga Workbench Blog</title>
+    <link rel="stylesheet" href="css/workbench.css">
+</head>
+<body>
+    <!-- Startup Screen -->
+    <div class="startup-screen" id="startup-screen">
+        <div class="startup-logo">Amiga Workbench Blog</div>
+        <div class="startup-progress">
+            <div class="startup-progress-bar" id="startup-progress-bar"></div>
+        </div>
+        <div class="startup-message" id="startup-message">Loading Workbench...</div>
+    </div>
+
+    <!-- Workbench Desktop -->
+    <div class="workbench" id="workbench">
+        <!-- Desktop Icons -->
+        <div class="desktop-icons" id="desktop-icons">
+            <!-- Will be populated dynamically -->
+        </div>
+        
+        <!-- Directory Window Template -->
+        <div class="window directory-window hidden" id="directory-window-template">
+            <div class="window-titlebar">
+                <div class="window-title">Directory</div>
+                <div class="window-controls">
+                    <div class="window-control close-btn">×</div>
+                </div>
+            </div>
+            <div class="window-content">
+                <div class="directory-header">
+                    <div class="directory-path">Path: /</div>
+                    <div class="directory-controls">
+                        <button class="directory-control" id="parent-dir-btn">Parent</button>
+                    </div>
+                </div>
+                <div class="directory-items">
+                    <!-- Will be populated dynamically -->
+                </div>
+                <div class="directory-status">0 items</div>
+            </div>
+        </div>
+        
+        <!-- Document Window Template -->
+        <div class="window document-window hidden" id="document-window-template">
+            <div class="window-titlebar">
+                <div class="window-title">Document</div>
+                <div class="window-controls">
+                    <div class="window-control close-btn">×</div>
+                </div>
+            </div>
+            <div class="window-content">
+                <div class="document-content">
+                    <!-- Will be populated dynamically -->
+                </div>
+            </div>
+        </div>
+        
+        <!-- About Window -->
+        <div class="window about-window hidden" id="about-window">
+            <div class="window-titlebar">
+                <div class="window-title">About Workbench Blog</div>
+                <div class="window-controls">
+                    <div class="window-control close-btn">×</div>
+                </div>
+            </div>
+            <div class="window-content">
+                <div class="about-content">
+                    <div class="about-logo">Workbench Blog</div>
+                    <div class="about-version">Version 1.0</div>
+                    <div class="about-description">
+                        A blog explorer inspired by the classic Amiga Workbench interface.
+                        <br><br>
+                        Double-click on folders to browse articles by year or category.
+                    </div>
+                    <div class="about-copyright">© 2025 The Beebs</div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Context Menu -->
+        <div class="context-menu hidden" id="context-menu">
+            <div class="context-menu-item" id="context-open">Open</div>
+            <div class="context-menu-item" id="context-info">Information</div>
+            <div class="context-menu-separator"></div>
+            <div class="context-menu-item" id="context-about">About</div>
+        </div>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="js/workbench.js"></script>
+</body>
+</html>

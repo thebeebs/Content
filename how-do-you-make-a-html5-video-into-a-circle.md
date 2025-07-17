@@ -2,16 +2,22 @@
 title: How do you make a HTML5 video into a circle
 authors:
 - thebeebs
-intro: 'Following a visitors request last week I showed yo...'
+intro: Following a visitors request last week I showed yo...
 types:
 - shorts
 categories:
 - web
 - html5at5
 published: 2011/12/19 12:00:00
-updated: 2011/12/19 13:00:00
+updated: 2011/12/19 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 Following a visitors request last week I showed you how to [produce a triangle shaped HTML5 video](http://blogs.msdn.com/b/thebeebs/archive/2011/12/08/i-would-like-to-mask-a-html5-video-element-and-convert-it-into-a-triangle-i-want-a-solution-that-will-work-in-ie9-firefox-and-chrome-is-it-possible.aspx), pretty useless but interesting none the less. A number of people on twitter asked if it was possible to make a circle video. No problem I thought... Just apply border-radius to the element. If you add a border radius to an element with a size of 50% of the width and height. Then you will get a circle shape.
 

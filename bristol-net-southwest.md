@@ -1,16 +1,22 @@
 ---
-title: 'A man, the Roslyn compiler and an Azure VM. A peek into the .NET Compiler'
+title: A man, the Roslyn compiler and an Azure VM. A peek into the .NET Compiler
 authors:
 - thebeebs
-intro: 'I am in Bristol to talk about the Microsoft C# compiler.'
+intro: I am in Bristol to talk about the Microsoft C# compiler.
 types:
 - speaking
 categories:
 - meetup
 - count
-published: 2017/02/13 18:30:00
-updated: 2017/02/13 19:30:00
+published: 2017/02/13 12:00:00
+updated: 2017/02/13 12:00:00
 ---
+
+
+
+
+
+
 
 I'm heading down to Bristol for a meetup at dot net southwest where I will be giving the talk "A man, the Roslyn compiler and an Azure VM.
  A peek into the .NET Compiler"
@@ -18,7 +24,7 @@ I'm heading down to Bristol for a meetup at dot net southwest where I will be gi
 Stuff from the event can be found here:
 * Slides [Roslyn](https://1drv.ms/p/s!AlEOpfeanUR1ru5ujxXJDFIjY2WlcA)
 
-## Oh Roslyn. 
+# # Oh Roslyn. 
 
 Such a cool name. Such promise. Alas the fun police at Microsoft decided that project Rosyln, the wonderfully awesomely name 
 for the the new .net compiler would infact be converted to "The Microsoft .net Compiler Platform". 
@@ -26,7 +32,7 @@ for the the new .net compiler would infact be converted to "The Microsoft .net C
 During the talk. I make a joke about Roslyn and it's similarity to Roxanne by the police. This joke never works. I will 
 increment the following number everytime this joke fall flat on it's face: 5.5
 
-## What is the .net Compiler Platform?
+# # What is the .net Compiler Platform?
 
 The .NET Compiler Platform is a major update of the C# and VB compilers. But, “Roslyn” is not just about compilers but an open 
 platform that provides an API that provides an object model on top of the C# and VB compilers and language services so anyone 
@@ -39,7 +45,7 @@ The original compilers (csc.exe and vbc.exe) are written in Native code. Roslyn 
 The advantage of building them in managed code is that users can reference the real compilers as libraries 
 from .NET applications (no wrappers needed).
 
-## Why Bother
+# # Why Bother
 Building a compiler like Roslyn is a big job, it's taken years I estimate the repro contains 4.6 million 
 lines of code and has over 191 contributors. Unless someone is a really ranty commenter, that's a lot of naughts and ones.
 
@@ -54,7 +60,7 @@ are building developer productivity. Like the people at [DevExpress behind Code 
  Finally there are 100,000 of VB and C# developers that will benefit from better tooling inside of Visual Studio and the add ons that
  partners can now build. They may also wish to take advantage of the new SDK to create code fix and diagnostic tools that can now easily be built.
 
-## The SDK
+# # The SDK
 
 You can get the SDK from the following location: 
 [.net compiler platform SDK](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.NETCompilerPlatformSDK)
@@ -70,13 +76,13 @@ When you have both SDK's you should now have an project option called "Analyzer 
 should check that the .net framework selected is above 4.6. If you still do not see the project type, toggle the extension on and off in 
 Tools > Extensions and Updates > Disable. You will have to restart VS between disabling the extension and enabling it.
 
-## What uses Roslyn
+# # What uses Roslyn
 
 The first IDE to use Rosyln was Web Matrix (The lightweight editor that's now been super seeded by VS Code) and there was a 
 preview for Visual Studio 2013. However Visual Studio 2015 is the main IDE that Roslyn is used and of course 2017 is also using Roslyn. Roslyn is also
 on of the foundational building blocks that made Visual Studio for Mac possible. 
 
-## .NET Compiler Platform Architecture
+# # .NET Compiler Platform Architecture
 
 I've never built a compiler but I have been reliably informed that you can think of the .net compiler as being split into 5 parts.
 Parser, Symbols, Metadata Import, Binder and IL Emitter. Each of those parts has an API associated with it: 
@@ -90,49 +96,49 @@ a Syntax tree and query the code. However, code if often spead about over a solu
 you will need to use the workspace API's this will ensure that you can think about your code holistically and have more capability
 since Rosyln will have a better understanding of how your code interconnects.
 
-## Syntax Trees
+# # Syntax Trees
 If you think about your C# code as files then the first step of compiling it is to convert all those strings of text into a Syntax tree that
 represents the .net code. In Roslyn a Syntax tree is immutable (it can't be changed). To make modifications you will need to copy it and 
 generate a brand new tree.
 
-### Resilient
+# # # Resilient
 It's resilient in that even if your c# is a total uncompilable mess, Rosyln isn't going to fail. It will construct a tree and show the errors 
 where is finds them. This is important since Rosyln is running with every keypress you take in Visual Studio. During editing a C# file 
 there will be many times that a C# file is without braces or just plain wrong. Since Rosyln is used to show you where the code is wrong it 
 needs to be able to construct a tree in any situation.
 
-### Complete
+# # # Complete
 If you ToString a Syntax tree the C# code generated will be an exact replica of the code that went into creating it. Including the line spaces,
 tabs and all the other Triva that isn't code, but is crucial to reconstruct the originating file.
 
-### Efficient
+# # # Efficient
 It might seem like a huge task to construct a new Syntax tree for each and every change you make to any file in your project. However, in the near
 decade that Roslyn has been under development the team have tuned performance to ensure it is very efficient. I'm not a good enough C# developer
 to fully understand, however, I have been told that the Roslyn code base is a bit of a master class in managed language performance. I guess this 
 makes sense since the folk writing the C# also understand intimately how it's being compiled to Intermediate Language.
 
-## Syntax Nodes
+# # Syntax Nodes
 When the C# file is parsed and converted into a tree each element is converted into objects. The bit that make up the important blocks of code are 
 called nodes. When you query a node it contains lots of stuff but at it's core it's the basic structure of the code.
 
-## Syntax Tokens
+# # Syntax Tokens
 The next type of objects are Syntax Tokens these are nested if you like inside of the nodes and represent all of the C# grammer and information.
 
-## Syntax Triva
+# # Syntax Triva
 All the other stuff that isn't actaully important for compilation but is important to maintain consistency with the original file is 
 called Syntax Triva. This is all the white space, tabs and other elements.
 
-## Compilation
+# # Compilation
 When a project is compiled. There maybe multiple references and Syntax trees, ultimately these will all be brought together 
 and IL will be emitted.
 
-## Understanding Syntax trees
+# # Understanding Syntax trees
 It's hard to construct a mental model of a Syntax Tree just by looking at C# but to query things you will need to understand how 
 it is structured. 
 
 Luckily the Roslyn team built a Syntax Tree Viewer so you could get a visualisation at any time. View > Other Windows > Syntax Visualiser.
 
-## Working with Code Analysis
+# # Working with Code Analysis
 First up I am going to create a very simple console application. I will need to install the Nuget Package Microsoft.CodeAnalysis. I open up 
 the Package Manager Windows and Type:
 
@@ -215,7 +221,7 @@ Console.Write("New: " + newmethod);
             </code>
 </pre>
 
-## Code Analysis and Code Fix
+# # Code Analysis and Code Fix
 
 You can find the code for the example here: [github.com/thebeebs/RoslynCodeFixForColour](https://github.com/thebeebs/RoslynCodeFixForColour)
 

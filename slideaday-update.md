@@ -2,15 +2,21 @@
 title: SlideADay Update
 authors:
 - thebeebs
-intro: 'Since I [posted my SlideADay request last night](h...'
+intro: Since I [posted my SlideADay request last night](h...
 types:
 - shorts
 categories:
 - events
 published: 2010/11/12 12:00:00
-updated: 2010/11/12 13:00:00
+updated: 2010/11/12 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 Since I [posted my SlideADay request last night](http://blogs.msdn.com/b/thebeebs/archive/2010/11/11/slideaday-help-me-produce-a-5-minute-presentation.aspx) I've had 2 responses, so the presentation so far is scripted below, is there something you'd like to add? At 4pm today I'll commit the first 30 seconds to video, so please get in with your suggestions before then.
 

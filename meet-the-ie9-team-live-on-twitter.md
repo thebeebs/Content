@@ -2,15 +2,21 @@
 title: Meet the IE9 Team Live on Twitter
 authors:
 - thebeebs
-intro: 'Tonight at 5pm you can put your questions to the t...'
+intro: Tonight at 5pm you can put your questions to the t...
 types:
 - shorts
 categories:
 - ie9-beta
 published: 2010/11/18 12:00:00
-updated: 2010/11/18 13:00:00
+updated: 2010/11/18 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 Tonight at 5pm you can put your questions to the team behind the new IE9 Chakra JavaScript engine.<p>The new engine is [seriously fast](http://windowsteamblog.com/ie/b/ie/archive/2010/11/17/ie-9-platform-preview-7-making-your-web-sites-faster.aspx) and you can try it out by downloading the [IE9 Platform Preview 7](http://ie.microsoft.com/testdrive/) which was released yesterday.
 

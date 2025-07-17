@@ -1,0 +1,1 @@
+/Users/mbeeby/Code/Content/resharper-6.md

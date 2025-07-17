@@ -2,15 +2,21 @@
 title: Windows Phone 7 help and support
 authors:
 - thebeebs
-intro: 'In my previous role I worked on a number of Window...'
+intro: In my previous role I worked on a number of Window...
 types:
 - shorts
 categories:
 - mobile
 published: 2010/10/20 12:00:00
-updated: 2010/10/20 13:00:00
+updated: 2010/10/20 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 In my previous role I worked on a number of Windows Phone 7 projects. I thought I'd just quickly post a few places where you can get help if you need it:<p>&nbsp;
 

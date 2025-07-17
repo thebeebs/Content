@@ -1,8 +1,8 @@
 ---
-title: 'Expires Headers ASP.net Core'
+title: Expires Headers ASP.net Core
 authors:
 - thebeebs
-intro: 'How to add expires headers to static content in ASP.Net core'
+intro: How to add expires headers to static content in ASP.Net core
 types:
 - shorts
 categories:
@@ -10,6 +10,12 @@ categories:
 published: 2016/01/01 12:00:00
 updated: 2017/05/01 12:00:00
 ---
+
+
+
+
+
+
 
 I was taking a look at a an ASP.net web app using YSlow and it mentioned that I wasn't adding an expires header to static 
 files to enable browser caching.

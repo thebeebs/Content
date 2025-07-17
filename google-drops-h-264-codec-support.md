@@ -2,15 +2,21 @@
 title: Google Drops H.264 codec support
 authors:
 - thebeebs
-intro: 'Video suport in the worlds most popular browser'
+intro: Video suport in the worlds most popular browser
 types:
 - shorts
 categories:
 - html5
 published: 2011/01/11 12:00:00
-updated: 2011/01/11 13:00:00
+updated: 2011/01/11 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 ![Google Chrome Logo](images/0383.image_1D3F089E.png "Google Chrome Logo")Now I will be honest, I wasn't expecting this.
 
@@ -38,13 +44,13 @@ The current state of browser support looks something like this:
 
 &#160;
 
-## How can you tell if a browser supports a particular codec?
+# # How can you tell if a browser supports a particular codec?
 
 This position switch by Google is a great example of why feature detection is so important when coding HTML5. You can't rely on browser sniffing as browser vendors can change the HTML5 features they implement at any time.
 
 Modernizer is a great JavaScript library which will tell you if a visitors browser supports a particular codec. I talked about it earlier in the [month here](http://ubelly.com/2010/12/what-are-you-waiting-for-use-html5-and-css3-today/).
 
-## How do you encode VP8?
+# # How do you encode VP8?
 
 ![thebeebs and Robert Reinhard after his talk at FOTB](images/8371.DSC_0179_7A9ACA22.jpg "thebeebs and Robert Reinhard after his talk at FOTB")
 

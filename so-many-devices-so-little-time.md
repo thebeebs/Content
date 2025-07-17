@@ -2,15 +2,21 @@
 title: So many devices, so little time
 authors:
 - thebeebs
-intro: 'It didn&rsquo;t seem so at the time but not so lon...'
+intro: It didn&rsquo;t seem so at the time but not so lon...
 types:
 - shorts
 categories:
 - article
 published: 2012/01/18 12:00:00
-updated: 2012/01/18 13:00:00
+updated: 2012/01/18 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 It didn&rsquo;t seem so at the time but not so long ago, developing for the web was actually comparatively simple. Sure there were some significant differences between browsers and some (ahem) got a pretty hard time for lagging behind. But at least there was a pretty finite range of screen sizes and PCs of broadly similar capabilities.<p>Looking at where we are today &ndash; especially in light of all the new toys pouring out of the recent [CES](http://www.cesweb.org/) exhibition &ndash; those not so distant days seem positively quaint.
 

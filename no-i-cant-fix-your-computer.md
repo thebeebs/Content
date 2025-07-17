@@ -1,5 +1,5 @@
 ---
-title: No I can’t fix your computer
+title: "No I can\u2019t fix your computer"
 authors:
 - thebeebs
 intro: '[![Cartoon Frame 1. Bill:What Do you do at work. T...'
@@ -8,9 +8,15 @@ types:
 categories:
 - life
 published: 2010/10/12 12:00:00
-updated: 2010/10/12 13:00:00
+updated: 2010/10/12 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 [![Cartoon Frame 1. Bill:What Do you do at work. Thebeebs: Well I talk about technology](images/1641.mywork1_thumb_0768FB83.jpg "Cartoon Frame 1. Bill:What Do you do at work. Thebeebs: Well I talk about technology")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/8585.mywork1_7BB3B450.jpg)&#160; 
 

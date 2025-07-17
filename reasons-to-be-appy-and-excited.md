@@ -2,15 +2,21 @@
 title: Reasons to be Appy (and excited)
 authors:
 - thebeebs
-intro: 'As I&rsquo;ve mentioned before, I go to [a lot of ...'
+intro: As I&rsquo;ve mentioned before, I go to [a lot of ...
 types:
 - shorts
 categories:
 - events
 published: 2012/05/28 12:00:00
-updated: 2012/05/28 13:00:00
+updated: 2012/05/28 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 As I&rsquo;ve mentioned before, I go to [a lot of conferences and events](http://blogs.msdn.com/b/thebeebs/archive/2012/03/29/tech-conferences-a-four-point-survival-guide.aspx). In fact, it seems like over the last month I&rsquo;ve got to see way too many hotel rooms (&ldquo;I&rsquo;ve seen them all and man they&rsquo;re all the same&rdquo;). <p>Tomorrow, however, sees [Reasons to be Appy](http://www.reasonstobeappy.com/) in London and I can&rsquo;t wait. On paper, it ticks all the boxes &ndash; great speakers, interesting, thought-provoking topics, the right amount of light and shade. Where else will you get to hear about cello-playing in the same room as mobile development? Or art installations at the same time as HTML5?
 

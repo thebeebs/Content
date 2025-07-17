@@ -2,7 +2,7 @@
 title: PostMessage Popups and IE
 authors:
 - thebeebs
-intro: 'If you have not used [postMessage](http://dev.w3.o...'
+intro: If you have not used [postMessage](http://dev.w3.o...
 types:
 - shorts
 categories:
@@ -10,9 +10,15 @@ categories:
 - web
 - html5at5
 published: 2011/12/21 12:00:00
-updated: 2011/12/21 13:00:00
+updated: 2011/12/21 12:00:00
 status: archived
 ---
+
+
+
+
+
+
 
 If you have not used [postMessage](http://dev.w3.org/html5/postmsg/) (or Cross Document Messaging to use it&rsquo;s proper title) it&rsquo;s a way of securely sending messages between frames even when the documents passing messages are on different domains. To learn more about it you can read this introduction that [we wrote during the IE8 launch](http://msdn.microsoft.com/en-us/library/cc511311(v=VS.85).aspx).<p>It works in IE8, IE9 and IE9 for WP7&hellip; however in IE it only works for embedded frames. This can cause issues for some users that maybe using it to pass messages back from pop-up windows or other tabs as they receive the error message &ldquo;No Such Interface supported&rdquo;. 
 
