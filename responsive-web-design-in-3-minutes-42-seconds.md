@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 How many screens do you create your sites for? <p>For many designers and developers the answer is one, perhaps two &ndash; a traditional desktop/laptop and, maybe, a smartphone. Chances are these will be two separate sites &ndash; the www.main-site-that-most-effort-goes-into.co.uk and m.mobile-version-with-bigger-buttons-and-some-stuff-taken-out.co.uk. But, just between you and me, the real world isn&rsquo;t nearly so simple. 
 
 Today, there is a huge range of devices to think about. Some users will be basking in a state of the art 30&rdquo; LED screen, others on a 15&rdquo; laptop, some will be on netbooks, a bunch will be on tablets (in various sizes) and a load more will be on differently spec&rsquo;d smartphones. So whatever your site was originally designed for (eg the ubiquitous 960px grid), every other format will be, to a greater or lesser extent, a compromise.

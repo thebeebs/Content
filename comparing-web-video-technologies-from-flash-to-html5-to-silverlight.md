@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I went to Flash on the Beach in Brighton two weeks ago and attended some incredibly entertaining talks but with out a doubt the most valuable session for my Job was delivered by Robert Reinhardt when he discussed video technologies in HTML5, Flash and Silverlight it was entitled: &ldquo;Comparing Web video Technologies, from Flash to HTML5 to Silverlight&rdquo;.<p>One of the points that really resonated with me was his insistence that the Video technology that you use on your website should be determined by your analytic data. You should use analytics to figure out who your target audience is and what devices you need to target.
 
 With the data in hand you should ask yourself the following questions and answer them honestly:

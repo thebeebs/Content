@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 ![Beer](images/3060.image_02B88060.png "Beer")I just wrote a little sample application in jQuery using the new GeoLocation feature in [IE9 RC](http://www.beautyoftheweb.co.uk/).
 
 It takes your current location and then sorts a list of bars with the closet one appearing on top. I wrote it after asking Andy Robb for a list of his favourite Bars in Seattle in preparation for my trip next week.

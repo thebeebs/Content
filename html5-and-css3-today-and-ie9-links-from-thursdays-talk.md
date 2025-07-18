@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 During my talk on Thursday I mentioned a number of links, I&rsquo;ve posted them below for your convenience.<p>The Killers HTML5 Website - [http://www.thekillersmusic.com/HTML5](http://www.thekillersmusic.com/HTML5)
 
 Validate your HTNML5 &ndash; [http://www.validator.w3.org/check](http://www.validator.w3.org/check)

@@ -24,6 +24,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 What shape are you in? Speaking personally, I drink too much coffee and get too little sleep. But that&rsquo;s not really what I mean. I&rsquo;m talking primarily about your skill-set.<p>Historically we&rsquo;ve been an industry of specialists &ndash; you were either front end or back end, you might be a Flash ninja or a JavaScript guru, whatever. Fundamentally you would have deep skills in one particular area. As a result you could, if you so wished, sit in your own fiefdom and not worry too much about the stuff that went on outside.
 
 Of course, as anyone who&rsquo;s been around the block a few times will know &ndash; things change. HTML 3.2 has been eclipsed by 4 and now 5. CSS is evolving as is JavaScript. New devices are emerging all the time. Nothing stays the same for long.

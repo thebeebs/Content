@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Tonight at 5pm you can put your questions to the team behind the new IE9 Chakra JavaScript engine.<p>The new engine is [seriously fast](http://windowsteamblog.com/ie/b/ie/archive/2010/11/17/ie-9-platform-preview-7-making-your-web-sites-faster.aspx) and you can try it out by downloading the [IE9 Platform Preview 7](http://ie.microsoft.com/testdrive/) which was released yesterday.
 
 So if you have&nbsp; question for the engineers behind Chakra then get on twitter and ask it :

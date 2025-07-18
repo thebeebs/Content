@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I was trying to use terminal on my Mac to upload some code to GitHub using an account that was different to my usual one. I set the following three settings:
 
 <pre>git config --global user.name "My Name"

@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 There is an argument for HTML5 that runs: because it can run across multiple devices, HTML5 can help you slash the costs of developing new apps. Now, rather than dealing with the time and cost of developing native apps, you can simply write once and deploy everywhere (near as damn it).<p>Now, I&rsquo;d dearly love to simply agree with this. But, as with so many things in tech, the reality is not quite so clear cut.
 
 Over on [his blog](http://mmitii.wordpress.com/2012/01/09/types-of-app-business-models/), my boss has been talking about the reasons why people build applications. This leads me to think, the motivation for building an app and the skill set of its current developers will ultimately determine if HTML5 is a less expensive option.

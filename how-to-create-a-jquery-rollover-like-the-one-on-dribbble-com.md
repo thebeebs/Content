@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 [![owlScrollOver](images/0652.owlScrollOver_6E08A702.png "owlScrollOver")](http://dribbble.com/ "http://dribbble.com/")
 
 I took a look at [http://dribbble.com/](http://dribbble.com/) last night and noticed a simple yet effective treatment that they put on their pictures. If you scroll the mouse over them you get a subtle overlay fade in over the image to give you more information.

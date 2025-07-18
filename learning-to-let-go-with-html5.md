@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 While it&rsquo;s a generalisation, I think most of us in the web development community have an internal control freak just lurking inside of us. After all, there&rsquo;s so much that can (and generally does) go wrong. And you know that it&rsquo;s always the one thing you let go that&rsquo;ll come back to bite you.<p>With Flash, you own the experience. Every pixel and its exact position are determined by the designer. HTML 5 is different. With HTML5, you relinquish at least some of that control to the browser. This can be a bit of a culture shock for some people. 
 
 Personally, I don&rsquo;t think this is anything to stress about. While it means you may not have complete control over the experience, it should also mean you&rsquo;re able to deliver a more tailored experience to your users. Primarily, this is because the browser understands their current, situation and context better than someone working in a dev shop somewhere.

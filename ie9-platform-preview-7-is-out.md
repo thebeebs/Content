@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 You can download the [Platform Preview 7 here](http://bit.ly/9SKEKW).&nbsp; In our last preview we brought CSS3 2d Transforms, in the new platform preview 7 we show the progress we have made with JavaScript Performance.<p>JavaScript performance is important for many web scenarios, but when you are working with HTML5 canvas, you start to realise why it is so important for the future of the web.
 
 One of the examples that shows what's possible with a little JS and HTML5 canvas goodness is the new [galactic performance test](http://ie.microsoft.com/testdrive/Performance/Galactic/Default.html). I recommend you take a look at it because well&hellip; it&rsquo;s pretty awesome.For those that don't have time to download the browser I've popped up a little video of it running below:

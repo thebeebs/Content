@@ -21,6 +21,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 With all the stories of doom and gloom in the media every day, it&rsquo;d be easy to think we should all be breaking out the razor blades. But actually, if you&rsquo;re a web developer and at least competent at what you do, things are looking pretty rosy. In fact, 2012 may well be the year we look back on in the future with misty-eyed nostalgic fondness.<p>So, without further ado, here are my 10 reasons why it rocks to be a web developer right now:
 
 # # 1. You can get direct access to customers

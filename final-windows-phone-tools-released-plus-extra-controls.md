@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 The final version of the Windows Phone developer tools were released today you can download them [here](http://go.microsoft.com/fwlink/?LinkId=185584):
 
 You will notice that some of the controls that were missing from the last release are now included:

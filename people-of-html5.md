@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Over at the Mozilla Blog [Christian Heilmann](http://hacks.mozilla.org/author/cheilmann/) (Former Yahoo, Now Mozilla Evangelist) kicked off the 1st in his &ldquo;People of HTML5&rdquo; series by getting together with Bruce Lawson from Opera Software to chew the fat.<p>The result is a really [interesting Video](http://hacks.mozilla.org/2011/01/people-of-html5-bruce-lawson/) that talks about&nbsp; how Bruce started, HTML5 Doctor, NEWT, feature detection, the dream of the semantic web, web applications and a ton of other stuff. 
 
 Chris asks Bruce at one point some of the sites he&rsquo;d recommend to Learn HTML5 and below are his suggestions:

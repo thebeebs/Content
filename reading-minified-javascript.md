@@ -20,6 +20,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 If you have viewed source on any website in the last few years then you will have certainly seen Minified JavaScript. This is JavaScript where all of the whitespace and unnecessary characters have been removed. Developers do this because it reduces the size of JavaScript files and makes sites load faster. I thought it might be a good idea to look at all the browsers and dig into the tools available to developers to reverse this process and make JavaScript more readable when debugging.
 
 &#160;![Minified JavaScript](images/2555.image_3.png "Minified JavaScript") 

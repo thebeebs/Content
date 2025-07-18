@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Some days I Interact more with the people in my social network than the people in my office.&nbsp; This was something I really wanted to remedy, after all you can learn a great deal from your co-workers. So when I heard Andy Robb was Joining our team from the Windows Live Partner Team, I thought It would be a great idea to treat him to a &ldquo;welcome to the team beer&rdquo; and ask him what he knew about Windows Live Messenger Connect, something that I will be developing with in the next few weeks.&nbsp;<p>Sadly, after my holiday last week, I&rsquo;ve been trying to reduce my outgoings a little. So instead of inviting him for a beer; I wrote up a few questions and emailed them to him. Despite this frugal and unsociable introduction Andy was gracious enough to reply and the results of my little interview are below.&nbsp;
 
 Now I&rsquo;m just left with one problem: As a thank you, should I buy him that beer&hellip; or should I just send him a virtual thumbs-up?

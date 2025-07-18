@@ -21,6 +21,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 As much as I&rsquo;m fascinated with where HTML5 is going, most of my day to day work is all about what you can do right now (or at the very least, ways to hack something together that works until a more elegant solution comes along). But today, I want to briefly focus on a few things HTML5 **can&rsquo;t** do just yet (but which I think it&rsquo;ll be able to do pretty soon).<p>**1: HTML5 can&rsquo;t do DRM**
 
 So, if you&rsquo;re a media company, you want to have some way to control or limit the use of your content &ndash; typically by applying some form of digital rights management (DRM) to it. Sadly, at the moment, you can&rsquo;t do this with HTML5. The problem is that within HTML5, it&rsquo;s pretty easy to see the specification and from there, it&rsquo;s a short step to being able to get round it (the full technical and political discussion is visible over on the [W3C bug system](https://www.w3.org/Bugs/Public/show_bug.cgi?id=10902)). Personally I think this is something that needs to be cracked. Regardless of the political arguments for and against DRM, for many businesses this is a real problem &ndash; you can check out [Lovefilm&rsquo;s blog](http://blog.lovefilm.com/uncategorized/why-were-switching-from-flash-to-silverlight.html) to see the issues they face.

@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Cut the rope was a game originally built for iPhone and Android by [ZeptoLab](http://zeptolab.com/) and it's gone on to sell 70 million copies, the good news is that it has been ported to HTML5 by PixelLabs, ZentoLab and the Internet Explorer team. It works in Chrome, Safari, Internet Explorer 9 and Opera.
 
 [<span>Play</span> Cut the rope](http://www.cuttherope.ie/) [<span>Read</span> the developers guide](http://www.cuttherope.ie/dev) 

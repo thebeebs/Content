@@ -20,6 +20,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 There are a number of ways to create graphs in HTML5, you could use canvas for example, but one of my favourite ways is to go outside of the HTML5 spec and use an associated technology called Scalable Vector Graphics (SVG).<p align="left">Using SVG you can create really nice data visualisations that don&rsquo;t degrade when scaled. There are a number of libraries that can get you up and running quickly. [Rapha&euml;l](http://raphaeljs.com) is one of them.
 
 The graphing portion of [Rapha&euml;l](http://raphaeljs.com) is called [gRapha&euml;l](http://g.raphaeljs.com/) it uses SVG when support is available but when it isn&rsquo;t it falls back to VML. VML is a technology similar to SVG supported by Internet Explorer 6, 7 and 8. This means that any graphs created using this library will work in Firefox 3.0+, Safari 3.0+, Opera 9.5+ and Internet Explorer 6.0+. Which means there is nothing holding you back implementing these today on your website.

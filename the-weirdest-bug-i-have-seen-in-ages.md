@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 One of my colleagues came to me last week with an issue they were having with the Costa website inside of Microsoft Edge. When they attempted to checkout and pay for a gift card (they had 20 or so they needed to create) they would press a Checkout button, Microsoft Edge appeared to open an iframe then immediately close it and push the user back to their basket.
 
 Weird I thought... I began my diagnostic ritual, one that I have become so familiar with over the past few years. F12 tools, consoles, view source,  changing agent strings and then finally opening it in another browser to see if that "fixes it". However, the site was completely broken.

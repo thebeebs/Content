@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I am just on my way home from a great Windows 8 event in Manchester. We had a full house (sorry that the room was a little packed) and loads of talks. During my two presentations I promised to share some links and example code that I showed during the talk&hellip; So here they are:
 
 # # Views

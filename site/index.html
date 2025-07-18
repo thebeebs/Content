@@ -3,95 +3,332 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Amiga Workbench Blog</title>
-    <link rel="stylesheet" href="css/workbench.css">
+    <title>Martin Beeby | Tech Speaker, Guitar & Skate Enthusiast</title>
+    <link rel="stylesheet" href="css/modern.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Merriweather:ital,wght@0,400;0,700;1,400&family=Fira+Code&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
-    <!-- Startup Screen -->
-    <div class="startup-screen" id="startup-screen">
-        <div class="startup-logo">Amiga Workbench Blog</div>
-        <div class="startup-progress">
-            <div class="startup-progress-bar" id="startup-progress-bar"></div>
-        </div>
-        <div class="startup-message" id="startup-message">Loading Workbench...</div>
-    </div>
-
-    <!-- Workbench Desktop -->
-    <div class="workbench" id="workbench">
-        <!-- Desktop Icons -->
-        <div class="desktop-icons" id="desktop-icons">
-            <!-- Will be populated dynamically -->
-        </div>
-        
-        <!-- Directory Window Template -->
-        <div class="window directory-window hidden" id="directory-window-template">
-            <div class="window-titlebar">
-                <div class="window-title">Directory</div>
-                <div class="window-controls">
-                    <div class="window-control close-btn">×</div>
-                </div>
+    <!-- Header -->
+    <header class="site-header">
+        <div class="container header-container">
+            <div class="site-logo">
+                <a href="index.html">
+                    <span>TheBeebs</span>
+                </a>
             </div>
-            <div class="window-content">
-                <div class="directory-header">
-                    <div class="directory-path">Path: /</div>
-                    <div class="directory-controls">
-                        <button class="directory-control" id="parent-dir-btn">Parent</button>
-                    </div>
-                </div>
-                <div class="directory-items">
-                    <!-- Will be populated dynamically -->
-                </div>
-                <div class="directory-status">0 items</div>
-            </div>
+            
+            <button class="nav-toggle" id="nav-toggle">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            
+            <nav class="main-nav" id="main-nav">
+                <ul>
+                    <li><a href="#" class="active">Home</a></li>
+                    <li><a href="#blog">Blog</a></li>
+                    <li><a href="#speaking">Speaking</a></li>
+                    <li><a href="#interests">Interests</a></li>
+                    <li><a href="#about">About</a></li>
+                </ul>
+            </nav>
         </div>
-        
-        <!-- Document Window Template -->
-        <div class="window document-window hidden" id="document-window-template">
-            <div class="window-titlebar">
-                <div class="window-title">Document</div>
-                <div class="window-controls">
-                    <div class="window-control close-btn">×</div>
-                </div>
-            </div>
-            <div class="window-content">
-                <div class="document-content">
-                    <!-- Will be populated dynamically -->
+    </header>
+    
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1 class="hero-title">Martin Beeby</h1>
+                <p class="hero-subtitle">Tech speaker, guitar enthusiast, and fan of skate culture from Northampton, England. This is where I share my thoughts on tech, my interests, and the things I'd normally post on social media.</p>
+                
+                <div class="hero-buttons">
+                    <a href="#blog" class="btn btn-primary">Read Blog</a>
+                    <a href="#about" class="btn btn-outline">About Me</a>
                 </div>
             </div>
         </div>
-        
-        <!-- About Window -->
-        <div class="window about-window hidden" id="about-window">
-            <div class="window-titlebar">
-                <div class="window-title">About Workbench Blog</div>
-                <div class="window-controls">
-                    <div class="window-control close-btn">×</div>
+    </section>
+    
+    <!-- About Section -->
+    <section class="about-section" id="about">
+        <div class="container">
+            <div class="about-grid">
+                <div class="about-image">
+                    <img src="https://images.unsplash.com/photo-1549692520-acc6669e2f0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80" alt="Martin Beeby">
                 </div>
-            </div>
-            <div class="window-content">
                 <div class="about-content">
-                    <div class="about-logo">Workbench Blog</div>
-                    <div class="about-version">Version 1.0</div>
-                    <div class="about-description">
-                        A blog explorer inspired by the classic Amiga Workbench interface.
-                        <br><br>
-                        Double-click on folders to browse articles by year or category.
+                    <h2>Hello, I'm Martin</h2>
+                    <p>I'm a tech speaker and developer from Northampton, England. While I'm naturally quite reserved and shy (very British in that way), I somehow find myself regularly giving talks at technical conferences around the world.</p>
+                    <p>When I'm not coding or speaking, you'll find me playing guitar or appreciating skate culture. This blog is my personal space to share technical articles, conference talks, and the kind of everyday thoughts and experiences I'd typically share on social media (which I've since left behind).</p>
+                    <div class="about-tags">
+                        <span class="tag">Tech Speaker</span>
+                        <span class="tag">Developer</span>
+                        <span class="tag">Guitar Player</span>
+                        <span class="tag">Skate Culture</span>
+                        <span class="tag">Northampton</span>
                     </div>
-                    <div class="about-copyright">© 2025 The Beebs</div>
                 </div>
             </div>
         </div>
-        
-        <!-- Context Menu -->
-        <div class="context-menu hidden" id="context-menu">
-            <div class="context-menu-item" id="context-open">Open</div>
-            <div class="context-menu-item" id="context-info">Information</div>
-            <div class="context-menu-separator"></div>
-            <div class="context-menu-item" id="context-about">About</div>
+    </section>
+    
+    <!-- Content Tabs -->
+    <section class="section" id="blog">
+        <div class="container">
+            <div class="content-tabs">
+                <div class="tab-buttons">
+                    <button class="tab-button active" data-tab="articles">Articles</button>
+                    <button class="tab-button" data-tab="notes">Quick Notes</button>
+                    <button class="tab-button" data-tab="all">All Content</button>
+                </div>
+            </div>
+            
+            <!-- Tab Content: Articles -->
+            <div class="tab-content active" id="articles-tab">
+                <h2>Latest Articles</h2>
+                
+                <!-- Featured Posts -->
+                <div class="featured-grid" id="featured-posts">
+                    <!-- Featured posts will be dynamically inserted here -->
+                </div>
+                
+                <!-- Categories -->
+                <div class="categories">
+                    <ul class="category-list" id="category-list">
+                        <!-- Categories will be dynamically inserted here -->
+                    </ul>
+                </div>
+                
+                <!-- Post Grid -->
+                <div class="post-grid" id="post-grid">
+                    <!-- Posts will be dynamically inserted here -->
+                </div>
+            </div>
+            
+            <!-- Tab Content: Notes -->
+            <div class="tab-content" id="notes-tab">
+                <h2>Quick Notes</h2>
+                <p>Things I'd normally share on social media - random thoughts, quick updates, and day-to-day observations.</p>
+                
+                <div class="micro-posts" id="micro-posts">
+                    <!-- Example micro posts (these would normally be dynamically generated) -->
+                    <div class="micro-post">
+                        <div class="micro-post-header">
+                            <div class="micro-post-avatar" style="background-image: url('https://images.unsplash.com/photo-1549692520-acc6669e2f0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80')"></div>
+                            <div class="micro-post-author">Martin Beeby</div>
+                            <div class="micro-post-date">Today</div>
+                        </div>
+                        <div class="micro-post-content">
+                            <p>Just got a new Thrasher hoodie and some Vans. Love the skate aesthetic even though I don't actually skate myself. #skatestyle #fashion</p>
+                        </div>
+                        <div class="micro-post-tags">
+                            <span class="micro-post-tag">#skate</span>
+                            <span class="micro-post-tag">#smallwins</span>
+                        </div>
+                    </div>
+                    
+                    <div class="micro-post">
+                        <div class="micro-post-header">
+                            <div class="micro-post-avatar" style="background-image: url('https://images.unsplash.com/photo-1549692520-acc6669e2f0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80')"></div>
+                            <div class="micro-post-author">Martin Beeby</div>
+                            <div class="micro-post-date">Yesterday</div>
+                        </div>
+                        <div class="micro-post-content">
+                            <p>Just picked up this beautiful Fender Telecaster. The tone is absolutely incredible - can't wait to incorporate it into some new recordings.</p>
+                            <img src="https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80" alt="Fender Telecaster" class="micro-post-image">
+                        </div>
+                        <div class="micro-post-tags">
+                            <span class="micro-post-tag">#guitar</span>
+                            <span class="micro-post-tag">#fender</span>
+                            <span class="micro-post-tag">#telecaster</span>
+                        </div>
+                    </div>
+                    
+                    <div class="micro-post">
+                        <div class="micro-post-header">
+                            <div class="micro-post-avatar" style="background-image: url('https://images.unsplash.com/photo-1549692520-acc6669e2f0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80')"></div>
+                            <div class="micro-post-author">Martin Beeby</div>
+                            <div class="micro-post-date">3 days ago</div>
+                        </div>
+                        <div class="micro-post-content">
+                            <p>Preparing my talk for next week's conference. Always find it ironic how this shy British bloke ends up speaking in front of hundreds of people. Still get nervous every time!</p>
+                        </div>
+                        <div class="micro-post-tags">
+                            <span class="micro-post-tag">#speaking</span>
+                            <span class="micro-post-tag">#conferences</span>
+                            <span class="micro-post-tag">#nerves</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Tab Content: All -->
+            <div class="tab-content" id="all-tab">
+                <h2>All Content</h2>
+                <div id="all-content">
+                    <!-- All content will be dynamically inserted here -->
+                </div>
+            </div>
+            
+            <!-- Pagination -->
+            <div class="pagination">
+                <ul class="pagination-list">
+                    <li class="pagination-item disabled"><span><i class="fas fa-chevron-left"></i></span></li>
+                    <li class="pagination-item active"><a href="#">1</a></li>
+                    <li class="pagination-item"><a href="#">2</a></li>
+                    <li class="pagination-item"><a href="#">3</a></li>
+                    <li class="pagination-item"><a href="#"><i class="fas fa-chevron-right"></i></a></li>
+                </ul>
+            </div>
         </div>
+    </section>
+    
+    <!-- Interests Section -->
+    <section class="interests-section" id="interests">
+        <div class="container">
+            <h2>My Interests</h2>
+            <div class="interests-content">
+                <div class="interests-grid">
+                    <div class="interest-card">
+                        <h3><i class="fas fa-guitar"></i> Guitar</h3>
+                        <p>I've been playing guitar for over 15 years. From blues to rock, I love exploring different styles and techniques. My collection includes a few Fenders and a Gibson Les Paul that I'm particularly fond of.</p>
+                        <p>Currently learning: Jazz chord progressions and improvisation techniques.</p>
+                    </div>
+                    
+                    <div class="interest-card">
+                        <h3><i class="fas fa-tshirt"></i> Skate Culture</h3>
+                        <p>While I don't actually skateboard myself, I've always been drawn to the aesthetic and culture surrounding it. There's something about the style, the music, and the attitude that resonates with me. I enjoy the fashion and design elements that have emerged from skate culture.</p>
+                        <p>Favorite brands: Vans, Thrasher, and independent skate shops</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Speaking Section -->
+    <section class="speaking-section" id="speaking">
+        <div class="container">
+            <h2>Speaking Engagements</h2>
+            <p>Despite being naturally reserved, I regularly speak at tech conferences around the world. Here are some of my recent and upcoming talks.</p>
+            
+            <div class="speaking-grid">
+                <div class="speaking-card">
+                    <div class="speaking-card-image" style="background-image: url('https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80')"></div>
+                    <div class="speaking-card-content">
+                        <div class="speaking-card-event">DevFest London</div>
+                        <h3 class="speaking-card-title">Building Resilient Microservices</h3>
+                        <div class="speaking-card-date">October 15, 2024</div>
+                        <p class="speaking-card-description">A deep dive into strategies for creating fault-tolerant microservice architectures that can withstand the chaos of production environments.</p>
+                        <div class="speaking-card-links">
+                            <a href="#" class="speaking-card-link">Slides</a>
+                            <a href="#" class="speaking-card-link">Video</a>
+                            <a href="#" class="speaking-card-link">Resources</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="speaking-card">
+                    <div class="speaking-card-image" style="background-image: url('https://images.unsplash.com/photo-1515187029135-18ee286d815b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80')"></div>
+                    <div class="speaking-card-content">
+                        <div class="speaking-card-event">FrontendNE</div>
+                        <h3 class="speaking-card-title">The Future of Web Components</h3>
+                        <div class="speaking-card-date">August 22, 2024</div>
+                        <p class="speaking-card-description">Exploring how Web Components are evolving and how they fit into the modern frontend development ecosystem.</p>
+                        <div class="speaking-card-links">
+                            <a href="#" class="speaking-card-link">Slides</a>
+                            <a href="#" class="speaking-card-link">Demo</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="speaking-card">
+                    <div class="speaking-card-image" style="background-image: url('https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80')"></div>
+                    <div class="speaking-card-content">
+                        <div class="speaking-card-event">CloudNative Summit</div>
+                        <h3 class="speaking-card-title">Kubernetes: Beyond the Basics</h3>
+                        <div class="speaking-card-date">June 5, 2024</div>
+                        <p class="speaking-card-description">Taking a deeper look at advanced Kubernetes concepts and how to leverage them for complex deployment scenarios.</p>
+                        <div class="speaking-card-links">
+                            <a href="#" class="speaking-card-link">Slides</a>
+                            <a href="#" class="speaking-card-link">Video</a>
+                            <a href="#" class="speaking-card-link">Code</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Single Post Template (hidden) -->
+    <div id="single-post-template" style="display: none;">
+        <article class="single-post">
+            <header class="post-header">
+                <h1 class="post-title" id="post-title"></h1>
+                
+                <div class="post-meta">
+                    <div class="post-author">
+                        <div class="post-author-avatar"></div>
+                        <span class="post-author-name" id="post-author"></span>
+                    </div>
+                    
+                    <div class="post-date" id="post-date"></div>
+                    
+                    <div class="post-categories" id="post-categories">
+                        <!-- Categories will be dynamically inserted here -->
+                    </div>
+                </div>
+                
+                <div class="post-featured-image" id="post-featured-image"></div>
+            </header>
+            
+            <div class="post-content" id="post-content">
+                <!-- Post content will be dynamically inserted here -->
+            </div>
+        </article>
     </div>
     
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-container">
+                <div class="footer-column">
+                    <h3>About Me</h3>
+                    <p>Tech speaker, guitar enthusiast, and fan of skate culture from Northampton, England. This is where I share my thoughts on tech and life.</p>
+                </div>
+                
+                <div class="footer-column">
+                    <h3>Categories</h3>
+                    <ul class="footer-links" id="footer-categories">
+                        <!-- Categories will be dynamically inserted here -->
+                    </ul>
+                </div>
+                
+                <div class="footer-column">
+                    <h3>Archives</h3>
+                    <ul class="footer-links" id="footer-archives">
+                        <!-- Archives will be dynamically inserted here -->
+                    </ul>
+                </div>
+                
+                <div class="footer-column">
+                    <h3>Get In Touch</h3>
+                    <p>Want to chat about tech, guitars, or skate culture? Drop me a line.</p>
+                    <form class="footer-form">
+                        <input type="email" placeholder="Your email address" required>
+                        <button type="submit">Send</button>
+                    </form>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>&copy; 2025 Martin Beeby. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+    
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <script src="js/workbench.js"></script>
+    <script src="js/modern.js"></script>
 </body>
 </html>

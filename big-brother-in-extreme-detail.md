@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 [![bigbrother](images/4846.bigbrother_thumb_13F2484B.jpg "bigbrother")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/7484.bigbrother_22113748.jpg) The final series of Big brother has kicked off and whilst the latest group of 13 wannabes - including a Beyonce lookalike, a squatter who lives on discarded food, and a double amputee - enter the house, [Shoothill](http://www.shoothill.com/) have been busy producing a Deep Zoom of all the [Big brother contestants](http://tv.uk.msn.com/reality-tv/big-brother/big-brother-house-deep-zoom.aspx).
 
 &#160;

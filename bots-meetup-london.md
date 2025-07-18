@@ -18,6 +18,15 @@ updated: 2017/02/02 12:00:00
 
 
 
+
+
+
+
+
+
+
+
+
 Meetup: https://www.meetup.com/Bots-AI-Messaging-Meetup/events/236693854/
 
 Stuff from the event can be found here:

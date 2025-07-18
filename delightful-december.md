@@ -18,6 +18,15 @@ updated: 2016/12/13 12:00:00
 
 
 
+
+
+
+
+
+
+
+
+
 Meetup: https://www.meetup.com/Milton-Keynes-NET-Meetup-Group/events/235616505/
 
 Stuff from the event can be found here:

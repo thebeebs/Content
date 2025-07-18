@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Ever wanted to be a DJ? Ever dreamt of standing in the DJ booth at the Ministry of Sound looking down on the sweaty minions. Watching as they raise their arms, throw some shapes and worship you like some kind of beat dropping music god?...No me neither. Honest.
 
 However, if you do want to try your hand at a little mixing and scratching then HTML5 has the answer. Get yourself a modern browser and head on over to [http://wheelsofsteel.net/](http://wheelsofsteel.net/ "http://wheelsofsteel.net/") and Mix up a storm! Thanks to [@jbristowe](http://www.twitter.com/jbristowe) for pointing this one out.

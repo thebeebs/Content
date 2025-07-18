@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 So if you have been developing for any length of time then you are probably familiar with &lsquo;em&rsquo;, &lsquo;%&rsquo;and &lsquo;px&rsquo; as units of measurements in CSS. As part of the CSS3 specification there are a few new&nbsp; units of measurement that I think are worth casting an eye over.
 
 *   &lsquo;[`ex`](http://www.w3.org/TR/css3-values/#ex-unit)&rsquo; This represents the height of a lowercase character in the elements font, it&rsquo;s sometimes referred to as the x-height because in many cases it is equal to the height of the lower case x, it resents about half size of a font&rsquo;s height. The usefulness of this measurement is questioned in this [blog post](http://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=1&ved=0CCYQFjAA&url=http%3A%2F%2Fsbpoley.home.xs4all.nl%2Fwebmatters%2Femex.html&ei=UrBCT778BMiy0QWOv_GPDw&usg=AFQjCNEuGBG-7Mm0rCXVHvborgVw4Xd3mA&sig2=KhwXT6abySoXf4XX8T8V7A).

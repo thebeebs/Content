@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Ok, I&rsquo;m biased, but some of the most exciting stuff happening on the web right now is being driven by HTML5 and CSS3. From addictive, lightweight games to immersive, engaging sites, there&rsquo;s so much great work being done out there.<p>The thing is, often these sites are using pretty basic HTML5 and CSS3 elements. But the artistry and care involved mean the result is something a bit special. So in this post, I want to draw attention to five projects that have caught my eye and highlight a little about what makes them tick.
 
 1.  [**World&rsquo;s Biggest Pacman**](http://www.worldsbiggestpacman.com/)

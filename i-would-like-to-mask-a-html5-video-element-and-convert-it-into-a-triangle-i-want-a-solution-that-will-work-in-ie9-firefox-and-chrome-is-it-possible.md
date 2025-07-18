@@ -20,6 +20,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I got asked this question during a workshop last month and so thought I'd answer it here during the time I put aside at 5 everyday to answer HTML5 questions.
  [<span>Demo</span> View Demo](http://jsfiddle.net/thebeebs/NKtGM/1/)   
 

@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Prior to joining Microsoft I worked for a large online retailer, so I know first-hand how difficult it is to produce a good shopping cart. As a user updates quantities, deletes items or changes delivery options it's important to update the sub total, tax and shipping instructions. It's critical that the experience reacts quickly and that nothing gets in the way of a user making the purchase.
 
 Even when&#160; creating a simple shopping cart it is easy to end up with a bug ridden, mess of JavaScript onChange events. In the following article I'm going to let you into a little secret, a secret that removes all of the complication out of creating html that needs to respond to changes in the underlying data source. The secret is knockout.js a JavaScript Library that brings the MVVM pattern to your html applications.

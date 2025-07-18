@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I have worked as a Developer Evangelist for around 3 years now and whilst I still code, it&rsquo;s been quite some time since I have worked on a software project. Over Christmas this changed as I found myself building a service to help people with no coding skills build Windows 8 Applications. <p>Since I was the lead developer, Architect, Project Manger, Tester, Junior Developer and cleaner, I felt it was good opportunity to try the cloud version of [Microsoft's Team Foundation Server](http://tfs.visualstudio.com/). I figured, if I didn&rsquo;t get on with it, I was only going to upset myself.
 
 Ordinarily I&rsquo;d use a mix of technologies depending on if it was me or someone else running the software project, but generally speaking these would range from Subversion, Git or TFS for the source control, MSTest, NUnit and QUnit for the tests and something like cruise control or Team City for continuous Integration.

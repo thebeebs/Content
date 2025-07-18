@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 It didn&rsquo;t seem so at the time but not so long ago, developing for the web was actually comparatively simple. Sure there were some significant differences between browsers and some (ahem) got a pretty hard time for lagging behind. But at least there was a pretty finite range of screen sizes and PCs of broadly similar capabilities.<p>Looking at where we are today &ndash; especially in light of all the new toys pouring out of the recent [CES](http://www.cesweb.org/) exhibition &ndash; those not so distant days seem positively quaint.
 
 These days we don&rsquo;t have to just worry about laptops and desktops but also netbooks and iPods, smartphones and tablets (IOS, Android and Windows) plus internet TVs to name just a few. Some are simply running a classic browser (in various guises), some are more app-focused. And who knows what&rsquo;ll be next?

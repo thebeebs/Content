@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 ![Border-radius](images/0880.image_6C2A3103.png "Border-radius")
 
 I was chatting to someone on Friday regarding border-radius and box shadow. He reported that there was an issue with IE9 regarding it's rendering of Border-radius in combination with box-shadow. I tried to reproduce the error in the hope that I could produce a test that I could submit to the IE9 team and the W3C.

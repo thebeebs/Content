@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 ![image](images/2766.image_5A75B728.png "image")It's been released for a little while now, but I just wanted to make sure you hadn't missed this rather cool HTML5 demo that was developed by the National Museum of China. 
 
 You'll need a HTML5 capable browser, I tested Google Chrome, FireFox, Safari and IE9 Beta. All Browsers except Safari were capable of running the site, however, IE9 performs slightly better due to it's full hardware rending support.

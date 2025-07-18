@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 <rant><p>At the danger of causing my [Klout](http://www.klout.com/) score irreparable damage, I want to spend this post using their site to highlight a mistake I&rsquo;ve seen three times in the last week. 
 
 The problem? In a word: [Quirks](http://en.wikipedia.org/wiki/Quirks_mode).

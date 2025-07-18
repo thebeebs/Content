@@ -18,6 +18,15 @@ updated: 2017/09/11 12:00:00
 
 
 
+
+
+
+
+
+
+
+
+
 A few months ago I worked on a project at Shrewsbury museum where we attempted to instrument museum exhibits with raspberry Pi’s, well we took the same team and went back to further the project. This time we headed to Preston museum in the north west.
 
 Personally I added a a voice synth and attempted to stabilise the platform.

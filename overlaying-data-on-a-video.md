@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I got asked by [Gordon Rae](https://twitter.com/#!/socialtechno) on twitter today:> <p>@[thebeebs](https://twitter.com/thebeebs) Martin, can you recommend a good tutorial for overlaying data on video in HTML5 ?
 >  &mdash; Gordon Rae (@socialtechno) [February 21, 2012](https://twitter.com/socialtechno/status/171976267657256960)<script src="images/widgets.js" charset="utf-8"></script>
 

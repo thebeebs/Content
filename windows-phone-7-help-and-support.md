@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 In my previous role I worked on a number of Windows Phone 7 projects. I thought I'd just quickly post a few places where you can get help if you need it:<p>&nbsp;
 
 **Microsoft Forums**

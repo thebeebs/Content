@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 While the momentum is certainly with HTML5, for some of us progress can&rsquo;t happen fast enough. Yet, annoyingly, all too often we find ourselves facing the same old questions and challenges &ndash; ones that really have no basis in reality. So in this post, I want to focus on the 10 myths that I have to put down most often. <p>**Myth 1: HTML5 is a Flash-killer** 
 
 It&rsquo;s not. There are some things that are simply better done in Flash or Silverlight ([see my earlier post](http://blogs.msdn.com/b/thebeebs/archive/2011/12/04/five-things-you-can-t-do-with-html5-yet.aspx) for details). And it&rsquo;s not just this, for the foreseeable future there will also be issues simply in finding people with the right skills (at the right price) to develop in HTML5. So while HTML5 will certainly dent the use of Flash, we shouldn&rsquo;t be digging its grave just yet. The myth holds back HTML5 because it causes unnecessary tension between flash developers and HTML5 developers. The HTML5 movement would benefit from the skills, expertise and creative flair that exists in the Flash community.

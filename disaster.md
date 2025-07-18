@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 The worst day I had at work was when I was 23.
 
 The guy that ran operations in my small company had left and I was put in charge of the IIS servers that ran the websites for about 40 or so clients. I was responsible for backups and replication of those sites from our London server over to our Amsterdam server. Around 2 weeks into this new responsibility, our primary server was damaged after a flood in the datacentre and the server died.

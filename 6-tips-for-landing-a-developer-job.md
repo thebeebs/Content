@@ -22,6 +22,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 As I recently blogged, [right now is a great time to be a developer](http://blogs.msdn.com/b/thebeebs/archive/2012/03/12/10-reasons-why-2012-is-a-great-time-to-be-a-developer.aspx). Good people with good skills are seriously in demand by tech companies large and small. Of course, the best employers can still afford to be pretty choosy. Now, these days, I don&rsquo;t recruit developers any more (so no CVs thanks). But I have been through many technical interviews on both sides of the desk, so I thought I&rsquo;d share my tips on the process.<p>So how do you ensure that when your chance comes, you nail the technical interview first time? Here are my non-scientific, totally personal, 6&frac12; tips for success:
 
 **1: Go in with your eyes open**

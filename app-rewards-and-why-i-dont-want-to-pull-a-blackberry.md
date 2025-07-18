@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 On Monday the UK marketing team Launched an [app rewards programme](http://bit.ly/154BDCO)&hellip; After a [discussion on twitter](http://storify.com/thebeebs/app-rewards) I thought I'd put my thoughts in writing:<p>Rightly or wrongly the total number of apps is becoming shorthand for the consumer experience that a device is going to provide. "It's a great phone/tablet, but doesn't have enough apps" is the rhetoric regurgitated by tech journalists up and down the country. For me, total number of apps on a platform is a nonsense. Too much choice is no choice at all, Interesting, compelling and well executed apps are what consumers want and they are not created overnight, they are crafted by professionals and like it or not you can't build them in a weekend.
 
 As someone who works on and cares about developer platforms, the pressure of large app numbers creates a huge challenge. You could do what Blackberry did and pay a company like [Mippin](http://www.blackberryappgenerator.com/blackberry/) to auto generate thousands of apps for you, you can refuse to play the game and have every tech journalist point and laugh at your app number (oblivious to the fact that app development lifecycles are far longer than the 24 hour hackathon culture that we are all quietly obsessed with), or you can incentivise developers that you know are capable of building quality by giving them a reason.

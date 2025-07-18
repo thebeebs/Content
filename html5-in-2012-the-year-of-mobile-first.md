@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 So we have a bright shiny new year on our hands. Both a leap year and the year when the Olympics comes to my home country. While the future looks iffy on the economy, it&rsquo;s pretty rosy as far as HTML5 goes.<p>They key, of course is mobile. Sure, HTML5 can do some brilliant stuff on the desktop but it wouldn&rsquo;t be getting half as much attention if it wasn&rsquo;t for the proliferation of mobile devices we&rsquo;ve seen over the last year (and will continue to see in 2012).
 
 Partly, this is about battery life. Partly, it&rsquo;s about the refusal of Apple to support Flash (and Adobe&rsquo;s subsequent abandonment of Flash for mobile). And partly, it&rsquo;s simply about following the massive shift in the market from sit-forward PCs and laptops to sit-back tablets and smartphones. 

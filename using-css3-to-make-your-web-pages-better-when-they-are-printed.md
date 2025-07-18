@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I recently walked past someone in the office who was reading a web article that they'd printed off. Now putting to one-side the environmental impact of printing the internet there is also another disadvantage to reading printed webpages... the hyperlinks don't work. Wouldn't it be nice if you could somehow add the textual link next to a hyperlink but only when a document was printed, well you can using CSS [:after](http://www.w3schools.com/cssref/sel_after.asp) selector.
 
 [<span>Demo</span> view here ](http://lab.thebeebs.co.uk/printingLinks/)

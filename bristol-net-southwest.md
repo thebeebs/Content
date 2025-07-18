@@ -18,6 +18,15 @@ updated: 2017/02/13 12:00:00
 
 
 
+
+
+
+
+
+
+
+
+
 I'm heading down to Bristol for a meetup at dot net southwest where I will be giving the talk "A man, the Roslyn compiler and an Azure VM.
  A peek into the .NET Compiler"
  

@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 The choice of browsers today is wider than ever before. And, for the most part, if you develop for one modern browser, your site will pretty much work on all the others (albeit with a little tweaking here and there). It&rsquo;s pretty amazing, and this browser interoperability is down to the great work standards bodies and standards advocates have been doing since the beginning of the web.<p> However, there is one area that is causing some concern amongst standards advocates and that is &ndash; vendor prefixes.
 
 If you want some background, Bruce Lawson has [a pretty comprehensive post](http://www.brucelawson.co.uk/2012/on-the-vendor-prefixes-problem/) on the subject as does [Peter Gasston over on Ubelly](http://www.ubelly.com/2012/02/vendor-prefixes-the-good-the-bad-and-the-ugly/). 

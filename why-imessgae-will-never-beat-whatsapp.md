@@ -19,6 +19,15 @@ updated: 2017/05/01 12:00:00
 
 
 
+
+
+
+
+
+
+
+
+
 Most of us have experienced some form of ‘platform shut out’ – when you want to share something with a friend but can’t because they use a different device from you and the app isn’t available on that device. This problem is particularly acute when it comes to messenger apps, but is common in many apps with sharing or collaboration functionality.
 
 WhatsApp and iMessage illustrate the two approaches that native applications developers take. iMessage works really great on one platform, and because it’s only on one platform they have the luxury of focus and fewer resources, so they can sweat the details and deliver a well-crafted product. WhatsApp take a different approach. They make sure they are everywhere they can be, developing for multiple platforms with the knowledge that a network effect that’s not limited by the edges of a single platform can propel their app from obscurity into the mainstream.

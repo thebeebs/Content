@@ -18,6 +18,15 @@ updated: 2017/08/21 12:00:00
 
 
 
+
+
+
+
+
+
+
+
+
 The first part of a bot I am working required the extraction of questions and answers from a set of 1200 PDFs. After about 3 hours of trying to find the perfect solution in either node, C# or Python I realised that I was searching for a silver-lining in a bin bag: there are no perfect solutions. There was, however, a good command line utility called pdftotext.
 
 It didn’t take long for me to get it working on the command line, so I suspected that it would be 10 minutes away from getting it working in a function. I was in fact 5 hours, 3 coffees, 2 teas, 2 meals, 1 game of football and 1 solid nights sleep away from a solution. I got there though.

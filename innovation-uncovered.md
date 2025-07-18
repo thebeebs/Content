@@ -18,6 +18,15 @@ updated: 2017/06/07 12:00:00
 
 
 
+
+
+
+
+
+
+
+
+
 Today I am speaking at a rather lovely event in Nottingham called "Innovation Uncovered: Mobile App Development" I'm talking about how companies are using Machine Learning via Cognitive services in their apps. Here are some of the links that I mention in the talk.
 
 * Slides [Cognitive Services for Apps](https://1drv.ms/p/s!AlEOpfeanUR1r95MJPeFT1exHC-3YA)

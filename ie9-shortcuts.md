@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Mice are for Wimps! Any .net developer worth their salt has memorised all the important Visual Studio Shortcut keys they need, so I thought maybe you&rsquo;d like to see the IE9 ones. Below are a list of my favourites.<p>If you have anymore you use, let me know in the comments.
 
 **IE9 Keyboard Shortcuts -**

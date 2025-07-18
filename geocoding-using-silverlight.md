@@ -21,6 +21,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 &#160;[![geocode](images/8371.geocode_thumb_626FC03D.png "geocode")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/5732.geocode_1FC09AD2.png) Last night I was reading through the Vision and Scope document for a project that we are involved in with the British Library, one of the requirements was to geocode a search term. If you are not familiar with the term geocoding then congratulations; you're getting out of the house enough. Geocoding is when you take a string of text like "Leaning Tower of Pisa" and convert it into Latitude and Longitude coordinates.
 
 &#160;

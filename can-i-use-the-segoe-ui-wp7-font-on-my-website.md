@@ -18,4 +18,13 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I got asked this question recently via email and after a little hunting around I&rsquo;ve discovered you can licence Segoe UI (a font similar to Segoe WP used on windows Phone 7) via a company called [ascender](http://www.microsoft.com/typography/fonts/family.aspx?FID=331). You can find out more about Microsoft Fonts and font Licencing over on the Microsoft Typography website:&nbsp; [http://www.microsoft.com/typography/fonts/](http://www.microsoft.com/typography/fonts/ "http://www.microsoft.com/typography/fonts/")

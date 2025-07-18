@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Razor is a syntax that you can use to create webpages in ASP.NET. The syntax makes it possible to create templates that generate well structured and clean HTML output.
 
 Razor is easy to learn and there is a great [reference here](http://www.asp.net/webmatrix/tutorials/2-introduction-to-asp-net-web-programming-using-the-razor-syntax) if you are planning on Using WebMatrix .

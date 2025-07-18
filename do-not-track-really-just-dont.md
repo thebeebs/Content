@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 So you may have noticed that Microsoft recently announced that we&rsquo;re turning on Do Not Track by default in IE10. It means that, unless users turn tracking on in the preferences, sites will be sent a clear signal that a user wants their web behaviour to remain private. Surprisingly, to my mind anyway, we&rsquo;ve caught quite a bit of flack for it.<p>There have been various criticisms of our position &ndash; in fact I got into a bit of a [Twitter argument](https://twitter.com/thebeebs/status/210703919574290432) about it.
 
 The opposing view goes something like this: the internet needs advertising money to thrive. To get the investment and commercial backing it requires, companies should be allow to track people&rsquo;s movements across the web so that they can have the opportunity to sell to them. The argument is sometimes taken further to say that because they have been tracked and analysed, people will receive more targeted, less annoying advertising as a result. Therefore, Do Not Track should be turned off by default.

@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I have just recovered from my trip to Denmark for the 3 day [CodeGarden festival](http://codegarden11.com/), which is an event that celebrates the content management System [Umbraco](http://www.umbraco.org): Aside from the talks the main highlights for me were Umbraco bingo and the package contest. If you have never heard of Umbraco you can learn [more here](http://ubelly.com/umbraco-on-windows/).
 
 As for the Bingo... my psychiatrist has suggested not to try and recall the memories, she fears they may inflict further damage. It consisted of [live tattoos](http://www.flickr.com/photos/percipientstudios/5841589353/in/set-72157626955239614), [marching bands](http://www.flickr.com/photos/percipientstudios/5841590581/in/set-72157626955239614), kazoos, [pillow fights](http://www.flickr.com/photos/percipientstudios/5842134748/in/set-72157626955239614), [Elvis impersonators](http://www.flickr.com/photos/percipientstudios/5842127062/in/set-72157626955239614) and [organ players](http://www.flickr.com/photos/percipientstudios/5842121644/in/set-72157626955239614). We'll leave it at that.

@@ -20,6 +20,15 @@ updated: 2017/12/21 12:00:00
 
 
 
+
+
+
+
+
+
+
+
+
 If you are a fulltime Developer, there are lots pressures to stay current. It can sometimes feel like there's still so much to learn and that everyone else knows more than you and somehow manages to stay current. Allow me to let you into a little secret: No one is ever up to date.
 
 I'm not a developer, but a developer evangelist. I used to be a developer, but there is a vast difference between what I do and what you do. I don't produce complete software anymore. I write demos, I write technical talks, I write Articles, but I don't have the pressure of actually delivering software. My entire Job relies on me knowing the latest elements of Oracles and Competing platforms. The truth is though; I'm not up to date.

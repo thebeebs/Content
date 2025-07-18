@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 When I use a HTML5 feature in my website I will often test the browser that is visiting to see if it is capable of using the feature. If it is not capable I will Fall-back to something that the browser is a capable of supporting. In practice, I use [modernizr](http://www.modernizr.com/) for this purpose, however, there maybe instances where you want to write your own tests.
 
 In most instances writing these feature detection tests is quite straight forward.

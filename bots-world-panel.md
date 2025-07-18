@@ -17,6 +17,15 @@ updated: 2017/07/05 12:00:00
 
 
 
+
+
+
+
+
+
+
+
+
 # # Are apps dead - has the chatbot supplanted the app?
 
 Of course they are not dead, and I personally don't see a world without mobile apps. There are still only some types of apps that can be disrupted by messenger bots. Informational apps, apps that have limited user input, apps that currently rely heavily on search and when there is a business need to support lots of different platforms.

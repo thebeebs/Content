@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 During the launch of IE9 I was asked to produce a HTML5 application that animated stitching tweets on to a canvas. During testing the application I had some really complex animations and they performed just fine, but when I added test using Text API the canvas performance was awful. I tested all the major browsers and in each one it was equally awful. That's when I learnt an important lesson about Canvas&hellip; the text API is rubbish. <p>Not only is it slow, but by adding text to Canvas you rasterize it and so if a user zooms in the text will appear pixelated. Also anything that's added to the canvas is no longer accessible, so screen readers and alike won&rsquo;t recognise it.
 
 The reason that canvas isn&rsquo;t good for text is because it was never really designed for the purpose of displaying text. The solution is to use something that was designed for text&hellip; the regular DOM.

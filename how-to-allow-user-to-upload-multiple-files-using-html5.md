@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 HTML5 contains the a new feature (I say new, Opera has had it since 2006) that allows you to upload multiple files.
   <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:f32c3428-b7e9-4f15-a8ea-c502c7ff2e88:72c1d286-2547-44b8-a9d9-f6d7da7db3c4" class="wlWriterEditableSmartContent"><pre class="brush: html;"> <input type="file" multiple /></pre></div>
 

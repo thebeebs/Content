@@ -21,6 +21,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 As of Platform preview 6, IE9 has support for CSS3 2d transforms. The final version of IE9 will support CSS3 2d transforms.
 
 However, the IE9 beta doesn&rsquo;t support CSS3 2d Transforms.

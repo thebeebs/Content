@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I had a question from a customer today where he asked How can I count the records in an IndexedDb database.
 
 The current [IndexedDB prototype](http://html5labs.interoperabilitybridges.com/prototypes/indexeddb/indexeddb/info) for IE8 and IE9 and the IE10 platform preview 3 do not include a count() implementation

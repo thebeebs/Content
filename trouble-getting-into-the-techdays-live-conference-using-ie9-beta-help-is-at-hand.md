@@ -20,6 +20,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 It seems our live meeting friends have a bug on their website that makes it confusing to enter a 2007 live meeting using IE9 Beta.
 
 Every time you go to the website you are told that you must install Live Meeting 2007 Client (even if you already have it installed)

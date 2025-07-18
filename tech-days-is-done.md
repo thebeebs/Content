@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 You honestly would not believe the amount of effort and organisation that goes into putting on an event like tech.days. The team have been planning since December. Every Wednesday, 14 or so of us would have an hour long meeting to discuss the logistics, content and video production.<p>My involvement consisted of turning up for the meetings, briefing the agency that were designing the event website, creating the build scripts for putting the site on Azure and sorting out the content for the web day.
 
 The website was pretty much a walk in the park. I&rsquo;d not run a major site on Azure before, it took a few days to get a process together and create an msbuild script that automated it. I always recommend creating build scripts, it was a habit I developed in my previous job at Systemax before joining Microsoft. Not only did it save me time it also provided a sort of documentation to the guy that had to take over the role when I left. My rule of thumb: on the second time of doing anything, automate it.

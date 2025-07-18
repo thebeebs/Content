@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 [![Cartoon Frame 1. Bill:What Do you do at work. Thebeebs: Well I talk about technology](images/1641.mywork1_thumb_0768FB83.jpg "Cartoon Frame 1. Bill:What Do you do at work. Thebeebs: Well I talk about technology")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/8585.mywork1_7BB3B450.jpg)&#160; 
 
 [![Cartoon Frame 2. Thebeebs: I Show them how to use new frameworks and how to get the most from out latest technology](images/3223.mywork2_thumb_4365176B.jpg "Cartoon Frame 2. Thebeebs: I Show them how to use new frameworks and how to get the most from out latest technology")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/5861.mywork2_6530EFFC.jpg)

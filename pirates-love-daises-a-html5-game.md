@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 ![Pirates love daises](images/8802.image_20BBB2E4.png "Pirates love daises")Pirates love daises is a game developed by Grant Skinner written using HTML5 and JavaScript. And it available to play here [http://www.pirateslovedaisies.com](http://www.pirateslovedaisies.com).
 
 Now I must have been off sick when they covered this in school, but apparently pirates love daises? Who knew. In this game it's your job to recruit a crew of pirates to protect your stash of daises from being stolen. Grant talks about the reason they chose daises and the games development over at the [companies blog](http://gskinner.com/blog/archives/2010/12/pirates-love-daisies-html5-game-launches.html).

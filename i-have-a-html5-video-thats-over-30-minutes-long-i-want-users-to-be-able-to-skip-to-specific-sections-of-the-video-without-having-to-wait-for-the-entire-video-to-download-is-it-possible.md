@@ -21,5 +21,14 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Yes but you must make sure you are serving the video from a HTTP 1.1-compatible web server. This means that the browser can request specific chunks of the video without downloading the whole video. If you don&rsquo;t have a HTTP 1.1 compliant web server then you need to encode your video with key index frames in the file and not at the end so that seek-ahead works. The "H.264 YouTube HD" profile in Expression Encoder 4 Pro does this.<p>It&rsquo;s also important to remember that if the video file is gzipped, seeking won't work. Since, with most codecs, the video/audio data is already compressed, gzip/deflate won't save you much bandwidth anyway so it&rsquo;s probably best to switch it off.
 </p>

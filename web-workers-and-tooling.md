@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 [![Cogs](images/3414.image_thumb_54DA02CC.png "I can&#39;t find a good picture of web workers ;) So cogs will have to do.")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/8787.image_777E4147.png)[Web Workers](http://www.w3.org/TR/workers/) are a technology that give you a way of supporting long running or complex JavaScript functions without interrupting the general browsing experience. In short, Web Workers give developers an opportunity to create applications in JavaScript that would have previously been impossible.
 
 When I talk about Web Workers at events the number one comment I get is "Well I just can't think of a real use for them". It's a fair point , developers have been conditioned over many years to keep JavaScript development simple and to avoid complexity because browsers can't handle it. This aversion to "the complex" means that scenarios that could utilise Web Workers are often dismissed before they are even considered.

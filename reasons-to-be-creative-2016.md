@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 This morning I awoke in a really sunny Brighton. I love it hear and i'm in town for what is becoming a regular yearly jaunt to Reasons to be creative a creative event that was previously called flash on the beach.
 
 This year I'm speaking in the Dome theatre on the subject of the web and what it will be like on day 10,000. Day 0 is the 20th December 1990 when Tim Burners Lee invented the web. And today would be day 9,393. So the date I'm actually talking about is, what will the web be like on the 7th of May 2018.

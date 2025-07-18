@@ -20,6 +20,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Over the past few weeks, I&rsquo;ve been watching the slow-motion train-wreck that&rsquo;s the debate over whether the HTML5 spec should use srcset or picture polyfill to deal with responsive images ([see .Net for a good round up](http://www.netmagazine.com/news/html5-responsive-images-spat-explodes-121961)). I&rsquo;ve covered [Responsive Web Design](http://blogs.msdn.com/b/thebeebs/archive/2012/02/28/responsive-web-design-in-3-minutes-42-seconds.aspx) before. In fact I&rsquo;m a passionate advocate for all things responsive but even I&rsquo;m not sure I&rsquo;d take the whole thing as personally as those who are deep in the trenches of this particular battle.<p>If you&rsquo;re new to this particular bun-fight, the story goes like this: Back in around February time a working group was set up to propose how HTML5 could tell browser pre-processors to use the best image for a particular screen. They came up with what they believed to be a solution only to see another option from someone at Apple get what they saw as fast-track acceptance. As a result, they were all pretty hacked off (understandably I guess). 
 
 While I&rsquo;m not going to get into which option I think is the better one, to me the episode is pretty telling about the world we developers all live in.

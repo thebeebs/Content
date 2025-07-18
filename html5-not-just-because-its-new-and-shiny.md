@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 After my giddy excitement over the [Cut the Rope HTML5 game](http://blogs.msdn.com/b/thebeebs/archive/2012/01/10/cut-the-rope-now-in-html5.aspx), Rob Ashton&rsquo;s [comment](http://blogs.msdn.com/b/thebeebs/archive/2012/01/10/cut-the-rope-now-in-html5.aspx#10254977) got me thinking a bit more.<p>In some ways I take Rob&rsquo;s point &ndash; using HTML5 because it&rsquo;s new or shiny or cool isn&rsquo;t the best of reasons for doing this kind of thing. (Although I admit, I like cool stuff as much as anyone.) 
 
 To my mind, the performance of the game does illustrate what&rsquo;s possible with a bit of ingenuity &ndash; and yes, I agree it must be carefully worked around. The fact that the experience is near as damn it indistinguishable from the iPad should, in some small way, show that HTML and JavaScript are capable of more than they&rsquo;re sometimes given credit for. Which, to my mind, is the point of doing this &ndash; and why developers should care about it.

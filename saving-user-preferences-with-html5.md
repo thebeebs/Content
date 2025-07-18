@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 If you have played with the HTML5 version of the cut the rope, you will notice that it remembers your scores for each game when you return to the site. To achieve this in your own applications you can use [localStorage](http://www.w3.org/TR/webstorage/#storage) which is part of the [Web Storage Specification](http://www.w3.org/TR/webstorage/#storage). Local Storage gives developers a way to to store data in the web browser, which will be available even if the browser is closed and returned to later.<p>The information stored in local storage is only visible to the domain that saved it, and so you can happily place information in the store knowing other, potentially malicious, websites will not be able to access it. 
 
 # # Browser Support

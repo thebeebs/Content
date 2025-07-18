@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 HTML5, for many of us, is the future of the web. But not everybody shares our enthusiasm. Worries over the fact that it is not a finalised standard yet, the so far limited number of authoring tools available, the concern about people on IE6 with JavaScript turned off all make some people reticent to take the plunge. <p>Of course, a big part of this is that HTML5 is new. It means we&rsquo;ll all have to learn some stuff (although personally, that&rsquo;s one of the things I love). It also makes many people nervous about deploying big projects on it in case they fall over in ways the developers don&rsquo;t understand.
 
 So why would you make the move right now?

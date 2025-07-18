@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 It&rsquo;s been interesting watching the tweets and blogs over the last few days, in reaction to the talk that I gave at on Tuesday about IE9. There were some people that were happy to see IE9 beta&rsquo;s new direction and support for standards and some that wished we&rsquo;d go even further, some were happy to see us innovate and use pinning some would rather we didn&rsquo;t.<p>Whatever your opinion, and my gosh there are there allot of them, I think it&rsquo;s fair to say that the IE9 Beta is our fastest and most standards compliant browser and demonstrates a new approach to the way that we develop browsers and approach interoperability.
 
 A few people fed back to me that they wanted me to go into further detail about IE9 particularly around JavaScript, feature detection and behaviour detection. I&rsquo;m currently organising a webcast that will cover these and deeper HTML5 topics. I&rsquo;ll post further details about these sessions on twitter (@thebeebs) in the coming weeks. 

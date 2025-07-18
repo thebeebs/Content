@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 HTML5 is a much more forgiving when it comes to Mark-up than XHTML. With XHTML you needed to make sure that each opening HTML tag had it's own closing tag. So you would always close an image tag like this:
   <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:f32c3428-b7e9-4f15-a8ea-c502c7ff2e88:cc03afa0-e864-48b3-accd-6fe95efc69a2" class="wlWriterEditableSmartContent"><pre class="brush: html;"><img alt="A pretty car" src="images/images/image.jpg" /></pre></div>
 

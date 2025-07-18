@@ -18,6 +18,15 @@ updated: 2017/02/14 12:00:00
 
 
 
+
+
+
+
+
+
+
+
+
 In the example above we have two elements on the page a button and a p element that I am using to display information to give some feedback.
 
 <pre><code class="language-html">&lt;p id=&quot;information&quot;&gt;&lt;/p&gt;    <br/>&lt;button id=&quot;button&quot;&gt;Send a notification&lt;/button&gt;

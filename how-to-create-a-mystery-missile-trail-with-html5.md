@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 On Monday the 8th of November a large [condensation trail](http://www.bbc.co.uk/news/world-us-canada-11731014) was visible in the skies of California. It was rumoured that the trail was caused by a missile, however the pentagon have since stated they believe it to have been created by an aircraft.
 
 I thought that it would be interesting to see if I could recreate the effect of a vapour trail using a HTML5 canvas.

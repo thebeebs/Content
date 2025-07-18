@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 [![image](images/6457.image_thumb_69150AAC.png "image")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/4861.image_6084D7ED.png) 
 
 Wow the [Internet Explorer 9 beta](http://bit.ly/dAVoR8) launch was a whirlwind, I knew that we were working with the [Gorillaz](http://bit.ly/agEavO) and the [BBC](http://www.beautyoftheweb.co.uk/topgear/) but I had no idea about [Facebook](http://www.beautyoftheweb.com/#/experience/facebook), [the killers](http://www.beautyoftheweb.com/#/experience/killers), [LinkedIn](http://www.beautyoftheweb.com/#/experience/linkedin), [twitter](http://www.beautyoftheweb.com/#/experience/twitter), [MySpace](http://www.beautyoftheweb.com/#/experience/myspace) or any of the other [launch partners](http://www.beautyoftheweb.com/#/experience).

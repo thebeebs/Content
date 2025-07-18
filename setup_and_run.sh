@@ -6,7 +6,7 @@ BLUE='\033[0;34m'
 YELLOW='\033[1;33m'
 NC='\033[0m' # No Color
 
-echo -e "${BLUE}=== Setting up Amiga Workbench Blog ===${NC}"
+echo -e "${BLUE}=== Setting up Modern Blog ===${NC}"
 
 # Check if Node.js is installed
 if ! command -v node &> /dev/null; then

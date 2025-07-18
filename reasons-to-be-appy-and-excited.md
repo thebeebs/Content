@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 As I&rsquo;ve mentioned before, I go to [a lot of conferences and events](http://blogs.msdn.com/b/thebeebs/archive/2012/03/29/tech-conferences-a-four-point-survival-guide.aspx). In fact, it seems like over the last month I&rsquo;ve got to see way too many hotel rooms (&ldquo;I&rsquo;ve seen them all and man they&rsquo;re all the same&rdquo;). <p>Tomorrow, however, sees [Reasons to be Appy](http://www.reasonstobeappy.com/) in London and I can&rsquo;t wait. On paper, it ticks all the boxes &ndash; great speakers, interesting, thought-provoking topics, the right amount of light and shade. Where else will you get to hear about cello-playing in the same room as mobile development? Or art installations at the same time as HTML5?
 
 Someone asked me today what I&rsquo;m looking forward to most. Normally I&rsquo;d be able to give a pretty clear answer but this one&rsquo;s tricky. Right now, my standout three are:

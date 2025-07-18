@@ -21,6 +21,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Today in London we ran our first Windows Phone 7 app to Windows 8 porting event. The idea was for people to come along and take their existing Windows Phone 7 applications and turn them into Windows 8 applications. I thought I'd keep a record of the things that we have helped resolve throughout the day in the hope that we would end up with a list of common issues.
 
 # # Async

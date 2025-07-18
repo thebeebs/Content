@@ -20,6 +20,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 We&rsquo;ve all been there &ndash; your client (internal or external, makes no difference) is trying to get across what they want from their next project. They&rsquo;ve done a bit of reading so as not to look dumb in front of the techies and latched on to a few phrases to throw in to the meeting. The question is: what the hell do they actually mean?<p>Don&rsquo;t panic. I think I can help.
 
 **What they say: I want more hands**

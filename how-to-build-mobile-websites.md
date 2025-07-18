@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 With the explosion of [devices that access websites](http://blogs.msdn.com/b/thebeebs/archive/2012/01/18/so-many-devices-so-little-time.aspx), it's becoming more important that your website works well on mobile devices. I found the process of learning how to create websites that worked on mobile devices confusing so I created the list below to help anyone that is new to this field of web development. As always if you have any good links to tutorials on any of the 5 topics below please comment and I'll update the post accordingly. 
 
 # # The Viewport Meta Tag 

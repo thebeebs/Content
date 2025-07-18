@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Love them or hate them, it seems online ads have been around almost as long as the web itself. Traditionally, the range of options has been pretty limited however. You get the letterbox one, the tall thin one and the bog-standard 3:4 ratio box one. <p>Of course, over the last five years or so, the advent of the [alpha channel](http://www.adobe.com/devnet/flash/articles/concept_alpha_channel.html) has livened things up a bit in that you can now get Flash ads that can appear to break out of the traditional space and &lsquo;interact&rsquo; with the page around them. These can vary from the vaguely annoying &lsquo;take a survey&rsquo; floating boxes to the more engaging page takeovers. For an example, take a look at this effort by Nokia to create an on-page snake game:
 <iframe height="315" src="images/hFoQVx8ZcHo" frameborder="0" width="560" allowfullscreen="allowfullscreen"></iframe>
 

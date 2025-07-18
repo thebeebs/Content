@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I just got back form [dConstruct](http://bit.ly/9YOAjM "dConstruct conference") yesterday, It was a whirlwind. I managed to speak to loads of people about development and design at both the event and at the pre party at [lola los](http://bit.ly/b1StG4 "Link to the Lola Los website in brighton") the night before. After looking through my phone I managed to find a few pictures I'd taken throughout the day... None are very good but it does bring back the memories.
 
 [![The Main hall was really busy](images/3683.WP_000040_thumb_37C7069C.jpg "The Main hall was really busy")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/2605.WP_000040_1B79C47C.jpg) [![Mark Quirk talking about HTML5](images/3201.WP_000039_thumb_6CA3E60C.jpg "Mark Quirk talking about HTML5")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/6320.WP_000039_048ACD33.jpg)&#160; [![The hotel we stayed at... Great toast.](images/5355.WP_000025_thumb_2833CF00.jpg "The hotel we stayed at... Great toast.")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/7418.WP_000025_206BDC5E.jpg) [![Manning our stand during a session](images/8267.WP_000054_thumb_100750D1.jpg "Manning our stand during a session")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/4786.WP_000054_59E5D881.jpg) 

@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I was looking at the website [http://forrst.com/](http://forrst.com/ "http://forrst.com/") and loved the way that they hide the registration screen just below the fold of the front page. When you click on the apply now button the screen scrolls.
 
 I quickly whipped up the following guide to show how easy it is to implement. You can see the demo in action here [http://bit.ly/cRKnm4](http://bit.ly/cRKnm4 "http://bit.ly/cRKnm4")

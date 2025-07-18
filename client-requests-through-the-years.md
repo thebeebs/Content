@@ -20,6 +20,15 @@ updated: 2017/05/01 12:00:00
 
 
 
+
+
+
+
+
+
+
+
+
 I just saw a [tweet from Brad Frost](https://twitter.com/brad_frost/status/377397337548943361/photo/1) talking about a request he got from a client.
 
 [![We are a start up in San Fancisco looking to launch a 5 page website. We'd deliver all the wireframes, content and PSD. We just need a front-end pro to develop the site. It then goes on to list a large number of web frameworks that must be used. it ends with: Is this something you can help us with?](https://thebeebs.azureedge.net/client-requests.jpg "An email from Brad Frosts client")](https://twitter.com/brad_frost/status/377397337548943361/photo/1)

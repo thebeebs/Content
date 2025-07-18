@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I demo quite a bit in Visual Studio and use snippets where possible to make my code demos less tedious. I thought I'd document here what tools I use and a few gotchas.
 
 Sadly Visual Studio doesn't have a great snippet editor (which seems ridiculous to me) however, the fantastic Matthew Manela has created [Snippet Designer](https://github.com/mmanela/snippetdesigner "Snippet Designer on Github") which is a Visual Studio add-in that allows you to easily create and edit your snippets.

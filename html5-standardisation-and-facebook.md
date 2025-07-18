@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I recently stumbled across an article on ITworld: [Facebook pushes for HTML5 standardization, mobile payments](http://www.itworld.com/networking/253512/facebook-pushes-html5-standardization-mobile-payments). It did a good job of hanging some thoughts off the back of an attention-grabbing headline but, IMHO, missed the point.<p>Let&rsquo;s get this straight: standardisation is a wholly good thing. It gives us all confidence that the sites and apps we build will be accessible by the widest number of users. Likewise, the extension of this standardisation into the area of mobile payments will mean that people will be able to shop on their mobiles and be sure that it&rsquo;s safe, secure and effective to do so. All good stuff.
 
 What the article neglects to mention is that the [W3C Mobile Web Platform Community Group](http://www.w3.org/community/coremob/) currently has 83 participants including people from Nokia, Zynga, Opera, Intel and Facebook (among many others). And it has a much wider remit than simply mobile payments &ndash; [check out the group&rsquo;s charter here](http://www.w3.org/community/coremob/charter/).

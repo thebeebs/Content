@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I&rsquo;ve been heavily involved with cloud development recently, particularly Azure. I used the Azure platform to put the [Tech.Days](http://www.microsoft.com/uk/techdays) website live and I learnt a great deal in that process.<p>The following two videos from the the Tech.Days event are great ones to watch if you&rsquo;re new to Azure.
 
 The first from Bert Craven explains some of the advantages of moving to Azure.

@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 When I say to someone out side of Microsoft "Stick it on SkyDrive" they often look at me blank faced? Do you mean DropBox? Apparently the service has around 100 million users worldwide, but I don't think it's really caught on in the UK as much as it must have done else where. Which is odd considering how good a service it is. 
 
 Basically SkyDrive gives you 25gb of online storage for files and photos and one click access to edit any files inside of office web apps. Think of it as a love child of Google Apps and DropBox and you're not far wrong.

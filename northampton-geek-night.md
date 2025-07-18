@@ -18,6 +18,15 @@ updated: 2016/10/12 12:00:00
 
 
 
+
+
+
+
+
+
+
+
+
 Meetup: https://www.meetup.com/Northampton-Geek-Nights/events/231908208/
 
 Stuff from the event can be found here:

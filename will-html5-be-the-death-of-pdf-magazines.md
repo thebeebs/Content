@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Do you still read magazines? Newspapers? If so, are they printed publications or have you gone digital?<p>With the wild popularity of the iPad and the predicted stampede for the Kindle Fire (not to mention all the other tablets hitting the market) there has been a headlong rush by many publishers to get onto these new devices and do it fast. 
 
 So far, most seem to have gone the PDF route. It&rsquo;s easy to understand why. They&rsquo;re probably already developing their print publications in InDesign so it&rsquo;s a relatively easy step to output a version to PDF. Plus Adobe have done a pretty good job of helping publishers add some nice bells and whistles (check out [Wired&rsquo;s iPad edition](http://itunes.apple.com/gb/app/wired-magazine-uk/id400701660?mt=8) to see what I mean).

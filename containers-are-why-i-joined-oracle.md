@@ -19,6 +19,15 @@ updated: 2018/01/17 12:00:00
 
 
 
+
+
+
+
+
+
+
+
+
 Containers have changed the way developers build cloud applications, and this change opens the door to companies like Oracle who were not at the first Cloud computing party but have the customer base and the relationships to capitalise on the second one.
 
 When I first received a call from Oracle about joining them as a Developer Evangelist, I had the same thought most people have about Oracle. Aren't they a database company? Why would they want someone like me to join? 

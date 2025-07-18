@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 There are instances whilst developing Windows 8 applications in HTML5 when you discover there are two ways to do the same thing. Geolocation is one of those examples. You can either do it the same way you would in a browser like IE9 or Chrome or you could do it the WinJS way. 
 
 By providing both methods it ensures that we retain all of the browser APIs from Internet Explorer so that code ported from a website will just work, whilst also ensuring JavaScript maintains the same WinRT features and namespaces that are available across C# and C++.

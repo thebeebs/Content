@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 [![The Olive Appreciation Society](images/7737.imaginecup_thumb_7FB05091.png "The Olive Appreciation Society")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/8473.imaginecup_3AF4522A.png) 
 
 The Olive Appreciation Society comprises of two students from the University of Manchester with a passion for thorough planning and marinated olives. They got together and created an incredible application that's become the UK Finalist for the Imagine Cup. 

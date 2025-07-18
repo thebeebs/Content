@@ -16,6 +16,15 @@ updated: 2017/02/25 12:00:00
 
 
 
+
+
+
+
+
+
+
+
+
 <pre><code class="language-javascript">var context=  new (window.AudioContext || window.webkitAudioContext)();
 var oscillator = context.createOscillator();
 oscillator.frequency.value = 5000;

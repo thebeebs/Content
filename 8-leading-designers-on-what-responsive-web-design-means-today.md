@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 In my last post, I delivered a barebones primer on the subject of <u>responsive web design</u>. It was based on hosting and attending the recent [Responsive Summit](http://responsivesummit.com/) and hearing what some of today&rsquo;s leading web designers and UX professionals are doing with responsive design.<p>The summit covered a huge amount of ground including: design workflows, W3C, browsers, grids, layout, content-out approaches, progressive enhancement, how responsive web design fits with editorial design and resolution independence. Not bad for one day. I plan to publish all of the content from the Responsive Summit next week.
 
 Because there&rsquo;s much more to say (and those attending the summit knew way more than me) I thought I&rsquo;d do a bit of a round up of some of their previous writing about responsive web design. So in this post I&rsquo;ll be curating some of their thoughts and giving you a stepping off point to read more from them on the topic.

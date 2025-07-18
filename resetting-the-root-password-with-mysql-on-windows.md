@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Whilst using WebMartix for Demos I sometimes forget the password I used to set up a system and end up having to uninstall and reinstall MySQL just because I want to reset the password. A colleague pointed out to me that on the MySQL website they [have a guide on how you can easily reset the password](http://dev.mysql.com/doc/refman/5.5/en/resetting-permissions.html) as long as you are an administrator on the server. I've reposted the guide below for reference making a few changes to reflect the fact that I have a Windows 2008 R2 server.
 
 On Windows, use the following procedure to reset the password for all MySQL `root` accounts: 

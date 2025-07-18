@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 ![A titled video](images/4520.image_thumb_2B9C57DE.png "An image of a video")   
 
 Ever tried to rotate the Video tag in HTML 5? Up until today I hadn't... with just pure HTML5 it turns out it's not as easy as you might think. There is however a rather cool solution to the problem thanks to a little canvas and JavaScript wizardry.

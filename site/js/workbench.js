@@ -438,7 +438,40 @@ async function openDocument(filename, title) {
         const yamlMatch = markdown.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
         
         if (yamlMatch) {
+            const yamlContent = yamlMatch[1];
             const content = yamlMatch[2];
+            
+            // Parse YAML to get metadata
+            let metadata = {};
+            try {
+                // Simple YAML parsing for key-value pairs
+                yamlContent.split('\n').forEach(line => {
+                    // Match simple key-value pairs
+                    const kvMatch = line.match(/^(\w+):\s*(.+)$/);
+                    if (kvMatch) {
+                        const key = kvMatch[1];
+                        let value = kvMatch[2].trim().replace(/^['"]|['"]$/g, '');
+                        
+                        // Handle arrays (simple implementation)
+                        if (value.startsWith('[') && value.endsWith(']')) {
+                            value = value.slice(1, -1).split(',').map(item => item.trim());
+                        } else if (value.startsWith('-')) {
+                            // Handle list format
+                            value = [value.substring(1).trim()];
+                        }
+                        
+                        metadata[key] = value;
+                    } else if (line.trim().startsWith('-')) {
+                        // Handle list items for the last key
+                        const lastKey = Object.keys(metadata).pop();
+                        if (lastKey && Array.isArray(metadata[lastKey])) {
+                            metadata[lastKey].push(line.trim().substring(1).trim());
+                        }
+                    }
+                });
+            } catch (e) {
+                console.warn('Error parsing YAML metadata:', e);
+            }
             
             // Clone the document window template
             const template = document.getElementById('document-window-template');
@@ -447,10 +480,53 @@ async function openDocument(filename, title) {
             window.classList.remove('hidden');
             
             // Set window title
-            window.querySelector('.window-title').textContent = title || formatTitle(filename);
+            window.querySelector('.window-title').textContent = title || formatTitle(metadata.title || filename);
             
-            // Convert markdown to HTML and set content
-            window.querySelector('.document-content').innerHTML = marked.parse(content);
+            // Configure marked for better HTML output
+            marked.setOptions({
+                breaks: true,
+                gfm: true,
+                headerIds: true,
+                smartLists: true
+            });
+            
+            // Create formatted HTML content with metadata
+            let formattedContent = '';
+            
+            // Add title and metadata
+            if (metadata.title) {
+                formattedContent += `<h1>${formatTitle(metadata.title)}</h1>`;
+            }
+            
+            // Add publication info
+            if (metadata.published) {
+                const date = formatDate(metadata.published);
+                formattedContent += `<div class="article-date">Published: ${date}</div>`;
+            }
+            
+            if (metadata.authors && metadata.authors.length) {
+                const authors = Array.isArray(metadata.authors) ? metadata.authors.join(', ') : metadata.authors;
+                formattedContent += `<div class="article-author">By: ${authors}</div>`;
+            }
+            
+            if (metadata.categories && metadata.categories.length) {
+                const categories = Array.isArray(metadata.categories) ? metadata.categories.join(', ') : metadata.categories;
+                formattedContent += `<div class="article-categories">Categories: ${categories}</div>`;
+            }
+            
+            // Add separator
+            formattedContent += '<hr class="article-separator">';
+            
+            // Add intro if available
+            if (metadata.intro) {
+                formattedContent += `<div class="article-intro">${metadata.intro}</div>`;
+            }
+            
+            // Add main content
+            formattedContent += marked.parse(content);
+            
+            // Set content
+            window.querySelector('.document-content').innerHTML = formattedContent;
             
             // Add close button functionality
             window.querySelector('.close-btn').addEventListener('click', () => {
@@ -463,10 +539,12 @@ async function openDocument(filename, title) {
             // Add window to the document
             document.body.appendChild(window);
             
-            // Position window with slight offset if other windows exist
-            const existingWindows = document.querySelectorAll('.window:not(.hidden)').length;
-            window.style.top = (70 + existingWindows * 20) + 'px';
-            window.style.left = (100 + existingWindows * 20) + 'px';
+            // Make window nearly full screen
+            const padding = 40; // Padding from screen edges
+            window.style.width = (window.innerWidth - (padding * 2)) + 'px';
+            window.style.height = (window.innerHeight - (padding * 2)) + 'px';
+            window.style.top = padding + 'px';
+            window.style.left = padding + 'px';
         }
     } catch (error) {
         console.error('Error opening document:', error);
@@ -616,4 +694,26 @@ function formatTitle(title) {
     
     // Remove quotes if present
     return title.replace(/^['"]|['"]$/g, '');
+}
+
+// Helper function to format date
+function formatDate(dateStr) {
+    if (!dateStr) return '';
+    
+    try {
+        const parts = dateStr.split(' ')[0].split('/');
+        if (parts.length >= 3) {
+            const year = parts[0];
+            const month = parseInt(parts[1]);
+            const day = parseInt(parts[2]);
+            
+            const months = ['January', 'February', 'March', 'April', 'May', 'June', 
+                           'July', 'August', 'September', 'October', 'November', 'December'];
+            
+            return `${day} ${months[month-1]} ${year}`;
+        }
+        return dateStr;
+    } catch (error) {
+        return dateStr;
+    }
 }

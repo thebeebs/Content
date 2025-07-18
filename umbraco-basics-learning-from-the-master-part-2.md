@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Earlier in the week [I wrote about](http://blogs.msdn.com/b/thebeebs/archive/2011/01/05/umbraco-basics-learning-from-the-master.aspx) the great talk given by Niels Hartvig (the founder of Umbraco) at TechEd.<p>As always you can watch the full [talk here](http://www.msteched.com/2010/Europe/WEB204) but below are my highlights of the 2nd part.
 
 &nbsp;

@@ -17,6 +17,15 @@ updated: 2017/11/29 12:00:00
 
 
 
+
+
+
+
+
+
+
+
+
 The team at Oracle has put together this interactive workshop that I can now deliver at your company or event. If you are interested just get in contact on email martin dot beeby at oracle dot com.
 
 In this workshop you will work together in squads to complete the mission – becoming the Dev Star.

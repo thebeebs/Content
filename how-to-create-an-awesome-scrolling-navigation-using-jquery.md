@@ -20,6 +20,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I was looking over the [.net award](http://www.thenetawards.com/) nominees this week and stumbled across the [flipboard.com](http://bit.ly/9hmoRJ) website. I loved the scrolling navigation so much I just had to open up visual studio and try and recreate it myself.
   [<span>Demo</span>View Demo](http://bit.ly/cZ3UMB)  
 

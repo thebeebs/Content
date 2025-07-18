@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 In recent years the mobile phone market has declined in Western Europe, but one area to have bucked that trend is the Smart phone sector which has successfully moved from being a high-end phenomenon into one that is available to all.<p>&nbsp;
 
 As a developer I'm keen to make sure I keep a breadth of all the latest platforms, so below is a round up of each platform and some information on where you can go to learn how to build to target that platform:

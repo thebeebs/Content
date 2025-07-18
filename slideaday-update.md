@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Since I [posted my SlideADay request last night](http://blogs.msdn.com/b/thebeebs/archive/2010/11/11/slideaday-help-me-produce-a-5-minute-presentation.aspx) I've had 2 responses, so the presentation so far is scripted below, is there something you'd like to add? At 4pm today I'll commit the first 30 seconds to video, so please get in with your suggestions before then.
 
 To submit your one-line or whole 30 seconds of content about HTML5 just tweet it using the #SlideADay tag or comment on the [blog post over here](http://blogs.msdn.com/b/thebeebs/archive/2010/11/11/slideaday-help-me-produce-a-5-minute-presentation.aspx).

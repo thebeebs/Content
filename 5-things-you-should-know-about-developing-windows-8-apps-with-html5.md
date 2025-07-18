@@ -26,6 +26,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Now that the [Windows 8 release](http://preview.windows.com) preview is out, a lot of developers are beginning to experiment with what they can do with Windows 8. <p>Unsurprisingly the focus for many is on Metro-style apps that can run across everything from desktop to slate. There are a number of ways to develop these apps but HTML5 is a good place to start if your background is Web Development.&nbsp; While Metro offers fantastic flexibility, it does require that we get our heads around some new concepts. So for this post I thought I&rsquo;d cover some of the areas I talk about at events and point you towards some useful resources to get you started.
 
 I&rsquo;ve selected 5 things that I think you should start exploring:

@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Earlier I showed you how to [rotate a video using HTML5](http://blogs.msdn.com/b/thebeebs/archive/2010/11/08/how-to-rotate-html5-video.aspx). It is a little complicated so luckily you can achieve the same effect using a CSS3 2d transform.
 
 You will be able to see the effect in IE9 Platform Preview (but not the beta), chrome, safari and firefox.

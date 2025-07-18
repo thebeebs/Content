@@ -19,6 +19,15 @@ updated: 2017/06/07 12:00:00
 
 
 
+
+
+
+
+
+
+
+
+
 At Microsoft this is one of the busiest times of year. Our year ends in June and so now is the time for last minute efforts to achieve whatever you set out in your commitments.
 
 Commitments are what you agree with your manager you are going to do throughout the course of the year, we revisit them every quarter in meetings called connects.

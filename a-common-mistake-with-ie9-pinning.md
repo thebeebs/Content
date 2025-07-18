@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 After my [last blog](http://blogs.msdn.com/b/thebeebs/archive/2010/09/16/how-to-add-ie9-beta-pinning-to-you-website.aspx "my last blog post") on IE9 pinning a number of people contacted me to tell me that they couldn't get pinning to work. I asked a few people to send me code and kindly they did. What I noticed was a small transcoding error that people had made when copying the code from the image that I had posted. This error will stop the task items appearing on the Jump List menu.
 
 The most common mistake was to put **icon** rather than **icon-uri** in the **content** attribute**.** This small error will stop the whole task appearing, not just the icon.

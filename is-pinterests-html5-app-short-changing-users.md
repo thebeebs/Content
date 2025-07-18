@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 It seems you virtually can&rsquo;t move online without running into an article on [Pinterest](http://ubelly.com/2011/04/pinterest-design-inspiration-in-a-new-way/). As a platform, it&rsquo;s certainly captured people&rsquo;s (or at least the blogosphere&rsquo;s) imagination. Core to the attraction is just how easy it makes sharing the stuff we all find every day on the web.<p>To its credit, Pinterest has taken [a decidedly mobile first approach](http://blogs.msdn.com/b/thebeebs/archive/2012/01/11/html5-in-2012-the-year-of-mobile-first.aspx) to developing the site &ndash; they understand that people find stuff on the move and want to share it instantly. They have a smart IOS app which gives all the functionality of the site and makes good use of the limited screen real estate. But at the same time they admit that they are lagging behind in developing a similar app for other platforms.
 
 So, in [a post on the Pinterest blog](http://blog.pinterest.com/post/10144144538/pinterest-mobile), they&rsquo;ve recently announced [a new HTML5 mobile version of the site](http://m.pinterest.com/) which delivers a fair amount of the features most users need:

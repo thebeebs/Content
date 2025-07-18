@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I was walking through the high street yesterday and noticed a poster outside of M&S that was advertising a dine in for two, £10 promotion. The way that they had used a picture as the infill for the 0 in £10 made me think about how you could achieve that effect using CSS3.
 
 ![M&S Advert](images/0257.WP_000138_1DB02C57.jpg "M&S Advert")![M&S Advert 2](images/2804.WP_000137_4BDA0244.jpg "M&S Advert 2")

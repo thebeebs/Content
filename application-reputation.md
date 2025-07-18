@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 On Thursday during my IE9 online talk I was asked to give more information about the inner workings of how Application Reputation works I promised I&rsquo;d update my blog with further information&hellip; So here it is.<p>When I was a kid my mum would warn me, don&rsquo;t cross the road at the end of the street. She'd tell me that so often that by the age of about six I just ignored it, by Six and a half I&rsquo;d managed to get myself run over. If people continually repeat their advice, regardless of how good the advice maybe, it loses it&rsquo;s effect.
 
 This is the same issue many Internet Explorer users have when downloading files. Every time they download a file they are warned that the file may damage their machine, the advice is repeated so often that it loses it&rsquo;s effect. Users repeatedly ignore the message and install regardless. Sooner or later malicious files find their way on to machines.

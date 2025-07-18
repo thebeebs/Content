@@ -17,6 +17,15 @@ updated: 2018/01/07 12:00:00
 
 
 
+
+
+
+
+
+
+
+
+
 I’m happy to speak at pretty much any developer event in Europe, the Middle East or Africa. Here are a few topics that I’m talking about at the moment, 
 but if you have a specific topic feel free to ask me. I can present on most Cloud, Web, JavaScript or C# topics. Contact me at martin dot beeby at oracle.com
 

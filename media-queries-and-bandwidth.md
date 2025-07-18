@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I just read a [blog post](http://www.benjaminhowarth.com/blog/2012/02/29/responsive-web-design-a-response) that stated that media Queries were not a good idea because:
   > **your entire stylesheet**, with resources, images, the works - for **all** viewports - is loaded, before the @media stuff is parsed by the browser.  
 

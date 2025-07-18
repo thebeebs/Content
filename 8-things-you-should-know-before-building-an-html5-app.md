@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 A few days ago, [Seth Porges](http://www.twitter.com/sethporges) put up an interesting post on Mashable: [8 Things You Should Know Before Building a Mobile App](http://mashable.com/2012/02/02/how-to-make-app/). While, as the name implies, Seth&rsquo;s post focused on native apps, it got me thinking &ndash; how does his 8 questions relate to creating an HTML5 app? So here goes...<p>**1. What does it cost to make an app?**
 
 Overall, with HTML5 the costs will be broadly similar to a native app. However, you may find your people costs come down as it&rsquo;s generally easier to find HTML developers than those for native apps. Plus, the resulting application will work across multiple devices &ndash; with some customisation &ndash; which could bring your total development costs down further. I wrote a more in-depth summary of my opinions [in a blog post](http://blogs.msdn.com/b/thebeebs/archive/2012/01/25/is-html5-cheaper-to-develop-with.aspx) a few weeks ago.

@@ -20,6 +20,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 The browser based WebSQL specification was an in browser database and has been supported by Chrome and a number of other browsers for some time. However, the specification has been dropped in favour of IndexedDB and chrome will be dropping support for it in a future version. As you have invested some time into developing a WebSQL system this isn&rsquo;t great news as it is unlikely that IE will implement it in the future.<p>Ido Green a developer Advocate at Google Chrome has written a nice post this week showing you how to convert a WebSQL database into an IndexedDB one which you can [find here](http://greenido.wordpress.com/2011/11/29/convert-your-websql-to-indexeddb/).
 
 IndexedDb and WebSQL are fundamentally different types of database below is a table that tries to explain some of the differences in the concepts between the two approaches:

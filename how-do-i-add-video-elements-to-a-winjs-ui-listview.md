@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 If you create a [WinJS.UI.ListView](http://msdn.microsoft.com/en-us/library/windows/apps/hh465496.aspx) and add interactive content to it, by default you will not be be able to interact with it. So with a video element you will not be able to press the play button or change the volume.
 
 If you want to enable this behaviour all you have to do is add the class name **win-interactive** to the root element of the WinJS.Binding.Template that you use for the template of the WinJS.UI.ListView

@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 A pricing calculator is usually a very difficult piece of front end engineering to produce. In this blog I&rsquo;m going to let you into a little secret, a secret that removes all of the complication out of creating html that needs to change and respond to changes in the underlying data. The secret is [knockout.js](http://knockoutjs.com/) a JavaScript Library that can be used with any platform but I&rsquo;m going to show you how to use it in ASP.NET MVC.
 
 [<span>Download</span> Source Code](http://lab.thebeebs.co.uk/stagulator/Stagulator.zip) [<span>Demo</span> View Demo](http://lab.thebeebs.co.uk/stagulator/)

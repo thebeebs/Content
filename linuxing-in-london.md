@@ -17,6 +17,15 @@ updated: 2017/08/19 12:00:00
 
 
 
+
+
+
+
+
+
+
+
+
 On May, the 18th we ran a special evening of Microsoft and Open source software at Linuxing in London.
 
 <video width="640" controls poster="https://thebeebscontent.blob.core.windows.net/asset-4053cab8-f084-4977-af38-c9b200c89d59/linuxing-in-london_000001.jpg">

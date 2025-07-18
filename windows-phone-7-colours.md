@@ -20,6 +20,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I was putting together a WP7 presentation recently. I needed to use all of the WP7 colours as background for the slides. It took me a while to collate all of the colours so I thought I'd post them up here in case anyone needed them.
 
 ![Windows Phone 7](images/4382.image_29D93773.png "Windows Phone 7")

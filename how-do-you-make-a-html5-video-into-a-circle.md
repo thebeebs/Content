@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Following a visitors request last week I showed you how to [produce a triangle shaped HTML5 video](http://blogs.msdn.com/b/thebeebs/archive/2011/12/08/i-would-like-to-mask-a-html5-video-element-and-convert-it-into-a-triangle-i-want-a-solution-that-will-work-in-ie9-firefox-and-chrome-is-it-possible.aspx), pretty useless but interesting none the less. A number of people on twitter asked if it was possible to make a circle video. No problem I thought... Just apply border-radius to the element. If you add a border radius to an element with a size of 50% of the width and height. Then you will get a circle shape.
 
 Now I thought that the [following code](http://jsfiddle.net/thebeebs/KWcDB/) would work every where but it only works in IE and FF. For some reason Chrome doesn't like it and Opera doesn't apply border-radius to the contained element as I expected it to.

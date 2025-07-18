@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Over the weekend I have been redeveloping the skin for my website. It's not quite finished (I'm on step 4) but for those that are interested I thought I'd share my workflow with you. At work I very rarely design a website from start to finish, more often than not we hire an agency to either deliver the whole site or at least a Photoshop file that I'll then slice. 
 
 When I'm doing something for myself, however, I don't have the luxury of a talented designer. I often compare it to home cooking, it's satisfying doing it yourself but the results are rarely as good as a restaurant can deliver.

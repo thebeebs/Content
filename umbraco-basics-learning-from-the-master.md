@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I hadn&rsquo;t got around to looking at it before but Neils Hartvig (@umbraco on twitter) gave a great talk about Umbraco Basics at Tech Ed Europe this year and you can watch it [here](http://www.msteched.com/2010/Europe/WEB204).&nbsp; Below I&rsquo;ve also cut up the video into smaller chunks along with my own notes. Today I&rsquo;ve added 4 videos. I will add a further 4 videos tomorrow.
 
 # # Installing Umbraco

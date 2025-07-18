@@ -22,5 +22,14 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I was asked this recently asked this by a developer attempting to place a picture over a HTML5 element. His problem was that when the image was pressed it would hide and the video would start playing. The issue that the developer was having was related to not getting his z-index incorrect. However, rather than using an image overlay on top of a video a better approach would be to use the poster attribute of the HTML5 video element. The poster element can be set to an image file and will be displayed until the video is played by the user e.g:<p><video src="images/video.mp4 " poster="videoPoster.jpg" controls></video>
 </p>

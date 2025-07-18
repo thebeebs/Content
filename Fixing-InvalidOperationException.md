@@ -17,6 +17,15 @@ updated: 2017/01/09 12:00:00
 
 
 
+
+
+
+
+
+
+
+
+
 I had an odd error popup on my when building a website recently in ASP.Net Core 1.0 using EF core 1.0. It happened when I deleted an OnConfiguring method that I thought I no longer needed.
 
 <pre><code class="language-csharp">protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

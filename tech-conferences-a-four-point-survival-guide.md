@@ -20,6 +20,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I go to a lot of conferences.&nbsp; Some would say too many. In fact, it&rsquo;s probably around 25 or so a year. So, about one every fortnight (although, like London buses, there may not be one for a bit and then three turn up in the same week).<p>While some are brilliant &ndash; incisive, inspirational, a joy to be at &ndash; I sit in others and realise that this is time I will never get back. The trick is, of course, spotting the difference before they lock you in. But I&rsquo;m not sure I&rsquo;ve quite cracked that one yet.
 
 So here is my attendees&rsquo; guide: **Four ways to survive a tech conference**.

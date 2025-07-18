@@ -17,6 +17,15 @@ updated: 2017/06/08 12:00:00
 
 
 
+
+
+
+
+
+
+
+
+
 As part of my Job as a Technical Evangelist I produce a lot of video content. I've only been doing this for around 4 years and have learnt paractically everything on the job. I sat down and did a Q and A last week so thought I would share it here.
 
 # # How do you begin creating video content? 

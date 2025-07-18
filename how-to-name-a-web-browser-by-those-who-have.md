@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I don&rsquo;t know about you, but my web browser is the second app I launch every day (just after email). In fact, overall, I probably spend more time using it than pretty much anything else (not surprising considering what I do). But it got me wondering, where do the different browser names come from? So I did some digging.
 
 # # Internet Explorer

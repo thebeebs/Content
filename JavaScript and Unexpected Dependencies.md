@@ -18,6 +18,15 @@ updated: 2017/05/01 12:00:00
 
 
 
+
+
+
+
+
+
+
+
+
 I have recently been helping a few people debug issues they have with Microsoft Edge. 
 
 It’s quite common that I get sent code snippets of things that don’t work and it’s then up to me to put together a Workable project that displays the bug so that I can try and fix it.

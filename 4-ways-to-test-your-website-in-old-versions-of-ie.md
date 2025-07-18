@@ -20,6 +20,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 # # <span style="background-color: #ffff00;">This Article is out of date [please check out the latest version here.](http://www.ubelly.com/2013/08/5-ways-to-test-your-website-in-old-version-of-ie/)</span><span style="background-color: #ffff00;"></span>
 
 &nbsp;

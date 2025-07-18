@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Are you scared? Well you should be [according to the BBC](http://www.bbc.co.uk/news/technology-16005053). Right now cybercriminals are targeting you through frightening new developments in HTML5. Be afraid. Be very afraid.<p>**<rant>**
 
 I&rsquo;m usually a fan of the BBC. They&rsquo;re normally pretty insightful around technology. But this latest report pushed all my buttons. IMHO 90% of it is pure scaremongering while the other 10% is nothing new (or particularly interesting).

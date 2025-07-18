@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I often think that web development work can be painstaking. Aligning pixels across browsers can be hard work, but it's nothing when you compare it to the work that Kim Rugg does:<p>&nbsp;
 
 <object width="400" height="225">

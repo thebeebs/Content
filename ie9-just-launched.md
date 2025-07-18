@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 It's 00:28 and I'm up early (or late depending on how you roll) to watch the IE9 launch directly from SXSW. If you want to get your hand on IE9 you can download it [here](http://bit.ly/dAVoR8)
 
 The Keynote had some great demos that showed off the the Speed and performance of IE9 on Windows. There was even a preview of Flash 11 which showed the new 3D capabilities of Molehill which were just mind blowing, showing that IE cares about flash developers and appreciates the massive impact their creativity has on the web.

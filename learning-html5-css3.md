@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 How did you learn to code? <p>I ask because a couple of recent chance encounters have got me thinking that there are some pretty big gaps in people&rsquo;s knowledge of HTML5 and CSS3.
 
 For example, I was chatting to a student who approached me at an event last Saturday. He asked me where he could go to learn HTML5. I suggested a few books and started explaining how HTML5 differs from HTML4. He interrupted and said, "Sorry you don't understand&hellip; I have no idea about HTML 4 either."

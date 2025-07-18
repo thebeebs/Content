@@ -20,6 +20,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I came across a rather annoying feature today when I was trying to create a layout with [CSS3 multi column](http://www.w3.org/TR/css3-multicol/). I wanted to stack some divs on top of each other in columns.
 
 My first attempt lead to this, which was not what I wanted:

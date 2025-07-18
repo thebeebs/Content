@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 If you have been to a HTML5 presentation in the last 2 years then there is no doubt that you will have seen presenters opting to use their browser as a slide deck rather than [PowerPoint](http://office.microsoft.com/en-us/powerpoint/) or [KeyNote](http://www.apple.com/iwork/keynote/). Personally I use PowerPoint for all my talks because I&rsquo;m heavily reliant on the timing and note functionality that are built into presentation mode, I prefer to Windows Key + Tab&nbsp;&nbsp; between PowerPoint and my browser if I need to show a demo (or use a dedicated switcher and two machines if the venue permits).<p>There are however, a number of instances where HTML5 slide decks are useful, particularly if you have lots of little HTML5 demos you want to show.
 
 If you want to go down the HTML5 route there are a few interesting projects that might give you a quick start. 

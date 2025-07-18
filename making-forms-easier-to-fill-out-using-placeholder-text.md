@@ -19,6 +19,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 [Placeholder](http://dev.w3.org/html5/spec/Overview.html#the-placeholder-attribute) is a HTML5 attribute that you add to input elements, it makes it easier for users to fill out your forms.
 
 [<span>Demo</span> view here ](http://lab.thebeebs.co.uk/placeholder/)[<span>Source</span> on GitHub ](https://github.com/amiel/html5support)

@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 Chances are that at some point you&rsquo;ve searched for an app in one of the app stores. If you knew what you were looking for by name, you probably found it pretty quickly. If you simply knew the category, you have my sympathies. <p>Let&rsquo;s face it, app store search is broken. Well, maybe not broken so much as it never worked well in the first place. But now that every week seems to see another 1,000+ apps hit the market, the chances of finding the best option for you are witheringly small.
 
 It&rsquo;s something that the app store vendors are certainly aware of. Apple&rsquo;s acquisition of app search specialist, [Chomp](http://www.chomp.com/) can only be seen as a step in the right direction. Although, while the Apple experience is pretty bad, ironically it&rsquo;s Google&rsquo;s marketplace that delivers probably the worst experience. You&rsquo;d think that a business built on the foundation of search might just have discovered how to crack it. Apparently not.

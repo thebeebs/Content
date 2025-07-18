@@ -18,6 +18,15 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 ![Google Chrome Logo](images/0383.image_1D3F089E.png "Google Chrome Logo")Now I will be honest, I wasn't expecting this.
 
 Google have today decided that they will [remove support for the video codec](http://blog.chromium.org/2011/01/html-video-codec-support-in-chrome.html) H.264 from their Chrome browser in the next couple of months. H.264 is the codec that's used currently in Flash, PS3, Xbox and even my trusty little flip cam.

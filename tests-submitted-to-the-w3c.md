@@ -18,4 +18,13 @@ status: archived
 
 
 
+
+
+
+
+
+
+
+
+
 I was asking a colleague of mine how many tests we have submitted t the W3C as part of IE9 and IE10 development. He pointed me over to the [this great link](http://samples.msdn.microsoft.com/ietestcenter/) that shows all of the tests we have submitted across various browser technologies and also shows the score of all the various user agents.
