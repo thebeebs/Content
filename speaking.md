@@ -80,8 +80,8 @@ Martin Beeby is a Developer Evangelist at Oracle. Martin has been developing sin
 Martin works for Oracle. He’s been a developer since the late 90s and loves figuring out problems and experimenting with code.
 
 ### Pictures
-<a href="https://thebeebs.azureedge.net/speaking-profile.jpg">
-<img src="https://thebeebs.azureedge.net/speaking-profile.jpg" style="max-width:100%;" />
+<a href="images/speaking-profile.jpg">
+<img src="images/speaking-profile.jpg" style="max-width:100%;" />
 </a>
 
 > Great talk this evening by @thebeebs on the .NET Compiler Platform (aka. Roslyn) at @dotnetsouthwest

@@ -29,7 +29,7 @@ updated: 2017/07/27 12:00:00
 Last Night I attended the Community Inspiration Awards in Birmingham along with some of the Microsoft BAME organisers and volunteers Shorof, Zia, Raymond, and Deepam.
 Microsoft was shortlisted for an award for its BAME student day event. We sadly didn’t win but were recognised as finalists and given a rather lovely certificate.
 
-![Our Lovely Certificate Presentation](https://thebeebs.azureedge.net/bamepresentation.jpg)
+![Our Lovely Certificate Presentation](images/bamepresentation.jpg)
 
 As for my part in BAME I gave a talk at this year’s BAME Student day and judged the student teams that competed to produce an app. I’ve also offered my services to help with organisation and logistics in the future.
 
