@@ -36,13 +36,13 @@ In this workshop you will work together in squads to complete the mission – be
 * You will explore and perform actions related to scaling and operating your microservices.
 * You will use your creativity and team play to develop features to your microservices that will help your team win!
 
-# # Prerequisites
+## Prerequisites
 
 Laptop. Any IDE or code editor with Git support.
 
 Familiarity with any of the following coding languages: Java, PHP or Node.js.
 
-# # Recommendations depending on language:
+## Recommendations depending on language:
 
 * Java: Maven and JDK installed
 * Node.js: NPM (Node Package Manager) installed

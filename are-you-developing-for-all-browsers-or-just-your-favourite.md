@@ -60,7 +60,7 @@ The real answer, long term, is for us in the browser community to work together 
 
 Until then we all need to do whatever we can to ensure sites are coded for every browser, not just the developer&rsquo;s favourite.
 
-# # Further reading
+## Further reading
 
 There are a whole bunch of posts around vendor prefixes. In addition to those mentioned above, check out:
 

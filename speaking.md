@@ -35,19 +35,19 @@ but if you have a specific topic feel free to ask me. I can present on most Clou
 > 
 > Director of Ecosystem, Hyperledger, Linux Foundation
 
-# # # The State of the Function
+### The State of the Function
   
 There is a real buzz in the air about Functions and Serverless software development, and there is an overwhelming number of platforms offering similar but different things. In this 20-minute talk, Martin Beeby will take a look at the various platforms available, give an overview of how they work, their different approaches and talk about projects that he has built using them. 
 
-# # # Using Docker Containers as Functions
+### Using Docker Containers as Functions
 
 The Fn project is a container native serverless platform that you can run anywhere -- any cloud or on-premise. Each function is a container which means anything that runs in a container can be a function. In this talk, we will explore how it works and how to develop an application using this very different approach to application development.
 
-# # # Continous Integration and Deployment of Containerised Applications using Wercker
+### Continous Integration and Deployment of Containerised Applications using Wercker
 
 Containerised apps are becoming the new normal, yet it's not always apparent to how to put these applications live in a DevOps style. In this talk I will look at how I use Wercker to deploy a web app I have built.
   
-# # # The Web on Day 10,000
+### The Web on Day 10,000
 
 It's been 9,865 days since Dec 1990 when the first website was published and changed everything. In this 45 minute talk I will pose one simple question: What will the web be like on day 10,000?
 
@@ -57,29 +57,29 @@ Using live code and demos I will explore, amongst other things, Bots, Web Compon
 
 You can see a <a href="https://www.youtube.com/watch?v=hgcrKRgFpn4">video of this talk here</a>
  
-# # # A Developer Primer on Blockchain
+### A Developer Primer on Blockchain
 
 Come find out how you can build a peer-to-peer distributed ledger forged by consensus. Understand through code how to create “smart contracts” and develop a different type of transactional application that establishes trust, accountability and transparency, while streamlining business processes and legal constraints.
   
-# # # Workshop: Becoming the Dev Star.
+### Workshop: Becoming the Dev Star.
 The team at Oracle has put together this interactive workshop that I can now deliver at your company or event. If you are interested just get in contact on email martin dot beeby at oracle dot com.
 
 In this workshop you will work together in squads to complete the mission – becoming the Dev Star. We will look at how you build Microservices and host them on the Oracle cloud.
 
 More Information(https://thebeebs.co.uk/devstar)
 
-# # My Bio
+## My Bio
 
-# # # First Person:
+### First Person:
 I am a Developer Evangelist at Oracle. While I work across all of our technologies, my particular passion is Cloud. I regularly speak and blog about all aspects of Cloud development and implementation. I have been a developer since I was 16 and over the past 19 years have worked on projects with many Major brands. Prior to joining Oracle I worked at Microsoft as a developer and evangelist for 8 years. I’ve written articles for and featured in, NET Magazine, ZDNet, NOUPE, SitePoint, TutsPlus and Channel 9.
 
-# # # Third Person Bio:
+### Third Person Bio:
 Martin Beeby is a Developer Evangelist at Oracle. Martin has been developing since he was 16 and over the past 19 years has worked on projects with many Major brands. Prior to joining Oracle Martin worked at Microsoft as a developer and evangelist for 8 years. Martin has written articles for, and been featured in, NET Magazine, ZDNet, NOUPE, SitePoint, TutsPlus and Channel 9.
 
-# # # Short Bio:
+### Short Bio:
 Martin works for Oracle. He’s been a developer since the late 90s and loves figuring out problems and experimenting with code.
 
-# # # Pictures
+### Pictures
 <a href="https://thebeebs.azureedge.net/speaking-profile.jpg">
 <img src="https://thebeebs.azureedge.net/speaking-profile.jpg" style="max-width:100%;" />
 </a>

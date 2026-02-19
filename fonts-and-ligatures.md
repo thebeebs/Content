@@ -32,7 +32,7 @@ I just noticed that the [IE test drive website](http://ie.microsoft.com/testdriv
 
 OpenType is a technology that is supported by IE10 and Firefox 4+ allows you to use some of the features that are stored in font files to make fonts on webpages look better, you can read more [about it here](http://blogs.msdn.com/b/ie/archive/2012/01/09/css-corner-using-the-whole-font.aspx). So on to todays topic:
 
-# # Ligatures
+## Ligatures
 
 Sometimes letters look awkward when they are positioned next to each other. The type designer may fix this by welding two letters together, e.g:
 

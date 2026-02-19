@@ -37,12 +37,12 @@ If you are looking for a CSS3 implementation you might want to take a look at th
 
 [Click here to see the demo.](http://www.thewayithink.co.uk/html5/rotate.html)
 
-# # Step 1
+## Step 1
 
 To make things a little easier add a reference to jQuery:
   <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:f32c3428-b7e9-4f15-a8ea-c502c7ff2e88:bbe8a9df-229b-412b-868e-90ed25a2c31a" class="wlWriterEditableSmartContent"><pre class="brush: html;"><script src="images/jquery-1.4.2.min.js" language="javascript" type="text/javascript"></script></pre></div>
 
-# # Step 2
+## Step 2
 
 Add a ready function, this will fire the setUpVideo() function when the page is loaded. Also I've added a few variables to store our objects in.
 
@@ -56,7 +56,7 @@ $(document).ready(function () {
     setUpVideo();
 });</pre></div>
 
-# # Step 3
+## Step 3
 
 [<font color="#000000">When</font>](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/3005.image_169DE164.png) the page is loaded we can load the video and the canvas objects into the variables we set up in the last step. To get a reference to the canvas so that we can draw on it we need to call getContext('2d') we can then use the traslate function to move the drawing area by 50px. Doing this ensures that when we rotate the video image it will not be clipped by the edges of the canvas.
 
@@ -73,7 +73,7 @@ Calling ctx.rotate(0.05) will rotate what ever we draw on the canvas. We can the
     window.setInterval(drawFrame, 1000 / 24);
 }</pre></div>
 
-# # Step 4
+## Step 4
 
 The last step is to draw the video frame on the canvas. This function is called 24 times per second (1000 / 24) so should give the effect of 24fps video. Now because we rotated the canvas area each frame will be drawn rotated. This gives the effect of the video being rotated. 
 

@@ -14,11 +14,11 @@ status: archived
 
 I'm just coming to the end of another Windows 8 boot camp in London. I had a few interesting questions and so I thought I'd document some of them here. Remember if you want to come to one of our Windows 8 Camps then all of the dates and registration details can be found [here](http://www.microsoft.com/click/services/Redirect2.ashx?CR_CC=200113240).
 
-# # How&#160; do I update my tile periodically
+## How&#160; do I update my tile periodically
 
 There are a few ways to do this, you could push tile updates down to the device using [push notifications](http://msdn.microsoft.com/en-us/library/windows/apps/xaml/Hh868252(v=win.10).aspx), you could update the tile from [the running app](http://msdn.microsoft.com/en-us/library/windows/apps/hh781199.aspx) or a [background process](http://msdn.microsoft.com/en-us/library/windows/apps/windows.applicationmodel.background.timetrigger.timetrigger(v=VS.85).aspx) or you could have the TileManager poll a URL for an update at specific intervals.
 
-# # How do I Poll a URL to update my tile in C#
+## How do I Poll a URL to update my tile in C#
 
 To poll a URL we first need to get a reference to the Tile Update Manager. If we want to add more than one tile we need to set EnableNotificationQueue to true. 
 
@@ -51,7 +51,7 @@ In the example below I used TileSquareText04 and TileWideText03 template, but th
 
 <pre class="csharpcode"><span class="kwrd"></span></pre>
 
-# # How do I add a Background Process that will update my tile periodically
+## How do I add a Background Process that will update my tile periodically
 
 To add a background process you must first declare it in your app manifest file by adding Background Tasks as a supported Declaration, Ticking Timer and then adding the Entry point. The entry point should point to a class inherits from IBackgroundTask. 
 
@@ -87,7 +87,7 @@ task.Completed += <span class="kwrd">new</span> BackgroundTaskCompletedEventHand
 
 <pre class="csharpcode">&#160;</pre>
 
-# # How do I ask the user to add my application to the lock screen
+## How do I ask the user to add my application to the lock screen
 
 For background task with timers to launch you must ensure that your app is added to the lock screen. You can request to be added as a lock screen application by adding the following code to your project:
 

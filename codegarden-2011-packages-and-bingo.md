@@ -35,7 +35,7 @@ The package contest, which was on the last day, wrapped-up the festival. Partici
 
 This years CodeGarden had 10 entries ranging from the genius to the ridiculous. I've posted the 3 winners below.
 
-# # 1st Place - uBrokeIt
+## 1st Place - uBrokeIt
 
 [![image5](images/4621.image5_361C0030.png "image5")](http://www.flickr.com/photos/percipientstudios/5842155261/in/set-72157626955239614)**Built By:** Tim Payne [@attack_monkey](http://www.twitter.com/attack_monkey)       
 **Prize:** [3D MakerBot Printer](http://www.makerbot.com/)       
@@ -44,7 +44,7 @@ This years CodeGarden had 10 entries ranging from the genius to the ridiculous. 
 
 Probably the funniest package of the competition, uBrokeIt is a package that randomly introduces bugs into your Umbraco installation so you can theoretically charge your client for the extra work required to fix them. Bugs include randomly deleting nodes, disabling context menus and my favourite: having a marching band take over the screen (the whole marching band thing is a bit of an in joke from the Umbraco Bingo). The package should be released next week.
 
-# # 2nd Place - Optimise It - [Project Page](http://blog.sitereactor.dk/2011/06/19/optimize-it-package-for-umbraco)
+## 2nd Place - Optimise It - [Project Page](http://blog.sitereactor.dk/2011/06/19/optimize-it-package-for-umbraco)
 
 [![image17](images/1565.image17_1B033122.png "image17")](http://www.flickr.com/photos/percipientstudios/5842699934/in/set-72157626955239614/)
 
@@ -53,7 +53,7 @@ Probably the funniest package of the competition, uBrokeIt is a package that ran
 
 Created by my wonderful [Umbraco on Azure Co Host](http://codegarden11.com/sessions/day-3/slot-three/azure-umbraco.aspx), this package basically makes your site run faster by parsing your stylesheets for errors, minifying stylesheets, optimizing images in the stylesheet, embeding images within stylesheets and finally it generates image sprites. It also has the added bonus of being able to prettify stylesheets that have been previously minimised.
 
-# # 3rd Place - uBackChat - [Project Page](http://our.umbraco.org/projects/backoffice-extensions/ubackchat)
+## 3rd Place - uBackChat - [Project Page](http://our.umbraco.org/projects/backoffice-extensions/ubackchat)
 
 [![image18](images/4212.image18_1D5CB320.png "image18")](http://www.flickr.com/photos/percipientstudios/5842151425/in/set-72157626955239614/)
 

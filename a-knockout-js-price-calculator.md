@@ -37,15 +37,15 @@ I decided to crack open Visual Studio and start putting together the kind of pri
 
 Although I have used the example of a stag party pricing calculator the methods I&rsquo;m using could be applied to solve all sorts of problems from shopping carts to editable data grids. The [knockout.js](http://knockoutjs.com/) website also has an [interactive tutorial](http://learn.knockoutjs.com/) that enables you to play with the library and work through a number of examples.
 
-# # Step 1
+## Step 1
 
 To get started you will need to download a few things, firstly you&rsquo;ll need [Microsoft Visual Web Developer 2010 Express](http://www.microsoft.com/visualstudio/express) which you can get for free from&nbsp; you&rsquo;ll also need [knockout.js](http://knockoutjs.com/) which you can download from and is licensed under the open source MIT License.
 
-# # Step 2
+## Step 2
 
 Start Web Developer Express and go to File > New > Project. Select Visual C# on the right hand side and from the list select **ASP.NET MVC 3 Web Application**. Enter a project name then press OK. When you&rsquo;re asked to select a template choose **empty **and tick the **use HTML5 semantic **markup check box.
 
-# # Step 3
+## Step 3
 
 You add knockout to your project the same way would add jQuery: by adding the script tags to the head of the document and putting the JavaScript files in the scripts folder. Add the script tags to the default layout page which can be found in **Views/Shared/_Layout.cshtml**
 
@@ -57,7 +57,7 @@ You add knockout to your project the same way would add jQuery: by adding the sc
 <script src="@Url.Content("~/Scripts/knockout-1.2.1.js")" type="text/javascript"></script></pre>
 </div>
 
-# # Step 4
+## Step 4
 
 Firstly we are going to create a model. A model is a collection of objects that represent your system. Our system comprises of a few objects: A shopping cart, products and categories. We just need to create each of these objects with simple properties to capture the data that the user will enter.
 
@@ -75,7 +75,7 @@ namespace KnockoutExample.Models
 }</pre>
 </div>
 
-# # Step 5
+## Step 5
 
 With ASP.NET MVC you can generate a database from your objects. All you need to do is create a class that inherits from DbContext. For each object in you system, you create a property and give it a name. When the application starts the database will be created automatically including any relationships between objects.
 
@@ -92,7 +92,7 @@ namespace KnockoutExample.Models
 }</pre>
 </div>
 
-# # Step 6
+## Step 6
 
 The C in MVC stands for Controller. In our application we will add a controller called CartController. To add a controller, right click on the controller folder and select Controller > Add. Add an ActionResult onto this controller and call it index. When you go to the URL http://mysite.com/cart/ this controller will be executed.
 
@@ -121,11 +121,11 @@ The C in MVC stands for Controller. In our application we will add a controller 
 </pre>
 </div>
 
-# # Step 7
+## Step 7
 
 As it stands the Action Result we have just added will return a view. A view is just a document that contains the HTML. The view can also run code; the syntax used on the page is called Razor. To add view create the folder Views/Cart then right click and choose add View.
 
-# # Step 8
+## Step 8
 
 In the view add a div called cart, this will be where the cart will appear. In a script block add a variable called productCategories. Populate this with the ViewBag.productInfo property that was passed down by the server. By using @Json.Encode and @Html.Raw the C# property will be converted by Razor into JSON.
 
@@ -136,7 +136,7 @@ var viewModel = new Cart();
 ko.applyBindings(viewModel, document.getElementById("cart"));</pre>
 </div>
 
-# # Step 9
+## Step 9
 
 We now need to use JavaScript to create an object that represents a sales line in the cart, we do this by adding the properties, category, product, quantity and subtotal. Setting them as ko.observable ensures that when these variables change it will inform the rest of the model that changes have been made.
 
@@ -154,7 +154,7 @@ We now need to use JavaScript to create an object that represents a sales line i
     };</pre>
 </div>
 
-# # Step 10
+## Step 10
 
 With the subtotal property we use the ko.dependentObservable function. This lets the knockout library know that this property is reliant on other properties in the model. When changes happen with the price or quantity properties this dependent property will also recalculate any UI that is bound to these properties will also update.
 
@@ -164,7 +164,7 @@ With the subtotal property we use the ko.dependentObservable function. This lets
         }.bind(this));</pre>
 </div>
 
-# # Step 11
+## Step 11
 
 Next we will add the cart model to the JavaScript. You&rsquo;ll notice that we add the property lines and add an array of cartLines to that property. With the guest property I have added a default value of 10 to the property by passing it in via the constructor.
 
@@ -218,7 +218,7 @@ Next we will add the cart model to the JavaScript. You&rsquo;ll notice that we a
     };</pre>
 </div>
 
-# # Step 12
+## Step 12
 
 I would like the user to be able to change the number of guests that are attending the stag party. To do this I create an input field and use the data-bind attribute to bind the guest&rsquo;s property of my model to the input field.
 
@@ -227,7 +227,7 @@ I would like the user to be able to change the number of guests that are attendi
 <input data-bind='value: guests,valueUpdate: "afterkeydown"'> </input></pre>
 </div>
 
-# # Step 13
+## Step 13
 
 Some of the properties like Cost Per Person do not need to be editable, so we bind them to a span. In the data-bind attribute we can call any functions we like. The formatCurrency function formats the number by adding a &pound; to the front.
 
@@ -235,7 +235,7 @@ Some of the properties like Cost Per Person do not need to be editable, so we bi
 <pre class="brush: html;"><span data-bind='text: formatCurrency(costPerPerson())'></span></pre>
 </div>
 
-# # Step 14
+## Step 14
 
 Binding single properties is straight forward but more complex properties like the collection of CartLines requires a different approach. For this we will need to use the knockout template engine. In the data-bind we specify a template name: cartRowTemplate and we pass in the lines property.
 
@@ -243,7 +243,7 @@ Binding single properties is straight forward but more complex properties like t
 <pre class="brush: html;"><tbody data-bind='template: {name: "cartRowTemplate", foreach: lines, templateOptions: { guests: guests}}'></pre>
 </div>
 
-# # Step 15
+## Step 15
 
 The cartRowTemplate is defined using a script tag with the id set as the name of the template. In this case the template is called cartRowTemplate. It&rsquo;s simply html that will be repeated for each of the items in the lines collection. As before, we bind the properties using the data-bind attribute.
 
@@ -259,7 +259,7 @@ The cartRowTemplate is defined using a script tag with the id set as the name of
     </script></pre>
 </div>
 
-# # Step 16
+## Step 16
 
 We can also use the data-bind syntax to bind buttons to events. There are two buttons that need to be wired up, &ldquo;Add Product&rdquo;, which adds a new item to the lines collection and &ldquo;Submit Order&rdquo;, which will send the cart data to the server.
 
@@ -272,11 +272,11 @@ We can also use the data-bind syntax to bind buttons to events. There are two bu
 </button></pre>
 </div>
 
-# # Step 17
+## Step 17
 
 The &ldquo;Submit Order&rdquo; button is wired to the save function on the model. This function converts the data into a JSON object and posts it to the save action of the cart controller. The @Url.Action helper creates the URL of the save action for us.
 
-# # Step 18
+## Step 18
 
 Over on the server side we add a method called save to the Cart Controller. The JSON object will be converted to a c# cart object by ASP.NET Automagically. We could save that data, however we just send back a message to the user.
 
@@ -291,6 +291,6 @@ Over on the server side we add a method called save to the Cart Controller. The 
        </pre>
 </div>
 
-# # Step 19
+## Step 19
 
 To finish the demo I edited the default CSS and added same dummy data to the application by editing the Global.asax file and creating a database initializer. I also changed the default controller to Cart so that it would be the first page that loaded if you visited the root of the website.

@@ -35,7 +35,7 @@ You will be able to see the effect in IE9 Platform Preview (but not the beta), c
 
 &nbsp;
 
-# # Step 1
+## Step 1
 
 Add the style tag to the head section of your browser. You will need to add the proprietary syntax for each of the browser vendors.
 
@@ -68,7 +68,7 @@ code></div></pre>
 
 &nbsp;
 
-# # Step 2
+## Step 2
 
 Add the video element making sure to use the same id as we declared in the CSS which was #mVideo.
 

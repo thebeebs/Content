@@ -33,7 +33,7 @@ The [IE test drive website](http://ie.microsoft.com/testdrive/Graphics/OpenType/
 
 OpenType is a technology that is supported by IE10 and Firefox 4+ allows you to use some of the features that are stored in font files to make fonts on webpages look better, you can read more [about it here](http://blogs.msdn.com/b/ie/archive/2012/01/09/css-corner-using-the-whole-font.aspx). So on to todays topic:
 
-# # Small Caps
+## Small Caps
 
 [![An example of small caps](images/1411.smcp_thumb.png "An example of small caps")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/7271.smcp_2.png)
 

@@ -81,7 +81,7 @@ ES6 introduces a syntax for declaring classes. A class allows you to create new 
     };
 </code>
 </pre>
-# # Promises
+## Promises
 
 Promises provide you with a mechanism to schedule work to be done on a value that has not yet been computed. It is an abstraction for managing interactions with asynchronous APIs. Promises allow easier and cleaner asynchronous coding. If you've done any WinJS promises won't be new to you. But now we have complete support directly in the browser without the need for 3rd party libraries. [Check out Mozilla for a detailed overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise): 
 <pre><code class="language-javascript">

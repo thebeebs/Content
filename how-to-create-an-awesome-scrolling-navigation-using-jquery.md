@@ -36,13 +36,13 @@ The main thing flipboard do differently is to have the logo and logo background 
 
 I've documented the main steps to recreate my demo below:
 
-# # Step 1
+## Step 1
 
 First we need to make reference to the jQuery Library as we are going to use it alot. So add the following into the head of your document.
   <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:f32c3428-b7e9-4f15-a8ea-c502c7ff2e88:639c3bbc-45b8-4615-a14d-712e6b70e91f" class="wlWriterEditableSmartContent"><pre class="brush: html;"><script src="images/jquery-1.4.2.min.js" language="javascript"
         type="text/javascript"></script></pre></div>
 
-# # Step 2
+## Step 2
 
 Next we will want to add our HTML to the page this HTML will hold all of the layers and links that we will need to get the example running. The logo div holds our logo image, the image I have used, like the flipboard example has a slight transparency so that we can see the background triangle shine through.
 
@@ -90,7 +90,7 @@ Lastly I have added a button on the right of the screen so that the user can nav
     </div>
 </body></pre></div>
 
-# # Step 3
+## Step 3
 
 The first thing to do in JavaScript is to set up a few variables that we will be used later to store the width and height of the screen and the index of the current **contentItem** that is selected.
 
@@ -110,7 +110,7 @@ $(window).resize(function () {
     sizeContent();
 });</pre></div>
 
-# # Step 4
+## Step 4
 
 The **sizeContent** method does a number of things which I will go through in the next few steps. The first thing it does is capture the width and height of the browser and saves them into variables that can be used later. With jQuery it's easy to get this info by querying the: window object **$(window).width();**
 
@@ -124,7 +124,7 @@ The **sizeContent** method does a number of things which I will go through in th
     changeSelected(currentContent);
 }</pre></div>
 
-# # Step 5
+## Step 5
 
 The **sizeContentItems** function sets the width and height of all object that have the .**contentItem** class name this will give all of the 4 content tems the same height and width as the browser. In jQuery you can select elements by using many different selectors. It's most common to select them either by id or class name but there are many other selectors that you can use [here](http://api.jquery.com/category/selectors/).
 
@@ -139,7 +139,7 @@ Once the elements are selected you can use the** css()** function to set the wid
     $(".contentItem").css('height', theHeight);
 }</pre></div>
 
-# # Step 6
+## Step 6
 
 The **setLeftonContentItems** function loops through each of the .**contentItems** and sets how far left it should be. 
 
@@ -159,7 +159,7 @@ Again I have used the [.css method](http://api.jquery.com/css/) of jQuery to set
     });
 }</pre></div>
 
-# # Step 7 
+## Step 7 
 
 Now we have resized each of the 4 content Items to be the same width as the screen and adjusted the left value we should have 4 div elements that are side by side.
 
@@ -184,7 +184,7 @@ To set overflow hidden add the following to the stylesheet:
    overflow:hidden;
 }</pre></div>
 
-# # Step 8
+## Step 8
 
 To have a different contentItem scroll into view we just need to set the **contentWrappers** **ScrollLeft** Property to the width of the screen multiplied by the index of the content we want to see.
 
@@ -200,7 +200,7 @@ As the size of the browser changes we need to make sure that we reset the the **
 
 [![contentMove](images/6242.contentMove_thumb_36C89113.png "contentMove")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/7317.contentMove_5FB3A61C.png)
 
-# # Step 9
+## Step 9
 
 The last function we call in the **sizeContent** function is **changeSelected**. This makes sure that the 4 navigation links at the bottom of the screen have the correct element highlighted depending on which **contentItem** we are viewing.
 
@@ -251,7 +251,7 @@ So if I wanted to select the 3rd <li> tag then I would use the following code: *
     $("li:eq(" + i + ") a").addClass("selected");
 }</pre></div>
 
-# # Step 10
+## Step 10
 
 Now we have the basics set up we need to wire up the bottom navigation links. For this we need to add an **onclick** property to the **href** tag.&#160; 
 
@@ -286,7 +286,7 @@ The `.animate()` method allows us to create animation effects on any numeric CSS
     $("#contentWrapper").animate({ scrollLeft: i * theWidth }, 1000);
 }</pre></div>
 
-# # Step 11
+## Step 11
 
 We need to scroll the Logo and triangle separately from the content items. For this we don't need any complicated wrappers. Instead we just animate the left property, Both animations take 1000 milliseconds but because they travel different distances they move at different speeds, which gives that nice parallax scrolling effect.
 
@@ -300,7 +300,7 @@ function scrollTriangle(i) {
     $("#triangle").animate({ left: left }, 1000);
 }</pre></div>
 
-# # Step 12
+## Step 12
 
 To wire up the next button on the right of the screen we need to add the function scrollContentNext() to the onClick event of the <a> tag. 
 
@@ -325,7 +325,7 @@ return i;
 }
 </pre></div>
 
-# # Step 13
+## Step 13
 
 Lastly you will want to include the CSS stuff which I won't explain toady, but which is vitally important for the code to work:
 

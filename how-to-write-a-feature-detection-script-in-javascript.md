@@ -64,7 +64,7 @@ So for example the following code would use my test when the browser loads:
 
 [<span>Demo</span> view here ](http://lab.thebeebs.co.uk/featuredetection/audio.html)
 
-# # What if I want to use Modernizr and my own custom tests?
+## What if I want to use Modernizr and my own custom tests?
 
 Modernizr has a rather nice feature that allows you to add custom tests to the library.
 

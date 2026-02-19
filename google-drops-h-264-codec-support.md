@@ -53,13 +53,13 @@ The current state of browser support looks something like this:
 
 &#160;
 
-# # How can you tell if a browser supports a particular codec?
+## How can you tell if a browser supports a particular codec?
 
 This position switch by Google is a great example of why feature detection is so important when coding HTML5. You can't rely on browser sniffing as browser vendors can change the HTML5 features they implement at any time.
 
 Modernizer is a great JavaScript library which will tell you if a visitors browser supports a particular codec. I talked about it earlier in the [month here](http://ubelly.com/2010/12/what-are-you-waiting-for-use-html5-and-css3-today/).
 
-# # How do you encode VP8?
+## How do you encode VP8?
 
 ![thebeebs and Robert Reinhard after his talk at FOTB](images/8371.DSC_0179_7A9ACA22.jpg "thebeebs and Robert Reinhard after his talk at FOTB")
 

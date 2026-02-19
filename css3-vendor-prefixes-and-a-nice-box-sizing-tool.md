@@ -44,7 +44,7 @@ What does this mean? Well it means at version 4 of Firefox, they stopped requiri
 
 If you switch off -webkit then it changes the compatibility of Chrome from 4.0+ to 10.0+.
 
-# # So what?
+## So what?
 
 I think this tool gives people a better understanding of how vendor prefixes work and the various differences between prefixes and browser versions.
 

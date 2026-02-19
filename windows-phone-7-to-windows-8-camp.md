@@ -32,7 +32,7 @@ status: archived
 
 Today in London we ran our first Windows Phone 7 app to Windows 8 porting event. The idea was for people to come along and take their existing Windows Phone 7 applications and turn them into Windows 8 applications. I thought I'd keep a record of the things that we have helped resolve throughout the day in the hope that we would end up with a list of common issues.
 
-# # Async
+## Async
 
 One of the big Differences between WP7 and Windows 8 is the new Async feature of Windows 8. In windows 8 If the API is likely to take longer than around 50ms to execute, it is asynchronous. In some instances Synchronous methods have been replaced with asynchronous ones and this trips up a number of WP7 developers when they try and port their code.
 
@@ -41,7 +41,7 @@ Two really good blog posts on the subject can be found here:
 *   [Keeping apps fast and fluid with asynchrony in the Windows Runtime](http://blogs.msdn.com/b/windowsappdev/archive/2012/03/20/keeping-apps-fast-and-fluid-with-asynchrony-in-the-windows-runtime.aspx)
 *   [Diving deep with WinRT and await](http://blogs.msdn.com/b/windowsappdev/archive/2012/04/24/diving-deep-with-winrt-and-await.aspx)  
 
-# # Does the device have an internet connection?
+## Does the device have an internet connection?
 
 A couple of Windows Phone 7 apps used a very simple mechanism to determine if the device had an internet connection on Windows Phone 7. The common code was:
   <div id="scid:f32c3428-b7e9-4f15-a8ea-c502c7ff2e88:5f2e2366-6c7c-41ed-9cdc-68e6609cf726" class="wlWriterSmartContent" style="float: none; padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px">   <pre class="brush: javascript;">Microsoft.Phone.Net.NetworkInformation.NetworkInterface.NetworkInterfaceType == NetworkInterfaceType.Ethernet</pre>
@@ -61,7 +61,7 @@ var isApproachingDataLimit = cost.ApproachingDataLimit;
 var isRoaming = cost.Roaming;</pre>
 </div>
 
-# # Performing a post to receive an image
+## Performing a post to receive an image
 
 This was kind of a strange issue. One of the apps needed to post to a URL in order to receive an image from a server. Otherwise the image would return with a "You are not allowed to Embed this image warning" after trying a number of things we finally got the following code to work.
 

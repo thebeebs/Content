@@ -115,7 +115,7 @@ document.getElementById('button').addEventListener('click', function () {
 });
 </code></pre> 
 
-# # Push Notification
+## Push Notification
 
 To perform push notifications the browser must support the [Push](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/pushapi/) API and service workers, 
 since Edge dosen't currently support this I will revisit this when it does. If you want more info, [check this out](https://developers.google.com/web/updates/2015/03/push-notifications-on-the-open-web).

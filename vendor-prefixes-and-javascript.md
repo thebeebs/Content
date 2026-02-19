@@ -40,7 +40,7 @@ All CSS properties have a JavaScript Equivalent. However, in JavaScript you can'
 element.style.msTransitionDuration = "3s";
 </pre></div>
 
-# # CSS case-sensitivity
+## CSS case-sensitivity
 
 Generally CSS is case-insensitive (except with XHTML in some browsers). However, it's best practice with vendor prefixes to have them lowercase, the spec that covers this can be [found here](http://www.w3.org/TR/CSS2/syndata.html#vendor-keywords). Therefore CSS vendor prefixes look like this:
 
@@ -50,7 +50,7 @@ Generally CSS is case-insensitive (except with XHTML in some browsers). However,
 *   -webkit-transform (Safari, Chrome)
 <!--EndFragment-->
 
-# # JavaScript case-sensitivity
+## JavaScript case-sensitivity
 
 JavaScript, however, is a case-sensitive language and it's important to note that different browser vendors have taken slightly different approaches to casing Vendor Prefixes. Now before you get to worried, it is very simple to deal with this issue and this article shows a very easy way to deal with it:&#160; [A best practice for programming with vendor prefixes](http://blogs.msdn.com/b/ie/archive/2011/10/28/a-best-practice-for-programming-with-vendor-prefixes.aspx).
 

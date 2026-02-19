@@ -43,7 +43,7 @@ With every new Zoom comes an advancement each with it's own subtle twist. Shooth
 
 &#160;
 
-# # Masking
+## Masking
 
 The Big Brother logo contains a lot of black, this creates a problem because if you darken an image to achieve a black spot on the mosaic then when you Zoom into the image it will be too dark to distinguish what's in the image . To solve the problem Shoothill masked sections of the base image and modified their software to avoid placement of images in these masked areas.
 
@@ -53,7 +53,7 @@ The Big Brother logo contains a lot of black, this creates a problem because if 
 
 &#160;
 
-# # Offsetting
+## Offsetting
 
 In both the the [Fauna and Flora International](http://www.fauna-flora.org/tiger_mosaic.php) project and the Big Brother Project they offset the images slightly so that they do not line up perfectly, this allows a small section of the base image to shine through the mosaic and produces a clearer image at higher zoom levels it also gives the impression that the pictures are random or being loaded on demand.
 
@@ -63,13 +63,13 @@ The being loaded on demand effect is subtle but if you Zoom in and out you will 
 
 &#160;[![Offseting](images/3247.offseting_thumb_6D4069A5.png "Offseting")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/6763.offseting_717A6737.png) 
 
-# # Large Images
+## Large Images
 
 The big brother image in total is around 1/2gb of imagery but&#160; the [Fauna and Flora International](http://www.fauna-flora.org/) Zoom contains around 18 gigabytes of imagery, in fact it remains the largest Deep Zoom ever produced. Support for extremely large images is important with these Mosaics as the clarity of the image improves with the more images you add; when I first Saw the Zoomed out version of the [Tiger](http://www.fauna-flora.org/tiger_mosaic.php) I Had no idea it was made up of other images.
 
 &#160;
 
-# # Tag Clouds
+## Tag Clouds
 
 The Churchill is my personal favourite of all of the Shoothill projects. The software they have used to generate the Deep Zoom rather cleverly tags each Photograph. As the user gains focus on an image a tag cloud appears on the top left hand corner which enables the user to explore other similar images which have the same tag.
 

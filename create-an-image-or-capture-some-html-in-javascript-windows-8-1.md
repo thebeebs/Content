@@ -14,7 +14,7 @@ status: archived
 
 I've been building some Windows 8 apps this week and stumbled across 3 ways in which you can create an image in Windows 8.1 HTML and JavaScript apps. One is to use a canvas element, construct the image as you want it and the use the BitMapEncoder to output a PNG. The second is to use the Windows 8 Webview Control and call the capturePreviewToBlobAsync() function. The third is to use the toBlob() function of the canvas element.
 
-# # Method 1: BitMapEncoder
+## Method 1: BitMapEncoder
 
 If you want to draw an image from scratch pixel by pixel in a bitmap sort of fashion, it's probably best to use the canvas element. Once you've drawn the content you want on your canvas you can create a bitMapEncoder and convert the stream you get from the canvas function getImageData(). The benefit of this approach is that you could switch out the PNG encoder for a JPEG, GIF, TIFF, BMP or JPEG-XR one. Here's is an extract from my SegoeSymbol project which take my canvas element and creates a PNG then saves that to disk. 
 
@@ -33,7 +33,7 @@ Windows.Graphics.Imaging.BitmapEncoder.createAsync(Windows.Graphics.Imaging.Bitm
         });
      })})</pre>
 
-# # Method 2: capturePreviewToBlobAsync 
+## Method 2: capturePreviewToBlobAsync 
 
 On Windows 8.1 using the new WebView control, render some HTML or just navigate to a webpage. One the page has loaded you can then call the Webview.capturePreviewToBlobAsync() function. 
 
@@ -64,7 +64,7 @@ I wrote a simple sample app a moment ago and was able to capture a website to an
     });
 }</pre>
 
-# # Method 3: toBlob
+## Method 3: toBlob
 
 If you're working in the browser rather than in a Windows 8 app you can use blobs to achieve image saving. 
 
