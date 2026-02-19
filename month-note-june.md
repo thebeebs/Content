@@ -1,5 +1,5 @@
 ---
-title: Month Note June
+title: Month Note June 2017
 authors:
 - thebeebs
 intro: This month I have loads of BOT events and projects a tonne of Cognitive Work

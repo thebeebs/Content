@@ -1,5 +1,5 @@
 ---
-title: Month Note July
+title: Month Note July 2017
 authors:
 - thebeebs
 intro: This month I have moved teams

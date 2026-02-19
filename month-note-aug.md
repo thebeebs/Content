@@ -1,5 +1,5 @@
 ---
-title: Month Note August
+title: Month Note August 2017
 authors:
 - thebeebs
 intro: This month I have been to Preston to work on a the black radley project.
