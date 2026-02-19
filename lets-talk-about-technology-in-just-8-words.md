@@ -27,7 +27,7 @@ status: archived
 
 
 
-[![techin8](images/7558.techin8_thumb_46ED9A14.png "techin8")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/6545.techin8_6BBEFD25.png) 
+![techin8](images/7558.techin8_thumb_46ED9A14.png "techin8") 
 
 So every other week we choose one topic.
 

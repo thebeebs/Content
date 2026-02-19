@@ -2,7 +2,7 @@
 title: Imagine Cup and Windows Phone 7
 authors:
 - thebeebs
-intro: '[![The Olive Appreciation Society](images/7737.ima...'
+intro: '![The Olive Appreciation Society](images/7737.ima...'
 types:
 - shorts
 categories:
@@ -28,7 +28,7 @@ status: archived
 
 
 
-[![The Olive Appreciation Society](images/7737.imaginecup_thumb_7FB05091.png "The Olive Appreciation Society")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/8473.imaginecup_3AF4522A.png) 
+[![The Olive Appreciation Society](images/7737.imaginecup_thumb_7FB05091.png "The Olive Appreciation Society") 
 
 The Olive Appreciation Society comprises of two students from the University of Manchester with a passion for thorough planning and marinated olives. They got together and created an incredible application that's become the UK Finalist for the Imagine Cup. 
 
@@ -40,7 +40,7 @@ Two weeks ago I was asked to help the guys get the Windows Phone 7 portion of th
 
 Firstly they used the CameraCaptureTask on the button click, they then wired up the Completed Event Handler and delegated it to the captureComplete handler.
 
-&#160;[![image](images/1805.image_thumb_347D0A35.png "image")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/2068.image_369A08FE.png) 
+&#160;![image](images/1805.image_thumb_347D0A35.png "image") 
 
 &#160;
 
@@ -48,7 +48,7 @@ In the captureComplete handler they grab a stream of the chosen photograph and l
 
 &#160;
 
-[![image](images/6710.image_thumb_54F4241A.png "image")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/6204.image_071B7465.png) 
+![image](images/6710.image_thumb_54F4241A.png "image") 
 
 &#160;
 

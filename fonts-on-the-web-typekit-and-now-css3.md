@@ -2,7 +2,7 @@
 title: Fonts on the web, typekit, and now CSS3
 authors:
 - thebeebs
-intro: '[![TypeKit](images/1323.fonts_thumb_26D84113.png "...'
+intro: '![TypeKit](images/1323.fonts_thumb_26D84113.png "...'
 types:
 - shorts
 categories:
@@ -27,7 +27,7 @@ status: archived
 
 
 
-[![TypeKit](images/1323.fonts_thumb_26D84113.png "TypeKit")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/3718.fonts_557E6FC2.png)A common request from clients is to use their corporate font on their website, sadly the font isn't a [websafe](http://en.wikipedia.org/wiki/Web-safe_fonts) one so inevitably you have to use an image for the headings and revert to a safe font for body content.
+[![TypeKit](images/1323.fonts_thumb_26D84113.png "TypeKit")A common request from clients is to use their corporate font on their website, sadly the font isn't a [websafe](http://en.wikipedia.org/wiki/Web-safe_fonts) one so inevitably you have to use an image for the headings and revert to a safe font for body content.
 
 However, there has been a solution for a long time to this issue. By using @font-face in CSS developers have been able to embed fonts into their websites since Internet Explorer 5. The problem with this approach is that the fonts you can embed are few and far between because of licencing issues. 
 

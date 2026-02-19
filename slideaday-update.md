@@ -43,8 +43,8 @@ HTML5 is already well-supported with Firefox, Safari, Chrome, Opera, and mobile 
 
 &#160;
 
-[![image](images/2425.image_thumb_72AF162A.png "image")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/4150.image_6FC9D744.png)
+![image](images/2425.image_thumb_72AF162A.png "image")
 
 &#160;
 
-[![image](images/1768.image_thumb_58AB303B.png "image")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/1832.image_48EB9B37.png)
+![image](images/1768.image_thumb_58AB303B.png "image")

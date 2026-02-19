@@ -36,7 +36,7 @@ OpenType is a technology that is supported by IE10 and Firefox 4+ allows you to 
 
 Sometimes letters look awkward when they are positioned next to each other. The type designer may fix this by welding two letters together, e.g:
 
-[![liga](images/8360.liga_thumb.png "liga")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/6116.liga_2.png)
+![liga](images/8360.liga_thumb.png "liga")
 
 To enable ligatures in a supported browser you use the CSS below:
   <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:f32c3428-b7e9-4f15-a8ea-c502c7ff2e88:5714241e-8a97-42f1-a948-9e7256e6d874" class="wlWriterEditableSmartContent"><pre class="brush: html;">-moz-font-feature-settings: "liga=1";

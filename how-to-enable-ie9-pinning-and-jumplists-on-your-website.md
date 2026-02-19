@@ -27,7 +27,7 @@ status: archived
 
 
 
-[![image](images/6457.image_thumb_69150AAC.png "image")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/4861.image_6084D7ED.png) 
+![image](images/6457.image_thumb_69150AAC.png "image") 
 
 Wow the [Internet Explorer 9 beta](http://bit.ly/dAVoR8) launch was a whirlwind, I knew that we were working with the [Gorillaz](http://bit.ly/agEavO) and the [BBC](http://www.beautyoftheweb.co.uk/topgear/) but I had no idea about [Facebook](http://www.beautyoftheweb.com/#/experience/facebook), [the killers](http://www.beautyoftheweb.com/#/experience/killers), [LinkedIn](http://www.beautyoftheweb.com/#/experience/linkedin), [twitter](http://www.beautyoftheweb.com/#/experience/twitter), [MySpace](http://www.beautyoftheweb.com/#/experience/myspace) or any of the other [launch partners](http://www.beautyoftheweb.com/#/experience).
 
@@ -37,7 +37,7 @@ During the next 5 days I'm going to write blogs on Pinning and JumpLists, HTML5 
 
 First things first though, I'm going to show you how you can add pinning and JumpLists to your blog or website just like the Gorillaz have. 
 
-[![image](images/7450.image_thumb_4396995D.png "image")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/1106.image_3D133F9A.png) 
+![image](images/7450.image_thumb_4396995D.png "image") 
 
 I managed to add JumpLists and pinning to my blog [thewayithink.co.uk](http://www.thewayithink.co.uk) and I've detailed below how I did it.
 
@@ -52,11 +52,11 @@ Standard favicon files are usually 32x32 or 16x16 pixels in size. These look gre
 To give the best pinning experience you should use a 64x64 favicon. I used [http://www.favicon.co.uk/](http://www.favicon.co.uk/) to create a 64 x 64 icon file and then uploaded it to my site.
 
 You then need to make sure you are using the new favicon by checking the&#160; <link rel="Shortcut Icon"> tag is pointing at the new 64x64 fav.ico file, an example of the tag you should look for is below:
-  <pre class="csharpcode">[![image](images/8105.image_thumb_1619D1AE.png "image")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/5875.image_3E98B3C2.png) </pre>
+  <pre class="csharpcode">![image](images/8105.image_thumb_1619D1AE.png "image") </pre>
 
 Favicons are often cached so you might need to clear out your browser cache, however, once the icon is correctly linked you will now see a better looking icon when you drag the icon from the address bar onto the taskbar.
 
-[![image](images/8117.image_thumb_51A9BAA1.png "image")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/2766.image_5F5C76A9.png) [![image](images/5811.image_thumb_4C2B2430.png "image")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/6557.image_414E42E8.png) 
+![image](images/8117.image_thumb_51A9BAA1.png "image") ![image](images/5811.image_thumb_4C2B2430.png "image") 
 
 **JumpLists**
 
@@ -97,7 +97,7 @@ Once you create your meta tags and put them in between the <head></head> tags in
 
 You can test it by dragging the Icon from the address bar to the taskbar and then right clicking the Icon. A JumpList should appear that will look something like this:
 
-[![clip_image001](images/2768.clip_image001_thumb_12786479.png "clip_image001")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/4747.clip_image001_3BCFAC77.png)
+![clip_image001](images/2768.clip_image001_thumb_12786479.png "clip_image001")
 
 &#160;
 

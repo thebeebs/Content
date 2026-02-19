@@ -61,7 +61,7 @@ The entry point is the class in which you do you background work, so for the use
 
 &#160;
 
-[![App Manifest](images/6175.image_thumb.png "App Manifest. Click for a larger version")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/5100.image_2.png)
+![App Manifest](images/6175.image_thumb.png "App Manifest. Click for a larger version")
 
 On your app initialisation you then just need to register the task.
 

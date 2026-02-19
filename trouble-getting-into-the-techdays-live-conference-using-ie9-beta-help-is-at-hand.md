@@ -112,7 +112,7 @@ The workaround is to retrieve the following details from your meting request:
 
 Once you have this information follow these steps: 
 
-1. Click the [![clip_image002](images/4118.clip_image002_thumb_203F09D5.gif "clip_image002")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/4812.clip_image002_12D50CFF.gif) button on the task bar - bottom left hand side
+1. Click the ![clip_image002](images/4118.clip_image002_thumb_203F09D5.gif "clip_image002") button on the task bar - bottom left hand side
 
 2. Type "Live Meeting" in to the search box on the Start Menu: 
 

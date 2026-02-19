@@ -37,7 +37,7 @@ If you forgot to close the tag, like this:
 
 And you tried to validate the document then you would end up with an error like this:
 
-[![An error message from the W3C Validator](images/8637.image_thumb.png "An error message from the W3C Validator")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/0702.image_2.png)
+![An error message from the W3C Validator](images/8637.image_thumb.png "An error message from the W3C Validator")
 
 However, try the same thing with the [W3C HTML5](http://validator.w3.org) validator and you will discover that it' doesn't have an issue with it.
 

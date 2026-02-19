@@ -36,9 +36,9 @@ It's a great tool but what I love about it isn't the the tool itself its the way
 
 For example if you untick the Gecko vendor prefix (-moz) then the code is removed and the browser compatibility changes Firefox from 3.5+ to 4.0+
 
-[![Screen shot with the Gecko prefix](images/3187.image_thumb_1.png "Screen shot  with the Gecko prefix")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/8461.image_4.png)
+![Screen shot with the Gecko prefix](images/3187.image_thumb_1.png "Screen shot  with the Gecko prefix")
 
-[![Screen shot - without the Gecko Prefix](images/0028.image_thumb.png "Screen shot - without the Gecko Prefix")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/5241.image_2.png)
+![Screen shot - without the Gecko Prefix](images/0028.image_thumb.png "Screen shot - without the Gecko Prefix")
 
 What does this mean? Well it means at version 4 of Firefox, they stopped requiring the vendor prefix. 
 

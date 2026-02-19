@@ -33,7 +33,7 @@ Basically SkyDrive gives you 25gb of online storage for files and photos and one
 
 &#160;
 
-[![The word web app](images/2043.image_thumb_2CDC441A.png "Word App")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/7217.image_1669A593.png)
+![The word web app](images/2043.image_thumb_2CDC441A.png "Word App")
 
 The office Web Apps are stunning, they have been around for a few years now and I've personally not seen any online spread sheet or word processor come close it it in terms feeling like a desktop experience. Which raises an interesting point... Should Web Applications feel like desktop applications? Is it better for a web application to feel like it's desktop counterpart or is there some inherent benefit of changing the UI so it feels more like a website?
 
@@ -41,7 +41,7 @@ Talking of feeling like a desktop application, the new SkyDrive also use IE9 pin
 
 &#160;
 
-[![The Windows 7 jump list for the SkyDrive Website](images/1447.image_thumb_3B57403F.png "Jumplist")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/4087.image_4427488B.png)
+![The Windows 7 jump list for the SkyDrive Website](images/1447.image_thumb_3B57403F.png "Jumplist")
 
 With Windows Phone 7 the process of creating a document on any device is becoming a reality as I can create and edit documents on the phone, sync with SkyDrive edit them in the browser or even in the full blown desktop version of office. 
 

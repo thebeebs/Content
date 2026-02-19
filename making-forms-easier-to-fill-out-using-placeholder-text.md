@@ -34,7 +34,7 @@ status: archived
 
 It works for on regular input fields but also works on on password types. Of course the [placeholder tag is not supported](http://www.caniuse.com/#search=placeholder) by every browser, but a [great polyfill](https://github.com/amiel/html5support) created by [Amiel Martin](https://github.com/amiel) exists which uses JavaScript to add support to unsupported browser.
 
-[![Placeholder Example](images/1856.image_thumb_1.png "Placeholder Example")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/6330.image_4.png)
+![Placeholder Example](images/1856.image_thumb_1.png "Placeholder Example")
 
 You just need to add the scripts to your document:
   <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:f32c3428-b7e9-4f15-a8ea-c502c7ff2e88:54486c60-9203-45c5-98b9-1d75855fcdcc" class="wlWriterEditableSmartContent"><pre class="brush: html;"><script src="images/jquery-1.5.1-vsdoc.js" type="text/javascript"></script>

@@ -49,7 +49,7 @@ a
 
 The [demo page](http://lab.thebeebs.co.uk/printingLinks/) will then look like the below image when it is printed:
 
-[![An image of the printed webpage](images/0361.image_thumb.png "The resultant web page")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/5483.image_2.png)
+![An image of the printed webpage](images/0361.image_thumb.png "The resultant web page")
 
 If you would rather use [inline style](http://lab.thebeebs.co.uk/printingLinks/inline.html) then you could write it like this:
 

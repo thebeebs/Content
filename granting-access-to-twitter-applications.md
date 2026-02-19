@@ -41,4 +41,4 @@ Anyway, I'm off to do some revoking.
 
 &#160;
 
-[![image](images/6765.image_thumb_667D0AA6.png "image")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/5381.image_385334B9.png)
+![image](images/6765.image_thumb_667D0AA6.png "image")

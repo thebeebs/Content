@@ -66,10 +66,10 @@ If the view port is bigger than 751px then the big image is shown. If the view p
 
 I then open up IE9 press F12 to open the developer tools and switch to the network tab. In the network tab I hit the button "Start Capturing" I then navigate to the page. This is what I see:
 
-[![image](images/5684.image_thumb.png "image")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/6354.image_2.png)
+![image](images/5684.image_thumb.png "image")
 
 You will notice that only the big.png file is loaded. As I make the window smaller than 750px the other image switches in and is loaded.
 
-[![image](images/8877.image_thumb_1.png "image")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/6724.image_4.png)
+![image](images/8877.image_thumb_1.png "image")
 
 You can read more about what is and isn't downloaded by [Media Queries in this article](http://blog.assortedgarbage.com/2010/12/css3-media-queries-download-answers/), which also covers the issue display:none not stopping images downloading. 

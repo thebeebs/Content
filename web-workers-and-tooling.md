@@ -38,6 +38,6 @@ My rebuttal is: just because browser support isn't universal, it does not make a
 
 Web Workers do, however, pose a challenge: they have been [notoriously difficult to debug](http://www.nczonline.net/blog/2009/08/25/web-workers-errors-and-debugging/). IE10 Platform Preview 2 showcases a new way to debug Web Workers by using the standard F12 Developer Tools. Up until now it's been necessary to rely on Awkward simulated environments but these new tools allow you to interact with the actual workers directly from the tools. You can add breakpoints, add watches and interrogate the WorkerGlobalScope.
 
-[![IE10 Developer Tools](images/6560.image_thumb_16B0C24E.png "Web Worker Developer Tools")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/6646.image_608F49FE.png)
+![IE10 Developer Tools](images/6560.image_thumb_16B0C24E.png "Web Worker Developer Tools")
 
 Web workers are often cited as being really useful for gaming scenarios, but if you have come across other potential uses it would be great if you could share them in the comments below.

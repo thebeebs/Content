@@ -35,7 +35,7 @@ OpenType is a technology that is supported by IE10 and Firefox 4+ allows you to 
 
 ## Small Caps
 
-[![An example of small caps](images/1411.smcp_thumb.png "An example of small caps")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/7271.smcp_2.png)
+![An example of small caps](images/1411.smcp_thumb.png "An example of small caps")
 
 Capital letters are a good way make certain things standout, however they can look out of place when they are used in conjunction with lowercase letters. Small caps are uppercase characters but are drawn to have the same height and weight as lowercase letters, this ensures they balance well with uppercase letters. Well-designed small capitals are not simply scaled-down versions of normal capitals; they are expertly created to use the same stroke weight as other letters, and a wider aspect ratio which improves readability.
 

@@ -34,7 +34,7 @@ OpenType is a technology that is supported by IE10 and Firefox 4+ allows you to 
 
 ## Numerals
 
-### # [![Number Styles](images/5466.numberstyles_thumb.png "Number Styles")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/7848.numberstyles_2.png)
+### # ![Number Styles](images/5466.numberstyles_thumb.png "Number Styles")
 
 Numbers need to look different when they are used in different contexts. Some styles work in tables and charts, however the same numbers might look rigid and out of place for paragraph text. Numeral styles allow the web designer pick the right style for the right job. The example above which is taken from the [W3C site](http://www.w3.org/TR/css3-fonts/#propdef-font-variant-numeric) shows how you can use various styles to achieve text that is clearer to read and understand. Here are four of the numeral style that are included in some font.
 

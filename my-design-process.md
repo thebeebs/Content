@@ -37,7 +37,7 @@ When I'm doing something for myself, however, I don't have the luxury of a talen
 
 I like to sketch out key ideas. I sometimes sketch the whole site, sometimes i just sketch a key element. On the new site the only thing I sketched was the top bar, I tried lots of variations. Sketching is good because it's easy to change and iterate. My sketches don't look good, many of the designers I work with produces sketches that look incredible, despite this, the process of getting an idea out of your head onto paper is valuable in itself, I don't care what it looks like.
 
-[![sketch](images/8078.sketch_thumb_57423D3D.jpg "sketch")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/5417.sketch_545CFE57.jpg)
+![sketch](images/8078.sketch_thumb_57423D3D.jpg "sketch")
 
 &#160;
 
@@ -49,7 +49,7 @@ After a few hours of playing around and learning I figured out how to do most th
 
 As a base I use [grid960](http://960.gs/) templates, you can get them for all major design packages including fireworks and expression design.
 
-[![thebeebs](images/7827.thebeebs_thumb_29B0F7AD.png "thebeebs")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/5342.thebeebs_6EF974A3.png)
+![thebeebs](images/7827.thebeebs_thumb_29B0F7AD.png "thebeebs")
 
 &#160;
 
@@ -65,7 +65,7 @@ I develop my website so that it looks good in my default browser (currently [IE9
 
 &#160;
 
-[![superpreview](images/6355.superpreview_thumb_444D6DF9.png "superpreview")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/1565.superpreview_1C6A6E9A.png)
+![superpreview](images/6355.superpreview_thumb_444D6DF9.png "superpreview")
 
 &#160;
 

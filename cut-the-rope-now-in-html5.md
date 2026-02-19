@@ -61,9 +61,9 @@ function iterative(y)
 
 Using the IE9 Developer tools you can see that the recursive function (on the left) is called 6 times where as the iterative version (on the right) is called just once. The the case of cut the rope the iterative approach performed better.
 
-[![Recursive](images/7462.image_thumb.png "Recursive")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/7043.image_2.png)
+![Recursive](images/7462.image_thumb.png "Recursive")
 
-[![Iterative](images/5808.image_thumb_1.png "Iterative")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/7450.image_4.png)
+![Iterative](images/5808.image_thumb_1.png "Iterative")
 
 ## Memory Allocation
 

@@ -2,7 +2,7 @@
 title: jQuery 1.4.4 Released with new fadeToggle feature
 authors:
 - thebeebs
-intro: '[![jQuery](images/0257.jQuery_thumb_29056C86.jpg "...'
+intro: '![jQuery](images/0257.jQuery_thumb_29056C86.jpg "...'
 types:
 - shorts
 categories:
@@ -28,7 +28,7 @@ status: archived
 
 
 
-[![jQuery](images/0257.jQuery_thumb_29056C86.jpg "jQuery")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/8171.jQuery_7494C00A.jpg)
+[![jQuery](images/0257.jQuery_thumb_29056C86.jpg "jQuery")
 
 Last week jQuery 1.4.4 was released and I'm glad to tell you that the Microsoft CDN version of jQuery is now available at: 
 

@@ -27,13 +27,13 @@ status: archived
 
 
 
-[![bigbrother](images/4846.bigbrother_thumb_13F2484B.jpg "bigbrother")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/7484.bigbrother_22113748.jpg) The final series of Big brother has kicked off and whilst the latest group of 13 wannabes - including a Beyonce lookalike, a squatter who lives on discarded food, and a double amputee - enter the house, [Shoothill](http://www.shoothill.com/) have been busy producing a Deep Zoom of all the [Big brother contestants](http://tv.uk.msn.com/reality-tv/big-brother/big-brother-house-deep-zoom.aspx).
+![bigbrother](images/4846.bigbrother_thumb_13F2484B.jpg "bigbrother") The final series of Big brother has kicked off and whilst the latest group of 13 wannabes - including a Beyonce lookalike, a squatter who lives on discarded food, and a double amputee - enter the house, [Shoothill](http://www.shoothill.com/) have been busy producing a Deep Zoom of all the [Big brother contestants](http://tv.uk.msn.com/reality-tv/big-brother/big-brother-house-deep-zoom.aspx).
 
 &#160;
 
 Shoothill's latest project allows you to zoom into a giant image of the Big Brother eye to reveal hundreds of pictures of housemates and sets from the reality TV series. The Deep Zoom contains all of the housemates from all of the series, excluding the First. In my opinion Excluding the first series is a good thing because, Nasty Nick and the the winner of the first series Craig both have faces and personalities that were born to be ignored. If you look closely you should be able to spot the late great, princes Diana of the heat Magazine generation, Jade Goody.
 
-&#160;[![Jade Goody](images/6825.jadegoody_thumb_40D78559.png "Jade Goody")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/5023.jadegoody_520B62FC.png) 
+&#160;![Jade Goody](images/6825.jadegoody_thumb_40D78559.png "Jade Goody") 
 
 Since the First Darwin Deep Zoom produced by Shoothill I've been watching the evolution (excuse the pun) of Shoothill's Deep Zoom's with interest. In my time at Microsoft I've seen Shoothill produce the world largest Deep Zoom for [Fauna and Flora International](http://www.fauna-flora.org/tiger_mosaic.php), a stunning history of [Winston Churchill](http://1940.iwm.org.uk/?page_id=527) and now the latest [big brother Deep Zoom](http://tv.uk.msn.com/reality-tv/big-brother/big-brother-house-deep-zoom.aspx).
 
@@ -49,7 +49,7 @@ The Big Brother logo contains a lot of black, this creates a problem because if 
 
 &#160;
 
-[![Masking](images/6740.masking_thumb_13B272BE.png "Masking")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/2146.masking_7DAC072B.png) 
+![Masking](images/6740.masking_thumb_13B272BE.png "Masking") 
 
 &#160;
 
@@ -61,7 +61,7 @@ In both the the [Fauna and Flora International](http://www.fauna-flora.org/tiger
 
 The being loaded on demand effect is subtle but if you Zoom in and out you will see that the images move ever so slightly, this is intended to give an impression that the images are being stitched together on the fly - which of course they aren't -&#160; all of the Shoothill's Zooms are precompiled and that's purely because of the size of the some of the Images; which brings me to my next observation. 
 
-&#160;[![Offseting](images/3247.offseting_thumb_6D4069A5.png "Offseting")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/6763.offseting_717A6737.png) 
+&#160;![Offseting](images/3247.offseting_thumb_6D4069A5.png "Offseting") 
 
 ## Large Images
 
@@ -75,15 +75,15 @@ The Churchill is my personal favourite of all of the Shoothill projects. The sof
 
 &#160;
 
-[![An image showing a Tag cloud on the the top right of an image](images/0458.churchhill_thumb_3BA4D643.png "An image showing a Tag cloud on the the top right of an image")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/1425.churchhill_69DED1FD.png) 
+![An image showing a Tag cloud on the the top right of an image](images/0458.churchhill_thumb_3BA4D643.png "An image showing a Tag cloud on the the top right of an image") 
 
 I was also intrigued to discover that this application now lives inside the Churchill War Rooms in London's Whitehall as an exhibit which I think makes it the first Silverlight museum exhibit anywhere in the world. The exhibit can be controlled by visitors using a roller ball that's provided in front of a huge projector screen.
 
 &#160;
 
-[![War Rooms](images/1524.warrroms_thumb_369272C7.jpg "War Rooms")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/5722.warrroms_513F0EE0.jpg) 
+![War Rooms](images/1524.warrroms_thumb_369272C7.jpg "War Rooms") 
 
-&#160;[![Silverlight in the War Rooms](images/6712.inaction_thumb_1B0D70C4.jpg "Silverlight in the War Rooms")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/8461.inaction_4796A0AA.jpg) 
+&#160;![Silverlight in the War Rooms](images/6712.inaction_thumb_1B0D70C4.jpg "Silverlight in the War Rooms") 
 
 Apparently to convert the web project into an exhibit required only minor changes to ensure the project was only ever made full screen and to remove right click and the tag cloud operations.
 

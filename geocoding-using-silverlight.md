@@ -2,7 +2,7 @@
 title: Geocoding using Silverlight
 authors:
 - thebeebs
-intro: '&#160;[![geocode](images/8371.geocode_thumb_626FC0...'
+intro: '&#160;![geocode](images/8371.geocode_thumb_626FC0...'
 types:
 - shorts
 categories:
@@ -30,7 +30,7 @@ status: archived
 
 
 
-&#160;[![geocode](images/8371.geocode_thumb_626FC03D.png "geocode")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/5732.geocode_1FC09AD2.png) Last night I was reading through the Vision and Scope document for a project that we are involved in with the British Library, one of the requirements was to geocode a search term. If you are not familiar with the term geocoding then congratulations; you're getting out of the house enough. Geocoding is when you take a string of text like "Leaning Tower of Pisa" and convert it into Latitude and Longitude coordinates.
+&#160;[![geocode](images/8371.geocode_thumb_626FC03D.png "geocode") Last night I was reading through the Vision and Scope document for a project that we are involved in with the British Library, one of the requirements was to geocode a search term. If you are not familiar with the term geocoding then congratulations; you're getting out of the house enough. Geocoding is when you take a string of text like "Leaning Tower of Pisa" and convert it into Latitude and Longitude coordinates.
 
 &#160;
 
@@ -62,12 +62,12 @@ The format of the URL is below you just need to replace <<searchQuery>> and <<Ap
 
 &#160;
 
-[![clip_image001](images/0268.clip_image001_thumb_13A55DF4.png "clip_image001")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/1258.clip_image001_397B8457.png)
+![clip_image001](images/0268.clip_image001_thumb_13A55DF4.png "clip_image001")
 
 Inside the method client_DownloadStringCompleted I create a new JObject to parse the returned string and then use the SelectToken method to take the pieces from the JSON that I require and save them to 2 local variables. I then string format these two values into a readable string and then send the result to the text property of a text block.
 
 &#160;
 
-[![clip_image002](images/6076.clip_image002_thumb_02054D5C.png "clip_image002")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/0184.clip_image002_75E3D334.png)
+![clip_image002](images/6076.clip_image002_thumb_02054D5C.png "clip_image002")
 
 That's it... Happy Hacking.

@@ -167,7 +167,7 @@ As we wrapped the **contentItems** inside the div named **contentWrapper**, if w
 
 This will ensure that the bottom horizontal scroll bar on the browser disappears as we no longer have all of the elements visible.
 
-[![overflowHidden](images/8877.overflowHidden_thumb_0C6C85C3.png "overflowHidden")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/0458.overflowHidden_08AEE0F3.png)
+![overflowHidden](images/8877.overflowHidden_thumb_0C6C85C3.png "overflowHidden")
 
 To set the width and height of the **contentWrapper** use the jQuery below.
 
@@ -194,11 +194,11 @@ To have a different contentItem scroll into view we just need to set the **conte
 
 So if we change the **scrollLeft** Property to say 1000 then the second item will now be visible and contentItem1 will be hidden by the CSS overflow:
 
-[![contentMove2](images/2021.contentMove2_thumb_7A604235.png "contentMove2")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/0042.contentMove2_311D9D3A.png)
+![contentMove2](images/2021.contentMove2_thumb_7A604235.png "contentMove2")
 
 As the size of the browser changes we need to make sure that we reset the the **scrollLeft** property otherwise we may end stuck between 2 of the content items. This is why the **moveContent** function is called by the **sizeContent** function.
 
-[![contentMove](images/6242.contentMove_thumb_36C89113.png "contentMove")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/7317.contentMove_5FB3A61C.png)
+![contentMove](images/6242.contentMove_thumb_36C89113.png "contentMove")
 
 ## Step 9
 
@@ -206,7 +206,7 @@ The last function we call in the **sizeContent** function is **changeSelected**.
 
 For example the image below shows what it would look like if **contentItem3** is selected. 
 
-[![image](images/5165.image_thumb_2262CB88.png "image")](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/93/metablogapi/8880.image_4A0947B2.png)&#160;
+![image](images/5165.image_thumb_2262CB88.png "image")&#160;
 
 To do this we have 3 CSS states:
 
