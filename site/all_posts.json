@@ -1,5 +1,138 @@
 [
   {
+    "filename": "no-amount-of-technology-will-turn-a-bad-story-into-a-good-story.md",
+    "title": "No amount of technology will turn a bad story into a good story",
+    "authors": [
+      "thebeebs"
+    ],
+    "intro": "John Lasseter, the legendary animator and co-founder of Pixar, often said, “No amount of technology...",
+    "types": [
+      "article"
+    ],
+    "categories": [
+      "Blog",
+      "Technology"
+    ],
+    "published": "2025/09/18 00:00:00",
+    "updated": "2025/09/18 00:00:00",
+    "status": "active",
+    "year": "2025"
+  },
+  {
+    "filename": "there-is-nothing-either-good-or-bad-but-thinking-makes-it-so.md",
+    "title": "There is nothing either good or bad, but thinking makes it so",
+    "authors": [
+      "thebeebs"
+    ],
+    "intro": "In Hamlet, Shakespeare writes: “There is nothing either good or bad, but thinking makes it so.” Haml...",
+    "types": [
+      "article"
+    ],
+    "categories": [
+      "Blog",
+      "Technology"
+    ],
+    "published": "2025/09/16 00:00:00",
+    "updated": "2025/09/16 00:00:00",
+    "status": "active",
+    "year": "2025"
+  },
+  {
+    "filename": "the-pig-and-the-butchers.md",
+    "title": "The pig and the butchers",
+    "authors": [
+      "thebeebs"
+    ],
+    "intro": "Edgbaston Cricket GroundAt the Vitality Blast T20 Finals Day in Edgbaston last Sunday, I was sitting...",
+    "types": [
+      "article"
+    ],
+    "categories": [
+      "Blog",
+      "Technology"
+    ],
+    "published": "2025/09/16 00:00:00",
+    "updated": "2025/09/16 00:00:00",
+    "status": "active",
+    "year": "2025"
+  },
+  {
+    "filename": "i-do-not-understand.md",
+    "title": "I do not understand",
+    "authors": [
+      "thebeebs"
+    ],
+    "intro": "When the Spanish conquistadors first set foot on the Yucatán Peninsula in 1517, led by Francisco Her...",
+    "types": [
+      "article"
+    ],
+    "categories": [
+      "Blog",
+      "Technology"
+    ],
+    "published": "2025/09/16 00:00:00",
+    "updated": "2025/09/16 00:00:00",
+    "status": "active",
+    "year": "2025"
+  },
+  {
+    "filename": "a-brief-history-of-client-requests.md",
+    "title": "A brief history of client requests",
+    "authors": [
+      "thebeebs"
+    ],
+    "intro": "Over the years, I’ve had a lot of “interesting” requests from clients. Sadly, I didn’t save them, so...",
+    "types": [
+      "article"
+    ],
+    "categories": [
+      "Blog",
+      "Technology"
+    ],
+    "published": "2025/09/15 00:00:00",
+    "updated": "2025/09/15 00:00:00",
+    "status": "active",
+    "year": "2025"
+  },
+  {
+    "filename": "nobody-is-looking.md",
+    "title": "Nobody is looking",
+    "authors": [
+      "thebeebs"
+    ],
+    "intro": "The web feels unloved. You click on something to read, and what you get is a mess of pop-ups, autopl...",
+    "types": [
+      "article"
+    ],
+    "categories": [
+      "Blog",
+      "Technology"
+    ],
+    "published": "2025/09/12 00:00:00",
+    "updated": "2025/09/12 00:00:00",
+    "status": "active",
+    "year": "2025"
+  },
+  {
+    "filename": "how-to-name-a-browser-by-those-who-have.md",
+    "title": "How to name a browser by those who have",
+    "authors": [
+      "thebeebs"
+    ],
+    "intro": "I don’t know about you, but my web browser is the second app I launch every day (just after email)....",
+    "types": [
+      "article"
+    ],
+    "categories": [
+      "Blog",
+      "Technology"
+    ],
+    "published": "2016/01/04 00:00:00",
+    "updated": "2016/01/04 00:00:00",
+    "status": "active",
+    "year": "2016"
+  },
+  {
     "filename": "turning-up-our-noses-at-browser-sniffing.md",
     "title": "Turning up our noses at browser sniffing",
     "authors": [
@@ -190,7 +323,7 @@
   },
   {
     "filename": "app-rewards-and-why-i-dont-want-to-pull-a-blackberry.md",
-    "title": "App rewards and why I don\u2019t want to \u201cPull a BlackBerry\u201d",
+    "title": "App rewards and why I don’t want to “Pull a BlackBerry”",
     "authors": [
       "thebeebs"
     ],
@@ -209,7 +342,7 @@
   },
   {
     "filename": "i-want-to-hide-the-source-of-my-html5-canvas-so-that-people-cant-view-the-source-is-this-possible.md",
-    "title": "I want to hide the source of my HTML5 canvas so that people can\u2019t View the source is this possible?",
+    "title": "I want to hide the source of my HTML5 canvas so that people can’t View the source is this possible?",
     "authors": [
       "thebeebs"
     ],
@@ -283,7 +416,7 @@
   },
   {
     "filename": "dont-miss-these-two-talks-on-azure.md",
-    "title": "Don\u2019t miss these two talks on Azure",
+    "title": "Don’t miss these two talks on Azure",
     "authors": [
       "thebeebs"
     ],
@@ -319,7 +452,7 @@
   },
   {
     "filename": "privacy-its-not-what-you-hide-but-what-you-tell-that-counts.md",
-    "title": "Privacy \u2013 it\u2019s not what you hide but what you tell that counts",
+    "title": "Privacy – it’s not what you hide but what you tell that counts",
     "authors": [
       "thebeebs"
     ],
@@ -730,7 +863,7 @@
   },
   {
     "filename": "the-hunger-games-website-behind-the-scenes.md",
-    "title": "The Hunger Games website \u2013 behind the scenes",
+    "title": "The Hunger Games website – behind the scenes",
     "authors": [
       "thebeebs"
     ],
@@ -955,7 +1088,7 @@
     "authors": [
       "thebeebs"
     ],
-    "intro": "I got an email this morning that claimed \u00a340 ish pounds was speant on my Apple account.",
+    "intro": "I got an email this morning that claimed £40 ish pounds was speant on my Apple account.",
     "types": [
       "shorts"
     ],
@@ -1081,11 +1214,11 @@
   },
   {
     "filename": "lets-talk-about-technology-in-just-8-words.md",
-    "title": "Let\u2019s Talk About Technology In Just 8 Words",
+    "title": "Let’s Talk About Technology In Just 8 Words",
     "authors": [
       "thebeebs"
     ],
-    "intro": "Let\u2019s Talk About Technology In Just 8 Words",
+    "intro": "Let’s Talk About Technology In Just 8 Words",
     "types": [
       "shorts"
     ],
@@ -1694,7 +1827,7 @@
   },
   {
     "filename": "is-pinterests-html5-app-short-changing-users.md",
-    "title": "Is Pinterest\u2019s HTML5 app short-changing users?",
+    "title": "Is Pinterest’s HTML5 app short-changing users?",
     "authors": [
       "thebeebs"
     ],
@@ -1807,7 +1940,7 @@
   },
   {
     "filename": "font-face-isnt-working-on-ie9-inside-of-windows-phone-7.md",
-    "title": "Font-Face isn\u2019t working on IE9 inside of Windows Phone 7.",
+    "title": "Font-Face isn’t working on IE9 inside of Windows Phone 7.",
     "authors": [
       "thebeebs"
     ],
@@ -1844,7 +1977,7 @@
   },
   {
     "filename": "i-have-a-html5-video-thats-over-30-minutes-long-i-want-users-to-be-able-to-skip-to-specific-sections-of-the-video-without-having-to-wait-for-the-entire-video-to-download-is-it-possible.md",
-    "title": "I have a HTML5 video that\u2019s over 30 minutes long, I want users to be able to skip to specific sections of the video without having to wait for the entire video to download, is it possible?",
+    "title": "I have a HTML5 video that’s over 30 minutes long, I want users to be able to skip to specific sections of the video without having to wait for the entire video to download, is it possible?",
     "authors": [
       "thebeebs"
     ],
@@ -2162,7 +2295,7 @@
   },
   {
     "filename": "five-things-you-cant-do-with-html5-yet.md",
-    "title": "Five Things You Can\u2019t Do With HTML5 (yet)",
+    "title": "Five Things You Can’t Do With HTML5 (yet)",
     "authors": [
       "thebeebs"
     ],
@@ -2392,7 +2525,7 @@
   },
   {
     "filename": "no-i-cant-fix-your-computer.md",
-    "title": "No I can\u2019t fix your computer",
+    "title": "No I can’t fix your computer",
     "authors": [
       "thebeebs"
     ],
@@ -2651,7 +2784,7 @@
   },
   {
     "filename": "im-trying-to-display-an-image-over-a-html5-video-but-its-not-showing-up-what-can-i-do.md",
-    "title": "'I'm trying to display an image over a HTML5 video but it\u2019s not showing up, what can I do?'",
+    "title": "'I'm trying to display an image over a HTML5 video but it’s not showing up, what can I do?'",
     "authors": [
       "thebeebs"
     ],
@@ -2672,7 +2805,7 @@
   },
   {
     "filename": "html5-how-to-decide-if-its-right-for-you.md",
-    "title": "HTML5 \u2013 how to decide if it\u2019s right for you",
+    "title": "HTML5 – how to decide if it’s right for you",
     "authors": [
       "thebeebs"
     ],
@@ -2911,7 +3044,7 @@
   },
   {
     "filename": "tech-conferences-a-four-point-survival-guide.md",
-    "title": "Tech conferences \u2013 a four-point survival guide",
+    "title": "Tech conferences – a four-point survival guide",
     "authors": [
       "thebeebs"
     ],
@@ -3389,7 +3522,7 @@
     "authors": [
       "thebeebs"
     ],
-    "intro": "In this workshop you will work together in squads to complete the mission \u2013 becoming the Dev Star.",
+    "intro": "In this workshop you will work together in squads to complete the mission – becoming the Dev Star.",
     "types": [
       "speaking"
     ],
@@ -3606,7 +3739,7 @@
   },
   {
     "filename": "html5-security-new-target-for-lazy-reporting-by-the-bbc.md",
-    "title": "HTML5 security \u2013 new target for lazy reporting by the BBC",
+    "title": "HTML5 security – new target for lazy reporting by the BBC",
     "authors": [
       "thebeebs"
     ],
@@ -3682,7 +3815,7 @@
   },
   {
     "filename": "html5-in-2012-the-year-of-mobile-first.md",
-    "title": "HTML5 in 2012 \u2013 the year of mobile first?",
+    "title": "HTML5 in 2012 – the year of mobile first?",
     "authors": [
       "thebeebs"
     ],
@@ -3793,7 +3926,7 @@
   },
   {
     "filename": "6-tips-for-landing-a-developer-job.md",
-    "title": "6\u00bd tips for landing a developer job",
+    "title": "6½ tips for landing a developer job",
     "authors": [
       "thebeebs"
     ],
@@ -3928,7 +4061,7 @@
   },
   {
     "filename": "do-not-track-really-just-dont.md",
-    "title": "Do not track (really, just don\u2019t)",
+    "title": "Do not track (really, just don’t)",
     "authors": [
       "thebeebs"
     ],
@@ -3965,7 +4098,7 @@
   },
   {
     "filename": "html5-not-just-because-its-new-and-shiny.md",
-    "title": "HTML5 - Not just because it\u2019s new and shiny",
+    "title": "HTML5 - Not just because it’s new and shiny",
     "authors": [
       "thebeebs"
     ],
