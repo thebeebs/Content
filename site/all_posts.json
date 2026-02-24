@@ -1,5 +1,173 @@
 [
   {
+    "filename": "aws-cross-account-data-sharing-for-amazon-redshift.md",
+    "title": "Cross-Account Data Sharing for Amazon Redshift",
+    "authors": [
+      "thebeebs"
+    ],
+    "intro": "Amazon Redshift's cross-account data sharing feature revolutionizes how organizations collaborate on data analytics.",
+    "types": [
+      "article"
+    ],
+    "categories": [
+      "AWS",
+      "Cloud",
+      "External"
+    ],
+    "published": "2021/06/01 12:00:00",
+    "updated": "2021/06/01 12:00:00",
+    "status": "active",
+    "year": "2021",
+    "external_url": "https://aws.amazon.com/blogs/aws/cross-account-data-sharing-for-amazon-redshift/"
+  },
+  {
+    "filename": "aws-new-aws-bugbust-its-game-over-for-bugs.md",
+    "title": "New – AWS BugBust: It's Game Over for Bugs",
+    "authors": [
+      "thebeebs"
+    ],
+    "intro": "AWS BugBust represents a gamified approach to reducing technical debt at scale.",
+    "types": [
+      "article"
+    ],
+    "categories": [
+      "AWS",
+      "Cloud",
+      "External"
+    ],
+    "published": "2021/06/01 12:00:00",
+    "updated": "2021/06/01 12:00:00",
+    "status": "active",
+    "year": "2021",
+    "external_url": "https://aws.amazon.com/blogs/aws/new-aws-bugbust-its-game-over-for-bugs/"
+  },
+  {
+    "filename": "aws-file-access-auditing-is-now-available-for-amazon-fsx-for-windows-file-server.md",
+    "title": "File Access Auditing Is Now Available for Amazon FSx for Windows File Server",
+    "authors": [
+      "thebeebs"
+    ],
+    "intro": "File access auditing brings enterprise-grade security monitoring to Amazon FSx for Windows File Server.",
+    "types": [
+      "article"
+    ],
+    "categories": [
+      "AWS",
+      "Cloud",
+      "External"
+    ],
+    "published": "2021/06/01 12:00:00",
+    "updated": "2021/06/01 12:00:00",
+    "status": "active",
+    "year": "2021",
+    "external_url": "https://aws.amazon.com/blogs/aws/file-access-auditing-is-now-available-for-amazon-fsx-for-windows-file-server/"
+  },
+  {
+    "filename": "aws-new-aws-app-runner-from-code-to-a-scalable-secure-web-application-in-minutes.md",
+    "title": "New – AWS App Runner: From Code to a Scalable, Secure Web Application in Minutes",
+    "authors": [
+      "thebeebs"
+    ],
+    "intro": "AWS App Runner simplifies the container deployment workflow, removing the complexity of infrastructure management.",
+    "types": [
+      "article"
+    ],
+    "categories": [
+      "AWS",
+      "Cloud",
+      "External"
+    ],
+    "published": "2021/06/01 12:00:00",
+    "updated": "2021/06/01 12:00:00",
+    "status": "active",
+    "year": "2021",
+    "external_url": "https://aws.amazon.com/blogs/aws/app-runner-from-code-to-scalable-secure-web-apps/"
+  },
+  {
+    "filename": "aws-red-hat-openshift-service-on-aws-now-ga.md",
+    "title": "Red Hat OpenShift Service on AWS Now GA",
+    "authors": [
+      "thebeebs"
+    ],
+    "intro": "Red Hat OpenShift Service on AWS bridges the gap between Kubernetes expertise and AWS cloud capabilities.",
+    "types": [
+      "article"
+    ],
+    "categories": [
+      "AWS",
+      "Cloud",
+      "External"
+    ],
+    "published": "2021/06/01 12:00:00",
+    "updated": "2021/06/01 12:00:00",
+    "status": "active",
+    "year": "2021",
+    "external_url": "https://aws.amazon.com/blogs/aws/red-hat-openshift-service-on-aws-now-ga/"
+  },
+  {
+    "filename": "aws-amplify-flutter-is-now-generally-available-build-beautiful-cross-platform-apps.md",
+    "title": "Amplify Flutter is Now Generally Available: Build Beautiful Cross-Platform Apps",
+    "authors": [
+      "thebeebs"
+    ],
+    "intro": "AWS Amplify's Flutter support extends cross-platform development to include AWS backend services.",
+    "types": [
+      "article"
+    ],
+    "categories": [
+      "AWS",
+      "Cloud",
+      "External"
+    ],
+    "published": "2021/06/01 12:00:00",
+    "updated": "2021/06/01 12:00:00",
+    "status": "active",
+    "year": "2021",
+    "external_url": "https://aws.amazon.com/blogs/aws/amplify-flutter-is-now-generally-available/"
+  },
+  {
+    "filename": "aws-aws-privatelink-for-amazon-s3-is-now-generally-available.md",
+    "title": "AWS PrivateLink for Amazon S3 is Now Generally Available",
+    "authors": [
+      "thebeebs"
+    ],
+    "intro": "AWS PrivateLink for S3 enhances security by enabling private connectivity without internet exposure.",
+    "types": [
+      "article"
+    ],
+    "categories": [
+      "AWS",
+      "Cloud",
+      "External"
+    ],
+    "published": "2021/06/01 12:00:00",
+    "updated": "2021/06/01 12:00:00",
+    "status": "active",
+    "year": "2021",
+    "external_url": "https://aws.amazon.com/blogs/aws/aws-privatelink-for-amazon-s3-is-now-generally-available/"
+  },
+  {
+    "filename": "aws-new-multiple-private-marketplace-catalogs.md",
+    "title": "New – Multiple Private Marketplace Catalogs",
+    "authors": [
+      "thebeebs"
+    ],
+    "intro": "Multiple Private Marketplace catalogs give organizations granular control over software procurement.",
+    "types": [
+      "article"
+    ],
+    "categories": [
+      "AWS",
+      "Cloud",
+      "External"
+    ],
+    "published": "2021/06/01 12:00:00",
+    "updated": "2021/06/01 12:00:00",
+    "status": "active",
+    "year": "2021",
+    "external_url": "https://aws.amazon.com/blogs/aws/new-multiple-private-marketplace-catalogs/"
+  },
+  {
     "filename": "no-amount-of-technology-will-turn-a-bad-story-into-a-good-story.md",
     "title": "No amount of technology will turn a bad story into a good story",
     "authors": [
