@@ -127,4 +127,4 @@ One small thing — before you start, could you just send me a quick explainer o
 
 ## Closing Thoughts
 
-> Trends come and go, buzzwords rise and fall, but one thing remains: those who don't build the thing often get caught up in hype, and developers are frequently the ones tasked with delivering.
+Trends come and go, buzzwords rise and fall, but one thing remains: those who don't build the thing often get caught up in hype, and developers are frequently the ones tasked with delivering.

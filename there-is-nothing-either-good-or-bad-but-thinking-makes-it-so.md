@@ -15,6 +15,6 @@ Or steam engines. In the 19th century, doctors and newspaper editors argued that
 
 Even books have had their turn as a menace. In the 18th and 19th centuries, there was moral panic about "reading mania." Critics claimed that too much time with novels would overstimulate the mind, weaken eyesight, and lead young people into idleness or fantasy. 
 
-> History is full of examples like these. Each innovation arrives, and alongside the excitement comes fear.
+History is full of examples like these. Each innovation arrives, and alongside the excitement comes fear.
 
 We should remember this when looking at the technologies arriving today. Healthy caution is wise, but quick judgment is rarely accurate. What seems threatening now may one day feel as ordinary as a bar of chocolate, a train ride, or a good book.

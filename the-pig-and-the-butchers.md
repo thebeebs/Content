@@ -13,4 +13,4 @@ The cameras picked it up and put the whole chase on the big screens, and the cro
 
 Later, I learned from a sign in the toilets that this was more than just fancy dress. The tradition goes back to the 19th century, when a pig really did interrupt a match at Edgbaston. 
 
-> What started as an accident on the field has become part of the culture in the stands, a small reminder that cricket is as much about tradition as it is the game itself.
+What started as an accident on the field has become part of the culture in the stands, a small reminder that cricket is as much about tradition as it is the game itself.
